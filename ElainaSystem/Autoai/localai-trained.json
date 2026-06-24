@@ -1,0 +1,478 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "created": "2026-06-03",
+    "source": "autoai-conversations.jsonl",
+    "total_conversations": 103,
+    "description": "Learned patterns from real user interactions with Elaina Asisten"
+  },
+  "command_mappings": {
+    "menuanime": {
+      "nl_examples": [
+        "coba buka menu anime",
+        "menu anime"
+      ],
+      "args_examples": [],
+      "count": 2
+    },
+    "ryo": {
+      "nl_examples": [
+        "ryo"
+      ],
+      "args_examples": [],
+      "count": 1
+    },
+    "elaina": {
+      "nl_examples": [
+        "elaina asisten",
+        "cari kan foto elaina",
+        "elaina"
+      ],
+      "args_examples": [
+        {
+          "userText": "elaina asisten",
+          "args": [
+            "asisten"
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "mancing": {
+      "nl_examples": [
+        "mancing"
+      ],
+      "args_examples": [],
+      "count": 1
+    },
+    "afk-mancing": {
+      "nl_examples": [
+        "afk mancing 60 menit",
+        "afk mancing 60",
+        "afk mancing ikan 60 menit"
+      ],
+      "args_examples": [
+        {
+          "userText": "afk mancing 60",
+          "args": [
+            "60"
+          ]
+        },
+        {
+          "userText": "afk mancing 60 menit",
+          "args": [
+            "60"
+          ]
+        },
+        {
+          "userText": "afk mancing 60",
+          "args": [
+            "60"
+          ]
+        },
+        {
+          "userText": "afk mancing ikan 60 menit",
+          "args": [
+            "60"
+          ]
+        },
+        {
+          "userText": "afk mancing 60",
+          "args": [
+            "60"
+          ]
+        }
+      ],
+      "count": 6
+    },
+    "ai": {
+      "nl_examples": [
+        "ai"
+      ],
+      "args_examples": [],
+      "count": 5
+    },
+    "tas-mancing": {
+      "nl_examples": [
+        "tas mancing"
+      ],
+      "args_examples": [],
+      "count": 4
+    },
+    "beli-pancing": {
+      "nl_examples": [
+        "beli pancing fiber"
+      ],
+      "args_examples": [
+        {
+          "userText": "beli pancing fiber",
+          "args": [
+            "fiber"
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "set-pancing": {
+      "nl_examples": [
+        "set pancing mythrill",
+        "set pancing fiber"
+      ],
+      "args_examples": [
+        {
+          "userText": "set pancing fiber",
+          "args": [
+            "fiber"
+          ]
+        },
+        {
+          "userText": "set pancing mythrill",
+          "args": [
+            "mythrill"
+          ]
+        },
+        {
+          "userText": "set pancing mythrill",
+          "args": [
+            "mythrill"
+          ]
+        }
+      ],
+      "count": 3
+    },
+    "buy-pancing": {
+      "nl_examples": [
+        "list pancing"
+      ],
+      "args_examples": [
+        {
+          "userText": "list pancing",
+          "args": [
+            "list"
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "shop-pancing": {
+      "nl_examples": [
+        "shop pancing"
+      ],
+      "args_examples": [],
+      "count": 1
+    },
+    "menu-mancing": {
+      "nl_examples": [
+        "menu mancing"
+      ],
+      "args_examples": [],
+      "count": 1
+    },
+    "menuai": {
+      "nl_examples": [
+        "ai, bisa gak buka menu"
+      ],
+      "args_examples": [],
+      "count": 1
+    },
+    "ping": {
+      "nl_examples": [
+        "ping"
+      ],
+      "args_examples": [],
+      "count": 1
+    },
+    "anime-list": {
+      "nl_examples": [
+        "anime-list"
+      ],
+      "args_examples": [],
+      "count": 1
+    }
+  },
+  "response_templates": {
+    "followup": [
+      {
+        "userText": "Saya mau mancing",
+        "aiText": "Baik, kita lihat dulu. Kamu mau mancing, ya? Untuk itu, kamu bisa coba perintah `Mancing` atau `Pancing`.",
+        "key_phrases": [
+          "lihat dulu. kamu mau",
+          "bisa coba perintah `mancing`",
+          "coba perintah `mancing` atau"
+        ]
+      },
+      {
+        "userText": "Shop umpan",
+        "aiText": "Baik, kita lihat dulu. Sepertinya kamu ingin membuka toko umpan ya. Kamu bisa coba pakai perintah `shop-umpan` untuk melihat daftar umpan yang tersedia.",
+        "key_phrases": [
+          "lihat dulu. sepertinya kamu",
+          "bisa coba pakai perintah",
+          "coba pakai perintah `shop-umpan`"
+        ]
+      },
+      {
+        "userText": "Ganti pancing",
+        "aiText": "Oh, kamu mau ganti pancing yang sekarang aktif? Untuk itu, kamu bisa pakai perintah `ganti rod` lalu diikuti nama pancing yang kamu inginkan.",
+        "key_phrases": [
+          "bisa pakai perintah `ganti",
+          "pakai perintah `ganti rod`"
+        ]
+      },
+      {
+        "userText": "Ganti rod",
+        "aiText": "Untuk mengganti rod, kamu perlu tahu nama rod yang ingin kamu pakai. Coba ketik `ganti rod [nama rod]` ya.",
+        "key_phrases": [
+          "coba ketik `ganti rod",
+          "ketik `ganti rod [nama"
+        ]
+      },
+      {
+        "userText": "*.buy-pancing list*.",
+        "aiText": "Kamu bisa membeli *Pancing Fiber* seharga Rp250.000 dengan mengetik `buy-pancing Fiber`.",
+        "key_phrases": [
+          "bisa membeli *pancing fiber*"
+        ]
+      },
+      {
+        "userText": "Sm²",
+        "aiText": "Sama-sama. Senang bisa membantu.",
+        "key_phrases": [
+          "bisa membantu."
+        ]
+      },
+      {
+        "userText": "Gak bisa lah. Udah gue latih ai. Ama si Dani",
+        "aiText": "Hm, menarik sekali ceritamu. Tapi, apa yang kamu maksud dengan \"gak bisa lah\" dan kaitannya dengan pelatihan AI-mu?",
+        "key_phrases": [
+          "bisa lah\" dan kaitannya"
+        ]
+      },
+      {
+        "userText": "Namanya elaina bot ya",
+        "aiText": "Betul sekali. Kamu bisa panggil aku Elaina.",
+        "key_phrases": [
+          "bisa panggil aku elaina."
+        ]
+      }
+    ],
+    "reply": [
+      {
+        "userText": "Kamau bisa membantu saya kan",
+        "aiText": "Tentu saja aku bisa membantumu. Katakan saja apa yang kamu butuhkan.",
+        "key_phrases": [
+          "bisa membantumu. katakan saja"
+        ]
+      },
+      {
+        "userText": "sok introvert ni bot",
+        "aiText": "Hm, bukan sok introvert. Aku hanya tidak bisa membagikan detail internal tentang bagaimana aku bekerja. Itu informasi yang memang tidak dibuka untuk umum, seperti yang sudah kubilang.",
+        "key_phrases": [
+          "bisa membagikan detail internal"
+        ]
+      },
+      {
+        "userText": "Ya betul",
+        "aiText": "Oh, jadi maksudmu, karena AI-mu sudah dilatih oleh Dani, itu berarti ada batasan atau hal yang tidak bisa aku lakukan? Aku ingin tahu lebih detail tentang batasan itu dan apa yang Dani ajarkan.",
+        "key_phrases": [
+          "bisa aku lakukan? aku"
+        ]
+      },
+      {
+        "userText": "Ada batas yang harus di tolak. Dan ia harus sopan dan bisa menanggapi dengan Ramah",
+        "aiText": "Baik, kita lihat dulu. Jadi, yang kamu maksud \"batasan\" itu adalah aku harus menolak hal-hal tertentu, harus selalu sopan, dan ramah dalam menanggapi, begitu? Ini lebih ke aturan perilaku, bukan batas",
+        "key_phrases": [
+          "lihat dulu. jadi, yang"
+        ]
+      },
+      {
+        "userText": "Aku Sampek gak bisa berkata kata",
+        "aiText": "Oh, sampai tidak bisa berkata-kata, ya? Aku harap itu karena takjub atau kagum, bukan karena bingung atau kesal. Kalau ada yang ingin kamu tanyakan atau diskusikan, jangan sungkan.",
+        "key_phrases": [
+          "bisa berkata-kata, ya? aku"
+        ]
+      },
+      {
+        "userText": "Oke makasih",
+        "aiText": "Sama-sama. Ada lagi yang bisa aku bantu?",
+        "key_phrases": [
+          "bisa aku bantu?"
+        ]
+      },
+      {
+        "userText": "Coba kasih saya teka teki",
+        "aiText": "Baik, ini dia: Aku selalu ada di depanmu, tapi tak bisa kau lihat. Aku selalu ada di belakangmu, tapi tak bisa kau sentuh. Siapakah aku?",
+        "key_phrases": [
+          "bisa kau lihat. aku",
+          "bisa kau sentuh. siapakah"
+        ]
+      },
+      {
+        "userText": "Tuhan",
+        "aiText": "Bukan Tuhan. Coba pikirkan lagi, sesuatu yang selalu ada di depanmu (masa depan) dan di belakangmu (masa lalu), tapi tidak bisa disentuh atau dilihat secara fisik.",
+        "key_phrases": [
+          "coba pikirkan lagi, sesuatu",
+          "bisa disentuh atau dilihat"
+        ]
+      }
+    ],
+    "ambient": [
+      {
+        "userText": "Hai",
+        "aiText": "Hai juga. Ada yang bisa kubantu?",
+        "key_phrases": [
+          "bisa kubantu?"
+        ]
+      },
+      {
+        "userText": "Hai gusy",
+        "aiText": "Hai juga. Ada yang bisa kubantu?",
+        "key_phrases": [
+          "bisa kubantu?"
+        ]
+      },
+      {
+        "userText": "Elaina apa kabar",
+        "aiText": "Kabar baik, tentu saja. Ada yang bisa kubantu?",
+        "key_phrases": [
+          "bisa kubantu?"
+        ]
+      },
+      {
+        "userText": "Halo ai",
+        "aiText": "Halo juga. Ada yang bisa kubantu?",
+        "key_phrases": [
+          "bisa kubantu?"
+        ]
+      },
+      {
+        "userText": "Halo",
+        "aiText": "Halo juga. Ada yang bisa kubantu?",
+        "key_phrases": [
+          "bisa kubantu?"
+        ]
+      }
+    ]
+  },
+  "contextual_patterns": {},
+  "download_knowledge": {
+    "tiktok": {
+      "platforms": [
+        "tiktok.com",
+        "vm.tiktok.com",
+        "vt.tiktok.com"
+      ],
+      "patterns": [
+        "tiktok",
+        "tt",
+        "fyp"
+      ]
+    },
+    "instagram": {
+      "platforms": [
+        "instagram.com",
+        "instagr.am"
+      ],
+      "patterns": [
+        "instagram",
+        "ig",
+        "reel",
+        "post"
+      ]
+    },
+    "facebook": {
+      "platforms": [
+        "facebook.com",
+        "fb.com",
+        "fb.watch"
+      ],
+      "patterns": [
+        "facebook",
+        "fb",
+        "video fb"
+      ]
+    },
+    "youtube": {
+      "platforms": [
+        "youtube.com",
+        "youtu.be",
+        "m.youtube.com"
+      ],
+      "patterns": [
+        "youtube",
+        "yt",
+        "lagu",
+        "musik",
+        "video"
+      ]
+    },
+    "twitter": {
+      "platforms": [
+        "twitter.com",
+        "x.com",
+        "t.co"
+      ],
+      "patterns": [
+        "twitter",
+        "tweet",
+        "x.com"
+      ]
+    },
+    "pinterest": {
+      "platforms": [
+        "pinterest.com",
+        "pin.it"
+      ],
+      "patterns": [
+        "pinterest",
+        "pin"
+      ]
+    },
+    "capcut": {
+      "platforms": [
+        "capcut.com",
+        "capcutpro.com"
+      ],
+      "patterns": [
+        "capcut",
+        "template"
+      ]
+    },
+    "mediafire": {
+      "platforms": [
+        "mediafire.com"
+      ],
+      "patterns": [
+        "mediafire",
+        "mf"
+      ]
+    },
+    "snackvideo": {
+      "platforms": [
+        "snackvideo.com"
+      ],
+      "patterns": [
+        "snack",
+        "snackvideo"
+      ]
+    },
+    "likee": {
+      "platforms": [
+        "likee.com",
+        "likee.video"
+      ],
+      "patterns": [
+        "likee",
+        "like"
+      ]
+    },
+    "hdvid": {
+      "platforms": [
+        "hdvid.com"
+      ],
+      "patterns": [
+        "hdvid",
+        "hd video"
+      ]
+    }
+  }
+}

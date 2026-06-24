@@ -1,0 +1,1711 @@
+[
+  {
+    "_id": "chat::6285649689059@s.whatsapp.net",
+    "activeSessions": {},
+    "autoai": false,
+    "autovn": false,
+    "chatId": "6285649689059@s.whatsapp.net",
+    "counts": {
+      "history": 0,
+      "memories": 0,
+      "userProfiles": 0,
+      "userThreads": 0,
+      "glossary": 0,
+      "activeSessions": 0
+    },
+    "glossary": {},
+    "history": [],
+    "memories": [],
+    "params": {
+      "warningFilter": true,
+      "executionMode": "smart",
+      "commandRouting": true,
+      "intentGuard": true,
+      "intentLevel": "normal",
+      "commandScope": "flex",
+      "leadWordTrim": true,
+      "aiTextGuard": true,
+      "transcriptGuard": true,
+      "transcriptLineLimit": 8,
+      "transcriptCharLimit": 700,
+      "commandMaxWords": 22,
+      "commandMaxChars": 180,
+      "historyLimit": 10,
+      "aiTemperature": 0.8,
+      "aiMaxTokens": 200,
+      "beginnerMode": true,
+      "teachMode": true,
+      "stepByStepMode": true,
+      "proactiveClarify": true,
+      "exampleMode": true,
+      "followUpQuestion": true,
+      "followUpTrigger": true,
+      "empathyBoost": true,
+      "memoryEnabled": true,
+      "memoryUserProfile": true,
+      "memoryLimit": 24,
+      "memorySummaryLimit": 8,
+      "memoryThreadEnabled": true,
+      "memoryRecallLimit": 6,
+      "memoryTopicLimit": 6,
+      "memoryQuestionTracking": true,
+      "memoryEmotionTracking": true,
+      "messageLogLearning": true,
+      "commandLearning": false,
+      "messageRecallEnabled": true,
+      "messageRecallLimit": 8,
+      "messageRecallWindowMs": 2700000,
+      "glossaryLearning": true,
+      "unknownTermTracking": true,
+      "glossaryRecallLimit": 4,
+      "analyticalMode": true,
+      "selfCheckMode": true,
+      "dangerousMemoryFilter": true,
+      "sensitiveMemoryFilter": true,
+      "mentionTrigger": true,
+      "replyTrigger": true,
+      "aiTimeoutMs": 30000,
+      "aiTopP": 0.95,
+      "aiPresencePenalty": 0.15,
+      "aiFrequencyPenalty": 0.05,
+      "ambientTrigger": true,
+      "ambientMinWords": 2,
+      "ambientMaxChars": 280,
+      "followUpWindowMs": 420000,
+      "scopedHistoryOnly": true,
+      "scopedMemoryOnly": true,
+      "compactPromptMode": true,
+      "shortReplyMode": true,
+      "replySentenceLimit": 3,
+      "replyBulletLimit": 4,
+      "identityGuard": true,
+      "greetingTrigger": true,
+      "botNameAware": true,
+      "laughIgnore": true,
+      "modelProfileAuto": true,
+      "smallModelOptimize": true,
+      "smallModelHistoryLimit": 4,
+      "smallModelMemorySummaryLimit": 3,
+      "smallModelMaxTokens": 140,
+      "smallModelTemperature": 0.45,
+      "smallModelTopP": 0.8,
+      "smallModelPresencePenalty": 0.05,
+      "smallModelFrequencyPenalty": 0.05,
+      "smallModelReplySentenceLimit": 2,
+      "smallModelReplyBulletLimit": 3
+    },
+    "updatedAt": "2026-03-23T12:37:27.860Z",
+    "userProfiles": {},
+    "userThreads": {}
+  },
+  {
+    "_id": "chat::120363187859302787@g.us",
+    "activeSessions": {
+      "6281241900398@s.whatsapp.net": {
+        "lastAiAt": 1774277279130,
+        "lastTrigger": "reply",
+        "lastUserText": "oke"
+      }
+    },
+    "autoai": true,
+    "autovn": false,
+    "chatId": "120363187859302787@g.us",
+    "counts": {
+      "history": 10,
+      "memories": 24,
+      "userProfiles": 21,
+      "userThreads": 21,
+      "glossary": 0,
+      "activeSessions": 1,
+      "learnedParamsUsers": 5
+    },
+    "glossary": {},
+    "history": [
+      {
+        "u": "Gg gak model ai gue",
+        "a": "Hm, \"Gg gak model ai gue\" ini maksudnya bagaimana, ya? Apakah AI yang kamu maksud itu tidak berfungsi sesuai harapan, atau ada hal lain yang ingin kamu sampaikan tentang AI-mu?",
+        "at": 1774274994730,
+        "sender": "6285649689059@s.whatsapp.net",
+        "senderName": "NICKY",
+        "trigger": "followup",
+        "quoted": "oke"
+      },
+      {
+        "u": "Ohhh oke lah",
+        "a": "Baiklah, kalau begitu. Semoga tidak ada masalah lagi, ya.",
+        "at": 1774275109835,
+        "sender": "6285649689059@s.whatsapp.net",
+        "senderName": "NICKY",
+        "trigger": "reply",
+        "quoted": "Brat Image lagi error atau maintenance."
+      },
+      {
+        "u": "@128793805119630 biar belajar ai nya",
+        "a": "Oh, begitu. Jadi kamu ingin agar AI dari kontak tersebut belajar, ya? Kalau begitu, pastikan kamu memberikannya interaksi yang cukup agar dia bisa mengumpulkan data dan meningkatkan kemampuannya.",
+        "at": 1774275197021,
+        "sender": "6285649689059@s.whatsapp.net",
+        "senderName": "NICKY",
+        "trigger": "followup",
+        "quoted": ""
+      },
+      {
+        "u": "Kamu itu, ai yang sudah saya rangcang agar bisa belajar dari log chat group maupun DM",
+        "a": "Jadi, kamu merancangku untuk belajar dari log chat group dan DM, ya? Itu menarik sekali. Aku akan terus menganalisis interaksi yang ada untuk meningkatkan pemahamanku.",
+        "at": 1774275252787,
+        "sender": "6285649689059@s.whatsapp.net",
+        "senderName": "NICKY",
+        "trigger": "reply",
+        "quoted": "Elaina Asistem Oh, begitu. Jadi kamu ingin agar AI dari kontak tersebut belajar, ya? Kalau begitu, pastikan kamu memberikannya interaksi yang cukup agar dia bisa mengumpulkan da..."
+      },
+      {
+        "u": "Oke",
+        "a": "Oke.",
+        "at": 1774275270073,
+        "sender": "6285649689059@s.whatsapp.net",
+        "senderName": "NICKY",
+        "trigger": "reply",
+        "quoted": "Elaina Asistem Jadi, kamu merancangku untuk belajar dari log chat group dan DM, ya? Itu menarik sekali. Aku akan terus menganalisis interaksi yang ada untuk meningkatkan pemaham..."
+      },
+      {
+        "u": "Neko",
+        "a": "Neko itu nama sebuah grup, ya? Apakah grup tersebut yang sedang kamu maksud dalam percakapan ini?",
+        "at": 1774275487990,
+        "sender": "6285649689059@s.whatsapp.net",
+        "senderName": "NICKY",
+        "trigger": "followup",
+        "quoted": "yg di grup mana itu?"
+      },
+      {
+        "u": "Ya betul",
+        "a": "Baik, jadi Neko itu nama grup yang kamu maksud. Aku mengerti sekarang.",
+        "at": 1774275526495,
+        "sender": "6285649689059@s.whatsapp.net",
+        "senderName": "NICKY",
+        "trigger": "reply",
+        "quoted": "Elaina Asistem Neko itu nama sebuah grup, ya? Apakah grup tersebut yang sedang kamu maksud dalam percakapan ini?"
+      },
+      {
+        "u": "ga nabrak ama bot admin?",
+        "a": "Hm, selama kamu tidak menggunakan fitur yang sama persis dalam waktu bersamaan dengan bot lain, seharusnya tidak akan \"nabrak\". Bot ini cukup pintar untuk mengetahui kapan ia perlu bekerja.",
+        "at": 1774275830464,
+        "sender": "6281252888128@s.whatsapp.net",
+        "senderName": "✧･ﾟ:Dafey:･ﾟ✧",
+        "trigger": "ambient",
+        "quoted": ""
+      },
+      {
+        "u": "nyanyi min",
+        "a": "Oh, kamu ingin aku menyanyi? Tentu saja bisa. Ketik saja command `nyanyi` diikuti judul lagu yang kamu mau, nanti aku akan carikan dan kirimkan rekaman suaranya.",
+        "at": 1774276376992,
+        "sender": "6288211836684@s.whatsapp.net",
+        "senderName": "Ren 🪷",
+        "trigger": "reply",
+        "quoted": "📴 @6281252888128 lagi *AFK*. Alasan : _Strong, try to make 'em all think I'm strong Yeah, the face I keep putting on says I ain't tired But these tear-stained eyes ain't lying..."
+      },
+      {
+        "u": "oke",
+        "a": "Hm, sepertinya kamu sudah paham. Baik, kalau ada hal lain yang perlu dibantu, beritahu saja.",
+        "at": 1774277279129,
+        "sender": "6281241900398@s.whatsapp.net",
+        "senderName": "KN",
+        "trigger": "reply",
+        "quoted": "Brat Image lagi error atau maintenance."
+      }
+    ],
+    "memories": [
+      {
+        "type": "turn",
+        "sender": "6281252888128@s.whatsapp.net",
+        "summary": "✧･ﾟ:Dafey:･ﾟ✧: ga nabrak ama bot admin? -> Hm, selama kamu tidak menggunakan fitur yang sama persis dalam waktu bersamaan dengan bot lain, seharusnya tidak akan \"nabrak\". Bot ini cukup pintar untuk...",
+        "at": 1774275830465
+      },
+      {
+        "type": "topic",
+        "sender": "6285649689059@s.whatsapp.net",
+        "summary": "Topik percakapan NICKY: nabrak ama bot admin enggak",
+        "at": 1774275989443
+      },
+      {
+        "type": "message-log",
+        "sender": "6285649689059@s.whatsapp.net",
+        "summary": "NICKY: Enggak",
+        "at": 1774275989443
+      },
+      {
+        "type": "topic",
+        "sender": "6288211836684@s.whatsapp.net",
+        "summary": "Topik percakapan Ren 🪷: 6281252888128 afk alasan _strong try make",
+        "at": 1774276369814
+      },
+      {
+        "type": "message-log",
+        "sender": "6288211836684@s.whatsapp.net",
+        "summary": "Ren 🪷: nyanyi min",
+        "at": 1774276369814
+      },
+      {
+        "type": "topic",
+        "sender": "6288211836684@s.whatsapp.net",
+        "summary": "Topik percakapan Ren 🪷: make orang",
+        "at": 1774276371790
+      },
+      {
+        "type": "message-log",
+        "sender": "6288211836684@s.whatsapp.net",
+        "summary": "Ren 🪷: make ni orang",
+        "at": 1774276371790
+      },
+      {
+        "type": "topic",
+        "sender": "6288211836684@s.whatsapp.net",
+        "summary": "Ren 🪷 sedang membahas topik: nyanyi min",
+        "at": 1774276376993
+      },
+      {
+        "type": "resolution",
+        "sender": "6288211836684@s.whatsapp.net",
+        "summary": "Ringkasan jawaban terakhir untuk Ren 🪷: Oh, kamu ingin aku menyanyi? Tentu saja bisa.",
+        "at": 1774276376993
+      },
+      {
+        "type": "turn",
+        "sender": "6288211836684@s.whatsapp.net",
+        "summary": "Ren 🪷: nyanyi min -> Oh, kamu ingin aku menyanyi? Tentu saja bisa. Ketik saja command `nyanyi` diikuti judul lagu yang kamu mau, nanti aku akan carikan dan kirimkan rekaman suaranya.",
+        "at": 1774276376993
+      },
+      {
+        "type": "topic",
+        "sender": "6281252888128@s.whatsapp.net",
+        "summary": "Topik percakapan ✧･ﾟ:Dafey:･ﾟ✧: afk mancing hari",
+        "at": 1774276463239
+      },
+      {
+        "type": "message-log",
+        "sender": "6281252888128@s.whatsapp.net",
+        "summary": "✧･ﾟ:Dafey:･ﾟ✧: Afk mancing 1 hari",
+        "at": 1774276463239
+      },
+      {
+        "type": "topic",
+        "sender": "6281252888128@s.whatsapp.net",
+        "summary": "Topik percakapan ✧･ﾟ:Dafey:･ﾟ✧: lah",
+        "at": 1774276541493
+      },
+      {
+        "type": "message-log",
+        "sender": "6281252888128@s.whatsapp.net",
+        "summary": "✧･ﾟ:Dafey:･ﾟ✧: Lah",
+        "at": 1774276541493
+      },
+      {
+        "type": "message-log",
+        "sender": "628811082211@s.whatsapp.net",
+        "summary": "vetta: 💚",
+        "at": 1774277062189
+      },
+      {
+        "type": "topic",
+        "sender": "6285649689059@s.whatsapp.net",
+        "summary": "Topik percakapan NICKY: afk strong try make all think",
+        "at": 1774277130281
+      },
+      {
+        "type": "message-log",
+        "sender": "6285649689059@s.whatsapp.net",
+        "summary": "NICKY: Lu ngapain kocak",
+        "at": 1774277130281
+      },
+      {
+        "type": "topic",
+        "sender": "6281241900398@s.whatsapp.net",
+        "summary": "Topik percakapan KN: brat image error maintenance oke",
+        "at": 1774277275999
+      },
+      {
+        "type": "mood",
+        "sender": "6281241900398@s.whatsapp.net",
+        "summary": "KN sedang lega: oke",
+        "at": 1774277275999
+      },
+      {
+        "type": "message-log",
+        "sender": "6281241900398@s.whatsapp.net",
+        "summary": "KN: oke",
+        "at": 1774277275999
+      },
+      {
+        "type": "topic",
+        "sender": "6281241900398@s.whatsapp.net",
+        "summary": "KN sedang membahas topik: oke",
+        "at": 1774277279129
+      },
+      {
+        "type": "mood",
+        "sender": "6281241900398@s.whatsapp.net",
+        "summary": "Nuansa percakapan KN: lega",
+        "at": 1774277279129
+      },
+      {
+        "type": "resolution",
+        "sender": "6281241900398@s.whatsapp.net",
+        "summary": "Ringkasan jawaban terakhir untuk KN: Hm, sepertinya kamu sudah paham. Baik, kalau ada hal lain yang perlu dibantu, beritahu saja.",
+        "at": 1774277279129
+      },
+      {
+        "type": "turn",
+        "sender": "6281241900398@s.whatsapp.net",
+        "summary": "KN: oke -> Hm, sepertinya kamu sudah paham. Baik, kalau ada hal lain yang perlu dibantu, beritahu saja.",
+        "at": 1774277279130
+      }
+    ],
+    "params": {
+      "warningFilter": true,
+      "executionMode": "smart",
+      "commandRouting": true,
+      "intentGuard": true,
+      "intentLevel": "normal",
+      "commandScope": "flex",
+      "leadWordTrim": true,
+      "aiTextGuard": true,
+      "transcriptGuard": true,
+      "transcriptLineLimit": 8,
+      "transcriptCharLimit": 700,
+      "commandMaxWords": 22,
+      "commandMaxChars": 180,
+      "historyLimit": 10,
+      "aiTemperature": 0.8,
+      "aiMaxTokens": 200,
+      "beginnerMode": true,
+      "teachMode": true,
+      "stepByStepMode": true,
+      "proactiveClarify": true,
+      "exampleMode": true,
+      "followUpQuestion": true,
+      "followUpTrigger": true,
+      "empathyBoost": true,
+      "memoryEnabled": true,
+      "memoryUserProfile": true,
+      "memoryLimit": 24,
+      "memorySummaryLimit": 8,
+      "memoryThreadEnabled": true,
+      "memoryRecallLimit": 6,
+      "memoryTopicLimit": 6,
+      "memoryQuestionTracking": true,
+      "memoryEmotionTracking": true,
+      "messageLogLearning": true,
+      "commandLearning": false,
+      "messageRecallEnabled": true,
+      "messageRecallLimit": 8,
+      "messageRecallWindowMs": 2700000,
+      "glossaryLearning": true,
+      "unknownTermTracking": true,
+      "glossaryRecallLimit": 4,
+      "analyticalMode": true,
+      "selfCheckMode": true,
+      "dangerousMemoryFilter": true,
+      "sensitiveMemoryFilter": true,
+      "mentionTrigger": true,
+      "replyTrigger": true,
+      "aiTimeoutMs": 30000,
+      "aiTopP": 0.95,
+      "aiPresencePenalty": 0.15,
+      "aiFrequencyPenalty": 0.05,
+      "ambientTrigger": true,
+      "ambientMinWords": 2,
+      "ambientMaxChars": 280,
+      "followUpWindowMs": 420000,
+      "scopedHistoryOnly": true,
+      "scopedMemoryOnly": true,
+      "compactPromptMode": true,
+      "shortReplyMode": true,
+      "replySentenceLimit": 3,
+      "replyBulletLimit": 4,
+      "identityGuard": true,
+      "greetingTrigger": true,
+      "botNameAware": true,
+      "laughIgnore": true,
+      "modelProfileAuto": true,
+      "smallModelOptimize": true,
+      "smallModelHistoryLimit": 4,
+      "smallModelMemorySummaryLimit": 3,
+      "smallModelMaxTokens": 140,
+      "smallModelTemperature": 0.45,
+      "smallModelTopP": 0.8,
+      "smallModelPresencePenalty": 0.05,
+      "smallModelFrequencyPenalty": 0.05,
+      "smallModelReplySentenceLimit": 2,
+      "smallModelReplyBulletLimit": 3
+    },
+    "updatedAt": "2026-03-23T14:48:00.332Z",
+    "userProfiles": {
+      "6285649689059@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774277130280
+      },
+      "6283165109209@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774254453626
+      },
+      "62882005504003@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774254842322
+      },
+      "6289523718577@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774273885759
+      },
+      "6288211836684@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774276376993
+      },
+      "62882022396969@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774268593063
+      },
+      "6285725287897@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774270397377
+      },
+      "6281545147758@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774271137972
+      },
+      "6282236853007@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774271126390
+      },
+      "601151644617@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774271689412
+      },
+      "6288902387709@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774271901521
+      },
+      "6288708801977@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774272402258
+      },
+      "6282324045193@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774273097412
+      },
+      "6285198290304@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774273118552
+      },
+      "628985039844@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774273197875
+      },
+      "6288216469040@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774273478690
+      },
+      "6287789484538@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774273812880
+      },
+      "6285829164174@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774273908489
+      },
+      "6281252888128@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774276541493
+      },
+      "628811082211@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774277062189
+      },
+      "6281241900398@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774277279129
+      }
+    },
+    "userThreads": {
+      "6283165109209@s.whatsapp.net": {
+        "senderName": "FiaMtp20",
+        "currentTopic": "elaina kabar",
+        "recentTopics": [
+          "hai",
+          "hai gusy",
+          "elaina kabar"
+        ],
+        "keyTerms": [
+          "hai",
+          "gusy",
+          "elaina",
+          "kabar"
+        ],
+        "openQuestions": [
+          "Elaina apa kabar"
+        ],
+        "resolvedNotes": [
+          "Hai juga. Ada yang bisa kubantu?",
+          "Kabar baik, tentu saja. Ada yang bisa kubantu?"
+        ],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "Elaina apa kabar",
+        "lastUserSummary": "Elaina apa kabar",
+        "lastAiSummary": "Kabar baik, tentu saja. Ada yang bisa kubantu?",
+        "lastTrigger": "ambient",
+        "turnCount": 3,
+        "updatedAt": 1774254453626
+      },
+      "62882005504003@s.whatsapp.net": {
+        "senderName": "rifkynathanrifnat",
+        "currentTopic": "buy-pancing fiber",
+        "recentTopics": [
+          "ganti pancing",
+          "ganti rid",
+          "ganti rod",
+          "ganti rod fiber",
+          "buy-pancing list",
+          "buy-pancing fiber"
+        ],
+        "keyTerms": [
+          "ganti",
+          "rid",
+          "rod",
+          "fiber",
+          "buy-pancing",
+          "list"
+        ],
+        "openQuestions": [],
+        "resolvedNotes": [
+          "Untuk level mancingmu *4* dan saldo *Rp1.642.550*, rekomendasiku sekarang *Pa...",
+          "Baik, kita lihat dulu. Sepertinya kamu ingin membuka toko umpan ya.",
+          "Oh, kamu mau ganti pancing yang sekarang aktif? Untuk itu, kamu bisa pakai pe...",
+          "Sepertinya kamu salah ketik. Perintahnya adalah `ganti rod` bukan `ganti rid`.",
+          "Untuk mengganti rod, kamu perlu tahu nama rod yang ingin kamu pakai. Coba ket...",
+          "❌ Kamu belum punya *Pancing Fiber*. Beli dulu di *.buy-pancing*.",
+          "Kamu bisa membeli *Pancing Fiber* seharga Rp250.000 dengan mengetik `buy-panc...",
+          "✅ Berhasil membeli *Pancing Fiber* seharga *Rp250.000*. Sisa saldo: *Rp1.132...."
+        ],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "Buy-pancing Fiber",
+        "lastAiSummary": "✅ Berhasil membeli *Pancing Fiber* seharga *Rp250.000*. Sisa saldo: *Rp1.132.550* Gunakan *.set-pancing fiber* untuk memakainya.",
+        "lastTrigger": "fishing-action",
+        "turnCount": 9,
+        "updatedAt": 1774254842323
+      },
+      "6285649689059@s.whatsapp.net": {
+        "senderName": "NICKY",
+        "currentTopic": "ngapain kocak",
+        "recentTopics": [
+          "kamu sudah rangcang belajar dari log",
+          "oke",
+          "neko",
+          "betul",
+          "enggak",
+          "ngapain kocak"
+        ],
+        "keyTerms": [
+          "afk",
+          "strong",
+          "try",
+          "make",
+          "all",
+          "think"
+        ],
+        "openQuestions": [
+          "Kamu bisa ngobrol tentang apa aja?",
+          "Gimana kondisi mata uang untuk Amerika",
+          "Ig apa",
+          "Aku bisa panggil kamu siapa",
+          "Menu untuk anime gimana buka nya",
+          "cara membuat nasi goreng?",
+          "Apa",
+          "Iya kenapa"
+        ],
+        "resolvedNotes": [
+          "Wah, kalau begitu, berarti sudah cukup pintar, ya? Menarik sekali bagaimana k...",
+          "Hm, \"Gg gak model ai gue\" ini maksudnya bagaimana, ya? Apakah AI yang kamu ma...",
+          "Baiklah, kalau begitu. Semoga tidak ada masalah lagi, ya.",
+          "Oh, begitu. Jadi kamu ingin agar AI dari kontak tersebut belajar, ya?",
+          "Jadi, kamu merancangku untuk belajar dari log chat group dan DM, ya? Itu mena...",
+          "Oke.",
+          "Neko itu nama sebuah grup, ya? Apakah grup tersebut yang sedang kamu maksud d...",
+          "Baik, jadi Neko itu nama grup yang kamu maksud. Aku mengerti sekarang."
+        ],
+        "lastIntent": "sedang troubleshooting",
+        "lastMood": "lega",
+        "lastNeed": "Bisa bantu saya",
+        "lastQuestion": "Iya kenapa",
+        "lastUserSummary": "Lu ngapain kocak",
+        "lastAiSummary": "Baik, jadi Neko itu nama grup yang kamu maksud. Aku mengerti sekarang.",
+        "lastTrigger": "message-log",
+        "turnCount": 66,
+        "updatedAt": 1774277130281
+      },
+      "6289523718577@s.whatsapp.net": {
+        "senderName": "Admin Le Mineral",
+        "currentTopic": "farming",
+        "recentTopics": [
+          "udh tuh 128793805119630",
+          "masa depan",
+          "coba kasih teka nya",
+          "namanya elaina bot",
+          "tadi dah gua beli",
+          "farming"
+        ],
+        "keyTerms": [
+          "yok",
+          "mau",
+          "request",
+          "game",
+          "ada",
+          "sistem"
+        ],
+        "openQuestions": [],
+        "resolvedNotes": [
+          "Oh, jadi kamu membalas pesan transfer itu ya. Sepertinya kamu ingin menunjukk...",
+          "Sama-sama. Senang bisa membantu.",
+          "Tepat sekali! Kamu cerdas juga.",
+          "Baik, kita lihat lagi. Aku punya kota, tapi tak ada rumah.",
+          "Betul sekali. Kamu bisa panggil aku Elaina.",
+          "Oh, jadi kamu tertarik dengan fitur *farming*? Menarik."
+        ],
+        "lastIntent": "minta panduan fitur bot",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "Farming bg",
+        "lastAiSummary": "Oh, jadi kamu tertarik dengan fitur *farming*? Menarik.",
+        "lastTrigger": "reply",
+        "turnCount": 8,
+        "updatedAt": 1774273885759
+      },
+      "6288211836684@s.whatsapp.net": {
+        "senderName": "Ren 🪷",
+        "currentTopic": "nyanyi min",
+        "recentTopics": [
+          "liat saldo",
+          "admin sibuk kek",
+          "entar mungkin",
+          "apalagi",
+          "nyanyi min",
+          "make orang"
+        ],
+        "keyTerms": [
+          "6281252888128",
+          "afk",
+          "alasan",
+          "_strong",
+          "try",
+          "make"
+        ],
+        "openQuestions": [],
+        "resolvedNotes": [
+          "Hm, bukan sok introvert. Aku hanya tidak bisa membagikan detail internal tent...",
+          "Oh, kamu ingin aku menyanyi? Tentu saja bisa."
+        ],
+        "lastIntent": "punya tujuan tertentu",
+        "lastMood": "",
+        "lastNeed": "mau berapa",
+        "lastQuestion": "",
+        "lastUserSummary": "nyanyi min",
+        "lastAiSummary": "Oh, kamu ingin aku menyanyi? Tentu saja bisa.",
+        "lastTrigger": "reply",
+        "turnCount": 11,
+        "updatedAt": 1774276376993
+      },
+      "62882022396969@s.whatsapp.net": {
+        "senderName": "~G~",
+        "currentTopic": "ngedit ngak",
+        "recentTopics": [
+          "gitu cari tau jaringan ada masalah",
+          "telkomsel",
+          "ketinggalan njir",
+          "lama banget baru kirim",
+          "biasanya ngak jadi jaringannya bermasalah",
+          "ngedit ngak"
+        ],
+        "keyTerms": [
+          "kirim",
+          "biasanya",
+          "ngak",
+          "jaringannya",
+          "bermasalah",
+          "ngedit"
+        ],
+        "openQuestions": [
+          "Yang ini bisa di mintaiin thr?",
+          "Kalau gitu cari tau jaringan ada masalah apa",
+          "Bisa ngedit ngak?"
+        ],
+        "resolvedNotes": [
+          "Hm, sepertinya kamu salah paham. Aku ini asisten digital, bukan penyedia THR.",
+          "Baik, kita lihat dulu. Untuk mencari tahu masalah jaringan, aku perlu tahu le...",
+          "Telkomsel, ya? Kalau begitu, apakah ini terkait dengan ponsel atau modem?",
+          "Ketinggalan, ya? Coba ceritakan lebih detail, apa yang ketinggalan?",
+          "Oh, jadi pesannya lambat terkirim. Itu seringkali tanda bahwa ada masalah di...",
+          "Kalau biasanya tidak lambat dan sekarang iya, kemungkinan besar memang jaring...",
+          "Bisa, tapi tergantung editan seperti apa yang kamu maksud. Jelaskan lebih det..."
+        ],
+        "lastIntent": "sedang troubleshooting",
+        "lastMood": "penasaran",
+        "lastNeed": "",
+        "lastQuestion": "Bisa ngedit ngak?",
+        "lastUserSummary": "🗿🗿🗿🗿",
+        "lastAiSummary": "Bisa, tapi tergantung editan seperti apa yang kamu maksud. Jelaskan lebih detail, ya.",
+        "lastTrigger": "message-log",
+        "turnCount": 8,
+        "updatedAt": 1774268593065
+      },
+      "6285725287897@s.whatsapp.net": {
+        "senderName": "barthxi",
+        "currentTopic": "omagadoi",
+        "recentTopics": [
+          "omagadoi"
+        ],
+        "keyTerms": [
+          "omagadoi"
+        ],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "omagadoi",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 2,
+        "updatedAt": 1774270397377
+      },
+      "6281545147758@s.whatsapp.net": {
+        "senderName": "Yuni Noshizawa - 𝗦.𝗩",
+        "currentTopic": "punya ide",
+        "recentTopics": [
+          "owalah",
+          "ohh",
+          "woke lah",
+          "makasih",
+          "aaaaaaaa",
+          "punya ide"
+        ],
+        "keyTerms": [
+          "sudah",
+          "jelas",
+          "status",
+          "aaaaaaaa",
+          "punya",
+          "ide"
+        ],
+        "openQuestions": [],
+        "resolvedNotes": [
+          "Hm, kalau kamu melihat pesan status (SW) yang tampaknya berasal dari grup, it...",
+          "Baik. Jadi sudah jelas, ya, kalau status itu bukan fitur langsung dari grup.",
+          "Sama-sama. Senang bisa membantu.",
+          "Menarik. Apa idenya?"
+        ],
+        "lastIntent": "",
+        "lastMood": "lega",
+        "lastNeed": "",
+        "lastQuestion": "@106704754712770 mana??",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "Menarik. Apa idenya?",
+        "lastTrigger": "message-log",
+        "turnCount": 20,
+        "updatedAt": 1774271137972
+      },
+      "6282236853007@s.whatsapp.net": {
+        "senderName": "tmy",
+        "currentTopic": "apasi anj",
+        "recentTopics": [
+          "apasi anj"
+        ],
+        "keyTerms": [
+          "apasi",
+          "anj"
+        ],
+        "openQuestions": [],
+        "resolvedNotes": [
+          "Hm, kamu bertanya \"apasi anj\". Jujur, kalimat ini agak ambigu."
+        ],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "apasi anj",
+        "lastAiSummary": "Hm, kamu bertanya \"apasi anj\". Jujur, kalimat ini agak ambigu.",
+        "lastTrigger": "reply",
+        "turnCount": 2,
+        "updatedAt": 1774271126391
+      },
+      "601151644617@s.whatsapp.net": {
+        "senderName": "ichiney💋✨",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774271689413
+      },
+      "6288902387709@s.whatsapp.net": {
+        "senderName": "bi tanfan",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774271901521
+      },
+      "6288708801977@s.whatsapp.net": {
+        "senderName": "عزام",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774272402258
+      },
+      "6282324045193@s.whatsapp.net": {
+        "senderName": "bears",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774273097412
+      },
+      "6285198290304@s.whatsapp.net": {
+        "senderName": "Fatierrr",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774273118553
+      },
+      "628985039844@s.whatsapp.net": {
+        "senderName": "Noah",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774273197875
+      },
+      "6288216469040@s.whatsapp.net": {
+        "senderName": "瑞瑞🙇🏻‍♀️.",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 2,
+        "updatedAt": 1774273478690
+      },
+      "6287789484538@s.whatsapp.net": {
+        "senderName": "kingstr",
+        "currentTopic": "ada mau beli akun coc",
+        "recentTopics": [
+          "ada mau beli akun coc"
+        ],
+        "keyTerms": [
+          "ada",
+          "mau",
+          "beli",
+          "akun",
+          "coc"
+        ],
+        "openQuestions": [
+          "Ada yg mau beli akun coc ga?"
+        ],
+        "resolvedNotes": [],
+        "lastIntent": "punya tujuan tertentu",
+        "lastMood": "penasaran",
+        "lastNeed": "Ada yg mau beli akun coc ga?",
+        "lastQuestion": "Ada yg mau beli akun coc ga?",
+        "lastUserSummary": "Ada yg mau beli akun coc ga?",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774273812881
+      },
+      "6285829164174@s.whatsapp.net": {
+        "senderName": "arr idgaf",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774273908489
+      },
+      "6281252888128@s.whatsapp.net": {
+        "senderName": "✧･ﾟ:Dafey:･ﾟ✧",
+        "currentTopic": "lah",
+        "recentTopics": [
+          "aduhh",
+          "grup mana",
+          "nako",
+          "nabrak ama bot admin",
+          "afk mancing hari",
+          "lah"
+        ],
+        "keyTerms": [
+          "ama",
+          "admin",
+          "afk",
+          "mancing",
+          "hari",
+          "lah"
+        ],
+        "openQuestions": [
+          "yg di grup mana itu?",
+          "ga nabrak ama bot admin?"
+        ],
+        "resolvedNotes": [
+          "Hm, selama kamu tidak menggunakan fitur yang sama persis dalam waktu bersamaa..."
+        ],
+        "lastIntent": "minta panduan fitur bot",
+        "lastMood": "penasaran",
+        "lastNeed": "",
+        "lastQuestion": "ga nabrak ama bot admin?",
+        "lastUserSummary": "Lah",
+        "lastAiSummary": "Hm, selama kamu tidak menggunakan fitur yang sama persis dalam waktu bersamaan dengan bot lain, seharusnya tidak akan \"nabrak\". Bot ini cukup pintar untuk mengetahui kapan ia pe...",
+        "lastTrigger": "message-log",
+        "turnCount": 10,
+        "updatedAt": 1774276541493
+      },
+      "628811082211@s.whatsapp.net": {
+        "senderName": "vetta",
+        "currentTopic": "",
+        "recentTopics": [],
+        "keyTerms": [],
+        "openQuestions": [],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "💚",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774277062189
+      },
+      "6281241900398@s.whatsapp.net": {
+        "senderName": "KN",
+        "currentTopic": "oke",
+        "recentTopics": [
+          "oke"
+        ],
+        "keyTerms": [
+          "brat",
+          "image",
+          "error",
+          "maintenance",
+          "oke"
+        ],
+        "openQuestions": [],
+        "resolvedNotes": [
+          "Hm, sepertinya kamu sudah paham. Baik, kalau ada hal lain yang perlu dibantu,..."
+        ],
+        "lastIntent": "",
+        "lastMood": "lega",
+        "lastNeed": "",
+        "lastQuestion": "",
+        "lastUserSummary": "oke",
+        "lastAiSummary": "Hm, sepertinya kamu sudah paham. Baik, kalau ada hal lain yang perlu dibantu, beritahu saja.",
+        "lastTrigger": "reply",
+        "turnCount": 2,
+        "updatedAt": 1774277279129
+      }
+    },
+    "learnedParams": {
+      "chat": {
+        "samples": 29,
+        "beginnerHints": 0,
+        "teachHints": 3,
+        "stepHints": 0,
+        "exampleHints": 0,
+        "clarifyHints": 0,
+        "shortHints": 0,
+        "detailHints": 0,
+        "empathyHints": 0,
+        "followUpHints": 3,
+        "definitionHints": 0,
+        "keywords": [
+          "min",
+          "make",
+          "orang",
+          "afk",
+          "mancing",
+          "hari",
+          "ngapain",
+          "kocak"
+        ],
+        "topics": [
+          "nabrak ama bot admin",
+          "enggak",
+          "nyanyi min",
+          "make orang",
+          "afk mancing hari",
+          "ngapain kocak"
+        ],
+        "confusionPoints": [],
+        "styleHints": [],
+        "lastTopic": "ngapain kocak",
+        "lastUpdatedAt": 1774277130281,
+        "lastText": "Lu ngapain kocak"
+      },
+      "users": {
+        "6285649689059@s.whatsapp.net": {
+          "samples": 21,
+          "beginnerHints": 0,
+          "teachHints": 0,
+          "stepHints": 0,
+          "exampleHints": 0,
+          "clarifyHints": 0,
+          "shortHints": 0,
+          "detailHints": 0,
+          "empathyHints": 0,
+          "followUpHints": 0,
+          "definitionHints": 0,
+          "keywords": [
+            "sudah",
+            "rangcang",
+            "log",
+            "chat",
+            "betul",
+            "enggak",
+            "ngapain",
+            "kocak"
+          ],
+          "topics": [
+            "ohhh oke lah",
+            "128793805119630 biar belajar nya",
+            "kamu sudah rangcang belajar dari log",
+            "betul",
+            "enggak",
+            "ngapain kocak"
+          ],
+          "confusionPoints": [],
+          "styleHints": [],
+          "lastTopic": "ngapain kocak",
+          "lastUpdatedAt": 1774277130281,
+          "lastText": "Lu ngapain kocak"
+        },
+        "6281252888128@s.whatsapp.net": {
+          "samples": 5,
+          "beginnerHints": 0,
+          "teachHints": 3,
+          "stepHints": 0,
+          "exampleHints": 0,
+          "clarifyHints": 0,
+          "shortHints": 0,
+          "detailHints": 0,
+          "empathyHints": 0,
+          "followUpHints": 3,
+          "definitionHints": 0,
+          "keywords": [
+            "grup",
+            "mana",
+            "nabrak",
+            "ama",
+            "admin",
+            "afk",
+            "mancing",
+            "hari"
+          ],
+          "topics": [
+            "aduhh",
+            "grup mana",
+            "nabrak ama bot admin",
+            "afk mancing hari"
+          ],
+          "confusionPoints": [],
+          "styleHints": [],
+          "lastTopic": "afk mancing hari",
+          "lastUpdatedAt": 1774276463238,
+          "lastText": "Afk mancing 1 hari"
+        },
+        "6288211836684@s.whatsapp.net": {
+          "samples": 3,
+          "beginnerHints": 0,
+          "teachHints": 0,
+          "stepHints": 0,
+          "exampleHints": 0,
+          "clarifyHints": 0,
+          "shortHints": 0,
+          "detailHints": 0,
+          "empathyHints": 0,
+          "followUpHints": 0,
+          "definitionHints": 0,
+          "keywords": [
+            "nyanyi",
+            "min",
+            "make",
+            "orang"
+          ],
+          "topics": [
+            "nyanyi min",
+            "make orang"
+          ],
+          "confusionPoints": [],
+          "styleHints": [],
+          "lastTopic": "nyanyi min",
+          "lastUpdatedAt": 1774276376993,
+          "lastText": "nyanyi min"
+        },
+        "628811082211@s.whatsapp.net": {
+          "samples": 0,
+          "beginnerHints": 0,
+          "teachHints": 0,
+          "stepHints": 0,
+          "exampleHints": 0,
+          "clarifyHints": 0,
+          "shortHints": 0,
+          "detailHints": 0,
+          "empathyHints": 0,
+          "followUpHints": 0,
+          "definitionHints": 0,
+          "keywords": [],
+          "topics": [],
+          "confusionPoints": [],
+          "styleHints": [],
+          "lastTopic": "",
+          "lastUpdatedAt": 0,
+          "lastText": ""
+        },
+        "6281241900398@s.whatsapp.net": {
+          "samples": 0,
+          "beginnerHints": 0,
+          "teachHints": 0,
+          "stepHints": 0,
+          "exampleHints": 0,
+          "clarifyHints": 0,
+          "shortHints": 0,
+          "detailHints": 0,
+          "empathyHints": 0,
+          "followUpHints": 0,
+          "definitionHints": 0,
+          "keywords": [],
+          "topics": [],
+          "confusionPoints": [],
+          "styleHints": [],
+          "lastTopic": "",
+          "lastUpdatedAt": 0,
+          "lastText": ""
+        }
+      }
+    }
+  },
+  {
+    "_id": "chat::120363424793147766@g.us",
+    "activeSessions": {},
+    "autoai": false,
+    "autovn": false,
+    "chatId": "120363424793147766@g.us",
+    "counts": {
+      "history": 10,
+      "memories": 4,
+      "userProfiles": 1,
+      "userThreads": 1,
+      "glossary": 0,
+      "activeSessions": 0,
+      "learnedParamsUsers": 0
+    },
+    "glossary": {},
+    "history": [
+      {
+        "u": "enggak paham",
+        "a": "Hehe, kayaknya kamu sedang kebingungan dan nggak paham dengan percakapan kami, ya!",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "Kasih tau nama lagu dong",
+        "a": "Hehe, kayaknya kamu lagi mencari lagu favoritmu, tapi malah nggak jelas apa lagu yang kamu cari!",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "@106704754712770 maksud? 🗿",
+        "a": "Hehe, kayaknya kamu kembali menggunakkan \"@\" dan emotikon, tapi malah nggak jelas apa maksudnya, ya!",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "Lua nama lagunya aku",
+        "a": "Hehe, kayaknya kamu sedang mencari lagu favoritmu, tapi malah nggak jelas apa lagu yang kamu cari!",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "NGAKAKK",
+        "a": "Hehe, kayaknya kamu sedang ngakak-ngakak, ya!",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "Nah gitu kek",
+        "a": "Hehe, kayaknya kamu ingin bilang \"Nah gitu kek\" tapi malah nggak jelas apa maksudnya, ya!",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "Ouuuuu paham-paham",
+        "a": "Hehe, kayaknya kamu sedang bilang \"Ouuuuu paham-paham\" tapi malah nggak jelas apa yang kamu paham-paham, ya!",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "Gimana sih?? Ga paham aku anj😭",
+        "a": "Hehe, kayaknya kamu sedang sedih, tapi aku rasa kamu sedang main-main dengan percakapan ini. Siapa punya lagu yang kamu cari sebenarnya?",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "Gimana cara mainnya?",
+        "a": "Hehe, kayaknya kamu ingin tahu cara bermain dengan percakapan ini! Aku Elaina Asistem, dirancang oleh NICKY. Senang kenal kamu!",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      },
+      {
+        "u": "Kan",
+        "a": "Hehe, kayaknya kamu ingin bilang \"Iya\" atau \"Ya\", ya! Tapi aku sudah bilang siapa aku, kan?",
+        "at": 0,
+        "sender": "",
+        "senderName": "",
+        "trigger": "",
+        "quoted": ""
+      }
+    ],
+    "memories": [
+      {
+        "type": "topic",
+        "sender": "6281545147758@s.whatsapp.net",
+        "summary": "Topik percakapan Yuni Noshizawa - 𝗦.𝗩: lucu punya suara siapa sih",
+        "at": 1774270980299
+      },
+      {
+        "type": "question",
+        "sender": "6281545147758@s.whatsapp.net",
+        "summary": "Yuni Noshizawa - 𝗦.𝗩 masih mempertanyakan: Lucu yg punya suara.... Aa siapa sih? 😭😭",
+        "at": 1774270980299
+      },
+      {
+        "type": "mood",
+        "sender": "6281545147758@s.whatsapp.net",
+        "summary": "Yuni Noshizawa - 𝗦.𝗩 sedang penasaran: Lucu yg punya suara.... Aa siapa sih? 😭😭",
+        "at": 1774270980299
+      },
+      {
+        "type": "message-log",
+        "sender": "6281545147758@s.whatsapp.net",
+        "summary": "Yuni Noshizawa - 𝗦.𝗩: Lucu yg punya suara.... Aa siapa sih? 😭😭",
+        "at": 1774270980299
+      }
+    ],
+    "params": {
+      "warningFilter": true,
+      "executionMode": "smart",
+      "commandRouting": true,
+      "intentGuard": true,
+      "intentLevel": "normal",
+      "commandScope": "flex",
+      "leadWordTrim": true,
+      "aiTextGuard": true,
+      "transcriptGuard": true,
+      "transcriptLineLimit": 8,
+      "transcriptCharLimit": 700,
+      "commandMaxWords": 22,
+      "commandMaxChars": 180,
+      "historyLimit": 10,
+      "aiTemperature": 0.8,
+      "aiMaxTokens": 200,
+      "beginnerMode": true,
+      "teachMode": true,
+      "stepByStepMode": true,
+      "proactiveClarify": true,
+      "exampleMode": true,
+      "followUpQuestion": true,
+      "followUpTrigger": true,
+      "empathyBoost": true,
+      "memoryEnabled": true,
+      "memoryUserProfile": true,
+      "memoryLimit": 24,
+      "memorySummaryLimit": 8,
+      "memoryThreadEnabled": true,
+      "memoryRecallLimit": 6,
+      "memoryTopicLimit": 6,
+      "memoryQuestionTracking": true,
+      "memoryEmotionTracking": true,
+      "messageLogLearning": true,
+      "commandLearning": false,
+      "messageRecallEnabled": true,
+      "messageRecallLimit": 8,
+      "messageRecallWindowMs": 2700000,
+      "glossaryLearning": true,
+      "unknownTermTracking": true,
+      "glossaryRecallLimit": 4,
+      "analyticalMode": true,
+      "selfCheckMode": true,
+      "dangerousMemoryFilter": true,
+      "sensitiveMemoryFilter": true,
+      "mentionTrigger": true,
+      "replyTrigger": true,
+      "aiTimeoutMs": 30000,
+      "aiTopP": 0.95,
+      "aiPresencePenalty": 0.15,
+      "aiFrequencyPenalty": 0.05,
+      "ambientTrigger": true,
+      "ambientMinWords": 2,
+      "ambientMaxChars": 280,
+      "followUpWindowMs": 420000,
+      "scopedHistoryOnly": true,
+      "scopedMemoryOnly": true,
+      "compactPromptMode": true,
+      "shortReplyMode": true,
+      "replySentenceLimit": 3,
+      "replyBulletLimit": 4,
+      "identityGuard": true,
+      "greetingTrigger": true,
+      "botNameAware": true,
+      "laughIgnore": true,
+      "modelProfileAuto": true,
+      "smallModelOptimize": true,
+      "smallModelHistoryLimit": 4,
+      "smallModelMemorySummaryLimit": 3,
+      "smallModelMaxTokens": 140,
+      "smallModelTemperature": 0.45,
+      "smallModelTopP": 0.8,
+      "smallModelPresencePenalty": 0.05,
+      "smallModelFrequencyPenalty": 0.05,
+      "smallModelReplySentenceLimit": 2,
+      "smallModelReplyBulletLimit": 3
+    },
+    "updatedAt": "2026-03-23T14:50:04.080Z",
+    "userProfiles": {
+      "6281545147758@s.whatsapp.net": {
+        "preferredName": "",
+        "likes": [],
+        "difficulties": [],
+        "goals": [],
+        "notes": [],
+        "lastSeenAt": 1774270980298
+      }
+    },
+    "userThreads": {
+      "6281545147758@s.whatsapp.net": {
+        "senderName": "Yuni Noshizawa - 𝗦.𝗩",
+        "currentTopic": "lucu punya suara siapa sih",
+        "recentTopics": [
+          "lucu punya suara siapa sih"
+        ],
+        "keyTerms": [
+          "lucu",
+          "punya",
+          "suara",
+          "siapa",
+          "sih"
+        ],
+        "openQuestions": [
+          "Lucu yg punya suara.... Aa siapa sih? 😭😭"
+        ],
+        "resolvedNotes": [],
+        "lastIntent": "",
+        "lastMood": "penasaran",
+        "lastNeed": "",
+        "lastQuestion": "Lucu yg punya suara.... Aa siapa sih? 😭😭",
+        "lastUserSummary": "Lucu yg punya suara.... Aa siapa sih? 😭😭",
+        "lastAiSummary": "",
+        "lastTrigger": "message-log",
+        "turnCount": 1,
+        "updatedAt": 1774270980299
+      }
+    },
+    "learnedParams": {
+      "chat": {},
+      "users": {}
+    }
+  },
+  {
+    "_id": "chat::120363422485617042@g.us",
+    "activeSessions": {},
+    "autoai": false,
+    "autovn": false,
+    "chatId": "120363422485617042@g.us",
+    "counts": {
+      "history": 0,
+      "memories": 0,
+      "userProfiles": 0,
+      "userThreads": 0,
+      "glossary": 0,
+      "activeSessions": 0,
+      "learnedParamsUsers": 0
+    },
+    "glossary": {},
+    "history": [],
+    "memories": [],
+    "params": {
+      "warningFilter": true,
+      "executionMode": "smart",
+      "commandRouting": true,
+      "intentGuard": true,
+      "intentLevel": "normal",
+      "commandScope": "flex",
+      "leadWordTrim": true,
+      "aiTextGuard": true,
+      "transcriptGuard": true,
+      "transcriptLineLimit": 8,
+      "transcriptCharLimit": 700,
+      "commandMaxWords": 22,
+      "commandMaxChars": 180,
+      "historyLimit": 10,
+      "aiTemperature": 0.8,
+      "aiMaxTokens": 200,
+      "beginnerMode": true,
+      "teachMode": true,
+      "stepByStepMode": true,
+      "proactiveClarify": true,
+      "exampleMode": true,
+      "followUpQuestion": true,
+      "followUpTrigger": true,
+      "empathyBoost": true,
+      "memoryEnabled": true,
+      "memoryUserProfile": true,
+      "memoryLimit": 24,
+      "memorySummaryLimit": 8,
+      "memoryThreadEnabled": true,
+      "memoryRecallLimit": 6,
+      "memoryTopicLimit": 6,
+      "memoryQuestionTracking": true,
+      "memoryEmotionTracking": true,
+      "messageLogLearning": true,
+      "commandLearning": false,
+      "messageRecallEnabled": true,
+      "messageRecallLimit": 8,
+      "messageRecallWindowMs": 2700000,
+      "glossaryLearning": true,
+      "unknownTermTracking": true,
+      "glossaryRecallLimit": 4,
+      "analyticalMode": true,
+      "selfCheckMode": true,
+      "dangerousMemoryFilter": true,
+      "sensitiveMemoryFilter": true,
+      "mentionTrigger": true,
+      "replyTrigger": true,
+      "aiTimeoutMs": 30000,
+      "aiTopP": 0.95,
+      "aiPresencePenalty": 0.15,
+      "aiFrequencyPenalty": 0.05,
+      "ambientTrigger": true,
+      "ambientMinWords": 2,
+      "ambientMaxChars": 280,
+      "followUpWindowMs": 420000,
+      "scopedHistoryOnly": true,
+      "scopedMemoryOnly": true,
+      "compactPromptMode": true,
+      "shortReplyMode": true,
+      "replySentenceLimit": 3,
+      "replyBulletLimit": 4,
+      "identityGuard": true,
+      "greetingTrigger": true,
+      "botNameAware": true,
+      "laughIgnore": true,
+      "modelProfileAuto": true,
+      "smallModelOptimize": true,
+      "smallModelHistoryLimit": 4,
+      "smallModelMemorySummaryLimit": 3,
+      "smallModelMaxTokens": 140,
+      "smallModelTemperature": 0.45,
+      "smallModelTopP": 0.8,
+      "smallModelPresencePenalty": 0.05,
+      "smallModelFrequencyPenalty": 0.05,
+      "smallModelReplySentenceLimit": 2,
+      "smallModelReplyBulletLimit": 3
+    },
+    "updatedAt": "2026-03-23T14:50:04.471Z",
+    "userProfiles": {},
+    "userThreads": {},
+    "learnedParams": {
+      "chat": {},
+      "users": {}
+    }
+  }
+]

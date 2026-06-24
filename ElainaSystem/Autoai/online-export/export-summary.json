@@ -1,0 +1,24 @@
+{
+  "exportedAt": "2026-03-23T14:49:56.367Z",
+  "dbName": "Elaina",
+  "files": [
+    {
+      "collection": "ElainaAI_ConversationLog",
+      "file": "conversation-log.json",
+      "count": 702,
+      "bytes": 897689
+    },
+    {
+      "collection": "ElainaAI_MessageLog",
+      "file": "message-log.json",
+      "count": 666,
+      "bytes": 868674
+    },
+    {
+      "collection": "ElainaAI_State",
+      "file": "state.json",
+      "count": 4,
+      "bytes": 52825
+    }
+  ]
+}

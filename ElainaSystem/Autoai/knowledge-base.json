@@ -1,0 +1,3150 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "created": "2026-06-03",
+    "description": "Knowledge base for Elaina Asisten local AI - all commands, features, and game systems"
+  },
+  "bot_identity": {
+    "name": "Elaina Asisten",
+    "creator": "NICKY",
+    "prefix": [
+      ".",
+      ""
+    ],
+    "description": "Bot WhatsApp multi-fitur dengan sistem main bot + jadi bot (clone), RPG, game, downloader, sticker, dan administrasi grup."
+  },
+  "command_categories": {
+    "menu": {
+      "description": "Menampilkan menu fitur bot",
+      "commands": [
+        "menu",
+        "menuall",
+        "allmenu"
+      ],
+      "how_to_use": "Ketik .menu untuk menu utama, .menuall untuk semua menu, atau .allmenu",
+      "related_menus": [
+        "menuanime",
+        "menugame",
+        "menurpg",
+        "menudownloader",
+        "menutools",
+        "menugroup",
+        "menuai",
+        "menuowner",
+        "menumain",
+        "menucpanel",
+        "menupush",
+        "menuberita",
+        "menuasupan",
+        "menuaudio",
+        "menuanonymous",
+        "menustore",
+        "menuconvert",
+        "menuislami",
+        "menupremium",
+        "menusearch",
+        "menuephoto",
+        "menuprimbon",
+        "menurandom",
+        "menubank"
+      ]
+    },
+    "rpg_game": {
+      "description": "Sistem RPG dalam bot - level, job, ekonomi, mining, farming, fishing, crafting",
+      "subcategories": {
+        "status": {
+          "description": "Cek status RPG kamu",
+          "commands": [
+            "rpg-status",
+            "statusrpg",
+            "status-rpg",
+            "profil-rpg",
+            "profilerpg"
+          ],
+          "how_to_use": "Ketik .rpg-status untuk lihat level, exp, job, saldo, dan inventory"
+        },
+        "economy": {
+          "description": "Sistem ekonomi RPG - saldo, bank, transfer",
+          "commands": [
+            "saldo",
+            "ceksaldo",
+            "balance",
+            "bank",
+            "atm",
+            "setor",
+            "nabung",
+            "tarik",
+            "tfbank",
+            "transfer-bank",
+            "bungabank",
+            "claimbunga",
+            "deposit",
+            "depo",
+            "banklog",
+            "mutasi"
+          ],
+          "how_to_use": "Ketik .saldo untuk cek saldo, .bank untuk menu bank, .setor [jumlah] untuk nabung"
+        },
+        "jobs": {
+          "description": "Sistem job/profesi dalam RPG",
+          "commands": [
+            "role",
+            "profesi",
+            "jobrole",
+            "myrole",
+            "menu-role",
+            "menurole",
+            "job",
+            "kerja-profesi",
+            "misi",
+            "mission",
+            "dailymission",
+            "reputasi-role"
+          ],
+          "how_to_use": "Ketik .myrole untuk lihat job kamu, .menu-role untuk daftar job tersedia"
+        },
+        "mining": {
+          "description": "Menambang resources",
+          "commands": [
+            "menu-miner"
+          ],
+          "how_to_use": "Ketik .menu-miner untuk fitur mining"
+        },
+        "farming": {
+          "description": "Berkebun dan bertani",
+          "commands": [
+            "menu-petani"
+          ],
+          "how_to_use": "Ketik .menu-petani untuk fitur farming"
+        },
+        "fishing_system": {
+          "description": "Sistem mancing lengkap - rod, umpan, afk mancing",
+          "commands": [
+            "mancing",
+            "pancing",
+            "menu-mancing",
+            "menumancing",
+            "shop-pancing",
+            "buy-pancing",
+            "beli-pancing",
+            "set-pancing",
+            "ganti-rod",
+            "afk-mancing",
+            "stop-afk-mancing",
+            "tas-mancing",
+            "jual-ikan"
+          ],
+          "how_to_use": "Ketik .mancing untuk mulai, .shop-pancing untuk lihat rod, .afk-mancing [menit] untuk mancing otomatis"
+        },
+        "market": {
+          "description": "Pasar ekonomi RPG",
+          "commands": [
+            "market",
+            "pasarekonomi",
+            "shopekonomi",
+            "kontrak",
+            "kontrakpasar"
+          ],
+          "how_to_use": "Ketik .market untuk buka pasar"
+        }
+      }
+    },
+    "anime": {
+      "description": "Koleksi gambar anime, wallpaper, dan aksi anime",
+      "subcategories": {
+        "character_images": {
+          "description": "Gambar karakter anime spesifik",
+          "commands": [
+            "waifu",
+            "anime",
+            "elaina",
+            "husbu",
+            "shota",
+            "loli",
+            "gojo",
+            "sukuna",
+            "makima",
+            "power",
+            "frieren",
+            "fern",
+            "denji",
+            "aki",
+            "reze",
+            "himeno",
+            "ryo",
+            "yuji",
+            "nobara",
+            "toji",
+            "megumi",
+            "maki",
+            "yuta",
+            "geto",
+            "sagiri",
+            "naruto",
+            "gensinimpact",
+            "kurumi",
+            "2b",
+            "bluearchive",
+            "ba",
+            "pp_cowo",
+            "pp_cewe",
+            "toma",
+            "nurugai",
+            "mei",
+            "shion",
+            "chobei",
+            "yuzuriha",
+            "stark",
+            "himmel",
+            "aura",
+            "serie",
+            "wallpaper-anime"
+          ],
+          "how_to_use": "Ketik .waifu, .gojo, .elaina, dll untuk gambar random karakter anime"
+        },
+        "anime_actions": {
+          "description": "GIF aksi anime (kiss, hug, slap, dll)",
+          "commands": [
+            "animekiss",
+            "animehug",
+            "animepat",
+            "animeslap",
+            "animecuddle",
+            "animewaifu",
+            "animewlp",
+            "animeblush",
+            "animewave",
+            "animesmile",
+            "animepoke",
+            "animewink",
+            "animebonk",
+            "animebully",
+            "animebite",
+            "animelick",
+            "animekill",
+            "animecry",
+            "animehappy",
+            "animedance",
+            "animecringe",
+            "animeyeet",
+            "animeawoo",
+            "animemegumin",
+            "animeshinobu",
+            "animeneko",
+            "animenom",
+            "animetickle",
+            "animefoxgirl",
+            "animegecg",
+            "animehandhold",
+            "animehighfive",
+            "animeglomp",
+            "animesmug"
+          ],
+          "how_to_use": "Ketik .animekiss, .animehug, dll"
+        },
+        "search_browse": {
+          "description": "Cari dan browse anime",
+          "commands": [
+            "anime-list",
+            "animelist",
+            "anime-search",
+            "animesearch",
+            "anime-series",
+            "anime-random",
+            "otakudesu",
+            "otakud",
+            "otakudesu-search",
+            "odsearch",
+            "komiku-search",
+            "komikusearch",
+            "ksearch"
+          ],
+          "how_to_use": "Ketik .animelist untuk daftar anime, .animesearch [judul] untuk cari"
+        }
+      }
+    },
+    "downloader": {
+      "description": "Download video/audio dari berbagai platform",
+      "commands": [
+        "menudownloader",
+        "play",
+        "playmp3",
+        "playmp4",
+        "ytmp3",
+        "ytmp4",
+        "tiktok",
+        "ttdl",
+        "instagram",
+        "igdl",
+        "facebook",
+        "fbdl",
+        "twitter",
+        "twitdl",
+        "pinterest",
+        "pindl",
+        "mediafire",
+        "capcut",
+        "snackvideo",
+        "likee",
+        "hdvid"
+      ],
+      "how_to_use": "Ketik .menudownloader untuk lihat semua downloader. Contoh: .play [judul lagu] untuk download musik dari YouTube, .tiktok [link] untuk download video TikTok, .instagram [link] untuk download dari IG."
+    },
+    "tools": {
+      "description": "Tools dan utility",
+      "commands": [
+        "menutools",
+        "sticker",
+        "stiker",
+        "s",
+        "swm",
+        "take",
+        "toimg",
+        "tomp4",
+        "toaudio",
+        "tovid",
+        "tourl",
+        "ssweb",
+        "qr",
+        "qris",
+        "translate",
+        "tts",
+        "enhance",
+        "remini",
+        "hdvid",
+        "generate-attp",
+        "Morse"
+      ],
+      "how_to_use": "Ketik .menutools untuk menu tools lengkap"
+    },
+    "group_management": {
+      "description": "Manajemen grup WhatsApp",
+      "commands": [
+        "menugroup",
+        "antilinkgc",
+        "antilinktiktok",
+        "antilinkinstagram",
+        "antilinkfacebook",
+        "antilinktwitter",
+        "antilinktelegram",
+        "antilinkytvideo",
+        "antilinkytchannel",
+        "antilinkmediafire",
+        "antilinkterabox",
+        "antiwame",
+        "antitagsw",
+        "antilinkall",
+        "antilinkch",
+        "antiasing",
+        "antitoxic",
+        "antivirus",
+        "welcome",
+        "setwelcome",
+        "left",
+        "kick",
+        "add",
+        "promote",
+        "demote",
+        "tagall",
+        "hidetag",
+        "ephemeral",
+        "antibot"
+      ],
+      "how_to_use": "Ketik .menugroup untuk menu grup lengkap. Bot bisa anti link, welcome member baru, kick, promote/demote admin, tag all, dll."
+    },
+    "ai_chat": {
+      "description": "Chat dengan AI Elaina",
+      "commands": [
+        "ai",
+        "autoai",
+        "menuai",
+        "elainaai"
+      ],
+      "how_to_use": "Ketik .ai [pertanyaan] untuk tanya AI, atau reply/tag bot untuk autoai"
+    },
+    "game": {
+      "description": "Game dalam bot",
+      "commands": [
+        "menugame",
+        "tebakgambar",
+        "tebaklagu",
+        "tebakkata",
+        "kuis",
+        "catur",
+        "clan",
+        "werewolf",
+        "slot",
+        "tictactoe",
+        "suit",
+        "truth",
+        "dare",
+        "teka-teki"
+      ],
+      "how_to_use": "Ketik .menugame untuk lihat semua game. Ada catur, werewolf, tebak gambar, tebak lagu, dan banyak lagi!"
+    },
+    "owner": {
+      "description": "Command khusus owner bot",
+      "commands": [
+        "menuowner",
+        "bc",
+        "bcgc",
+        "bcast",
+        "join",
+        "leave",
+        "block",
+        "unblock",
+        "addprem",
+        "delprem",
+        "addowner",
+        "delowner",
+        "setbio",
+        "setname",
+        "setpp",
+        "restart",
+        "shutdown"
+      ],
+      "how_to_use": "Ketik .menuowner (khusus owner)"
+    },
+    "jadibot": {
+      "description": "Sistem clone bot / jadi bot",
+      "commands": [
+        "menu-jadibot",
+        "menujadibot",
+        "jadibot",
+        "clonebot",
+        "stopjadibot",
+        "listjadibot",
+        "addjadibot",
+        "customjadibot",
+        "statusjadibot"
+      ],
+      "how_to_use": "Ketik .menu-jadibot untuk info lengkap"
+    },
+    "convert": {
+      "description": "Konversi media",
+      "commands": [
+        "menuconvert",
+        "tomp3",
+        "tomp4",
+        "toimg",
+        "togif",
+        "toaudio",
+        "tovid"
+      ],
+      "how_to_use": "Ketik .menuconvert"
+    },
+    "islami": {
+      "description": "Fitur Islami",
+      "commands": [
+        "menuislami",
+        "jadwalshalat",
+        "shalat",
+        "sholat",
+        "quran",
+        "hadist",
+        "asmaulhusna",
+        "alquran",
+        "kisahnabi",
+        "doa"
+      ],
+      "how_to_use": "Ketik .menuislami. Bisa cek jadwal shalat, baca Al-Quran, hadist, asmaul husna, kisah nabi."
+    },
+    "search": {
+      "description": "Pencarian berbagai hal",
+      "commands": [
+        "menusearch",
+        "google",
+        "gimage",
+        "pinterest",
+        "wikimedia",
+        "ytsearch",
+        "yts",
+        "playstore",
+        "stalker",
+        "igstalk",
+        "spotifysearch",
+        "npmsearch"
+      ],
+      "how_to_use": "Ketik .menusearch untuk daftar lengkap. Bisa cari di Google, Pinterest, YouTube, Play Store, dan lainnya."
+    },
+    "random_fun": {
+      "description": "Fitur random dan fun",
+      "commands": [
+        "menurandom",
+        "ppcouple",
+        "cosplay",
+        "pubg",
+        "cat",
+        "doggo",
+        "bike",
+        "car",
+        "rose",
+        "kpop",
+        "blackpink",
+        "wallhp",
+        "aesthetic",
+        "darkjoke",
+        "meme",
+        "sponsbob",
+        "patrik"
+      ],
+      "how_to_use": "Ketik .menurandom"
+    },
+    "premium": {
+      "description": "Fitur premium",
+      "commands": [
+        "menupremium",
+        "premium",
+        "buypremium",
+        "ceklimit",
+        "claimlimit"
+      ],
+      "how_to_use": "Ketik .menupremium untuk info premium. User premium dapat limit lebih banyak."
+    },
+    "primbon": {
+      "description": "Ramalan dan primbon",
+      "commands": [
+        "menuprimbon",
+        "zodiak",
+        "jodoh",
+        "nama",
+        "weton",
+        "ramalan"
+      ],
+      "how_to_use": "Ketik .menuprimbon"
+    },
+    "store": {
+      "description": "Store dan pembelian",
+      "commands": [
+        "menustore",
+        "buylimit",
+        "buycoin",
+        "ceklimit",
+        "topup"
+      ],
+      "how_to_use": "Ketik .menustore"
+    },
+    "news": {
+      "description": "Berita dan informasi",
+      "commands": [
+        "menuberita",
+        "cnn",
+        "cnbc",
+        "kompas",
+        "tribun",
+        "tempo"
+      ],
+      "how_to_use": "Ketik .menuberita"
+    },
+    "audio": {
+      "description": "Fitur audio dan suara",
+      "commands": [
+        "menuaudio",
+        "tts",
+        "soundcool",
+        "voice"
+      ],
+      "how_to_use": "Ketik .menuaudio"
+    },
+    "anonymous": {
+      "description": "Chat anonymous dengan stranger",
+      "commands": [
+        "menuanonymous",
+        "anonymous",
+        "anonchat"
+      ],
+      "how_to_use": "Ketik .menuanonymous untuk mulai chat anonymous"
+    },
+    "photo_editor": {
+      "description": "Edit dan enhance foto",
+      "commands": [
+        "menuephoto",
+        "enhance",
+        "remini",
+        "hdvid",
+        "txt-to-image"
+      ],
+      "how_to_use": "Ketik .menuephoto untuk fitur edit foto"
+    }
+  },
+  "faq": {
+    "siapa_kamu": {
+      "question_patterns": [
+        "kamu siapa",
+        "siapa kamu",
+        "siapa elaina",
+        "elaina itu siapa",
+        "lo siapa",
+        "bot apa ini",
+        "namanya siapa bot",
+        "nama bot ini apa",
+        "nama elaina",
+        "bot ini namanya siapa",
+        "nama kamu siapa",
+        "lu siapa sih"
+      ],
+      "answer": "Aku Elaina Asisten, AI yang dirancang oleh NICKY. Aku ada untuk membantumu dengan berbagai hal."
+    },
+    "siapa_pembuat": {
+      "question_patterns": [
+        "siapa yang buat",
+        "dibuat siapa",
+        "pembuatnya siapa",
+        "yang bikin siapa",
+        "owner bot",
+        "developer bot",
+        "siapa nicky",
+        "siapa owner mu",
+        "owner mu siapa",
+        "owner elaina",
+        "siapa owner elaina",
+        "pemilik bot",
+        "pemiliknya siapa",
+        "siapa pembuat bot ini",
+        "pembuat bot ini siapa",
+        "bot ini siapa yang buat",
+        "yang bikin bot ini siapa"
+      ],
+      "answer": "Bot ini dibuat oleh NICKY. Dia developer sekaligus owner Elaina Asisten."
+    },
+    "apa_itu_bot": {
+      "question_patterns": [
+        "ini bot apa",
+        "apa ini",
+        "elaina asisten itu apa",
+        "fungsinya apa",
+        "bot ini bisa apa",
+        "apa aja fiturnya",
+        "list fitur"
+      ],
+      "answer": "Elaina Asisten adalah bot WhatsApp multi-fitur. Bisa untuk: RPG game, download video/musik, cari anime, mancing virtual, chatting AI, manajemen grup, convert media, sticker, dan masih banyak lagi. Ketik .menu untuk lihat semua fitur."
+    },
+    "cara_pakai": {
+      "question_patterns": [
+        "gimana cara pakai",
+        "cara pakenya",
+        "cara mulai",
+        "gimana sih",
+        "cara main",
+        "tutorial",
+        "panduan",
+        "gimana cara",
+        "gimana pakek",
+        "cara pakek",
+        "kurang tau",
+        "kurang paham cara",
+        "gak ngerti cara",
+        "gak tau cara",
+        "bingung cara",
+        "pakek bot",
+        "pake bot",
+        "cara pake bot",
+        "gimana pakek bot",
+        "gimana cara pake",
+        "masih bingung",
+        "awam banget"
+      ],
+      "answer": "Gampang! Tinggal ketik command dengan awalan titik (.) atau tanpa titik. Contoh: .menu untuk lihat daftar fitur, .ai [pertanyaan] untuk tanya AI, .mancing untuk main game mancing. Kalau bingung mulai dari mana, ketik .menu dulu ya."
+    },
+    "prefix": {
+      "question_patterns": [
+        "pake prefix apa",
+        "awalannya apa",
+        "pake titik",
+        "harus pake titik",
+        "tanpa titik bisa",
+        "prefiks",
+        "prefixnya",
+        "pake . atau enggak",
+        "command pake titik"
+      ],
+      "answer": "Bot ini support dengan prefix titik (.) atau tanpa prefix alias langsung ketik commandnya. Jadi kamu bisa ketik .menu atau langsung menu saja."
+    },
+    "ai_model": {
+      "question_patterns": [
+        "model ai apa",
+        "pake ai apa",
+        "teknologinya apa",
+        "gpt",
+        "gemini",
+        "model apa",
+        "kamu ai apa",
+        "kamu pake ai apa",
+        "ai apa kamu",
+        "kamu itu ai apa",
+        "kamu model apa",
+        "ini ai apa",
+        "bot ai apa"
+      ],
+      "answer": "Aku Elaina Asisten, detail internal tidak dibuka untuk umum. Yang penting aku bisa bantu kamu!"
+    },
+    "cara_download": {
+      "question_patterns": [
+        "cara download video tiktok",
+        "download tiktok",
+        "cara download ig",
+        "download instagram",
+        "cara download youtube",
+        "download yt",
+        "cara download lagu",
+        "download lagu",
+        "gimana download"
+      ],
+      "answer": "Gampang! Untuk download: .tiktok [link] untuk TikTok, .instagram [link] untuk IG, .facebook [link] untuk FB, .play [judul] untuk lagu dari YouTube. Atau ketik .menudownloader untuk lihat semua."
+    },
+    "cara_sticker": {
+      "question_patterns": [
+        "cara buat stiker",
+        "bikin sticker",
+        "jadiin stiker",
+        "cara bikin stiker wa",
+        "buat sticker",
+        "stiker"
+      ],
+      "answer": "Kirim foto/video dengan caption .sticker atau .s, nanti aku ubah jadi stiker WhatsApp. Bisa juga reply foto/video dengan command .sticker."
+    },
+    "cara_rpg": {
+      "question_patterns": [
+        "cara main rpg",
+        "rpg gimana",
+        "mulai rpg",
+        "rpg pemula",
+        "cara naikin level rpg",
+        "rpg tutorial",
+        "belajar rpg"
+      ],
+      "answer": "🎯 *Panduan RPG Pemula:*\n1. Ketik .rpg-status untuk lihat statusmu\n2. Pilih job dengan .myrole\n3. Kerja untuk dapet uang: .job\n4. Mining/farming/fishing untuk resources\n5. Beli item di .market\n6. Nabung di bank: .setor [jumlah]\n\nKetik .menurpg untuk menu RPG lengkap."
+    },
+    "cara_mancing": {
+      "question_patterns": [
+        "cara mancing",
+        "mancing gimana",
+        "beli pancing",
+        "ganti pancing",
+        "afk mancing",
+        "cara afk mancing",
+        "mancing otomatis",
+        "rekomendasi pancing"
+      ],
+      "answer": "🎣 *Panduan Mancing:*\n1. .mancing untuk mulai mancing interaktif\n2. .shop-pancing untuk lihat daftar pancing\n3. .buy-pancing [nama] untuk beli pancing baru\n4. .set-pancing [nama] untuk ganti pancing aktif\n5. .afk-mancing [menit] untuk mancing otomatis!\n6. .tas-mancing untuk lihat hasil tangkapan\n7. .jual-ikan untuk jual semua ikan"
+    },
+    "menu_lengkap": {
+      "question_patterns": [
+        "menu",
+        "help",
+        "list menu",
+        "semua menu",
+        "daftar menu",
+        "ada menu apa aja",
+        "fitur lengkap"
+      ],
+      "answer": "📂 *Menu yang tersedia:*\n• .menu - Menu utama\n• .menuall - Semua menu lengkap\n• .menurpg - Menu RPG\n• .menugame - Menu Game\n• .menuanime - Menu Anime\n• .menudownloader - Downloader\n• .menutools - Tools\n• .menugroup - Grup\n• .menuai - AI Chat\n• .menuislami - Islami\n• .menusearch - Search\n• .menuconvert - Convert\n• .menuephoto - Edit Foto\n• .menuprimbon - Primbon\n• .menurandom - Random\n• .menuowner - Owner\n• .menu-jadibot - Jadi Bot\n• .menupremium - Premium\n\nKetik nama menunya untuk lihat isinya!"
+    },
+    "jadibot_info": {
+      "question_patterns": [
+        "jadibot",
+        "jadi bot",
+        "clone bot",
+        "bikin bot sendiri",
+        "gimana jadibot",
+        "cara clone",
+        "bot clone"
+      ],
+      "answer": "🤖 *JadiBot / Clone Bot:*\nKamu bisa bikin bot WhatsApp sendiri yang terkoneksi ke sistem Elaina!\n\n1. Ketik .jadibot untuk mulai proses\n2. Ikuti instruksi yang muncul\n3. Scan QR code dengan WhatsApp kamu\n\nBot clone kamu akan punya akses ke fitur-fitur Elaina. Ketik .menu-jadibot untuk info lengkap."
+    },
+    "saldo_info": {
+      "question_patterns": [
+        "cek saldo",
+        "saldo",
+        "uang saya",
+        "balance",
+        "cek uang",
+        "berapa saldo",
+        "liat saldo"
+      ],
+      "answer": "Ketik .saldo atau .ceksaldo untuk lihat saldo RPG kamu. Kalau belum punya, mulai main RPG dulu ya dengan .rpg-status!"
+    },
+    "cara_anime": {
+      "question_patterns": [
+        "cari anime",
+        "gambar anime",
+        "foto anime",
+        "cara lihat anime",
+        "cari karakter anime",
+        "daftar anime"
+      ],
+      "answer": "🖼️ *Fitur Anime:*\n• .animelist untuk daftar karakter\n• .animesearch [judul] untuk cari anime\n• .waifu / .gojo / .makima untuk gambar spesifik\n• .animekiss / .animehug untuk GIF aksi\n• .elaina untuk gambar Elaina (karakter anime)\n\nKetik .menuanime untuk menu lengkap."
+    },
+    "script_bot": {
+      "question_patterns": [
+        "script bot",
+        "source code",
+        "github",
+        "repo bot",
+        "minta script",
+        "scriptnya"
+      ],
+      "answer": "Script bot ini dibuat oleh NICKY. Ketik .script atau .sc untuk link repository GitHub."
+    },
+    "cara_start_rpg": {
+      "question_patterns": [
+        "cara mulai main rpg dari awal",
+        "rpg pemula banget",
+        "pertama kali main rpg",
+        "gimana mulai rpg",
+        "baru mulai rpg",
+        "rpg newbie",
+        "pemula rpg",
+        "aku baru di rpg",
+        "belum pernah main rpg",
+        "pertama kali"
+      ],
+      "answer": "🎯 *Panduan RPG dari NOL:*\n\n1. Ketik *.rpg-status* untuk cek profil awal kamu\n2. Kamu akan otomatis dapat job default. Cek dengan *.myrole*\n3. Mulai kerja: *.job* untuk dapet gaji pertama\n4. Kumpulin uang, lalu upgrade job di *.menu-role*\n5. Pilih spesialisasi: Miner (tambang), Petani (kebun), Nelayan (mancing), dll\n6. Beli tools sesuai job di *.market*\n7. Nabung di bank: *.setor [jumlah]*\n\n💡 Tips: Fokus ke satu job dulu biar cepet naik level. Jangan lupa *.daily-rpg* tiap hari!"
+    },
+    "setelah_pilih_job": {
+      "question_patterns": [
+        "setelah pilih job ngapain",
+        "habis pilih job",
+        "udah pilih job selanjutnya",
+        "setelah pilih role",
+        "next step setelah job",
+        "lanjutan setelah job"
+      ],
+      "answer": "Setelah pilih job: 1) *.job* untuk kerja rutin dapet gaji, 2) *.misi* untuk misi harian, 3) Beli tools di *.market*, 4) Kumpulin resources (mining/farming/fishing), 5) Jual resources di *.market*, 6) Nabung di bank. Semakin sering kerja, semakin cepet naik level!"
+    },
+    "fishing_upgrade_path": {
+      "question_patterns": [
+        "setelah pancing fiber ngapain",
+        "next pancing",
+        "pancing selanjutnya",
+        "udah punya pancing fiber",
+        "upgrade pancing",
+        "cara naikin pancing",
+        "pancing lebih bagus dari fiber",
+        "next rod after fiber"
+      ],
+      "answer": "Setelah Pancing Fiber (Rp250k), next upgrade:\n• Level 8+: *Pancing Carbon* (Rp750k) - cooldown lebih cepat\n• Level 12+: *Pancing Mythril* (Rp27M) - high luck, high speed\n• Level 16+: *Pancing Abyss* - buat farming resources langka\n• Level 20+: *Pancing Tempest* - rod tertinggi\n\n💡 Tips: Sambil nabung, rajin *.afk-mancing [menit]* biar dapet EXP + ikan yang bisa dijual!"
+    },
+    "cara_dapet_umpan": {
+      "question_patterns": [
+        "cara dapet umpan",
+        "beli umpan dimana",
+        "umpan mancing",
+        "bikin umpan",
+        "umpan habis",
+        "isi ulang umpan",
+        "restock umpan"
+      ],
+      "answer": "🪱 *Cara Dapet Umpan:*\n1. Beli di *.shop-umpan* (paket tersedia: Basic, Premium, Sultan)\n2. Jadi Peracik Umpan (job) untuk bikin sendiri\n3. Daily reward kadang kasih umpan gratis\n4. Event/giveaway dari bot\n\nKalau udah punya job Peracik Umpan, kamu bisa bikin lebih hemat!"
+    },
+    "transfer_uang_rpg": {
+      "question_patterns": [
+        "transfer uang ke temen",
+        "tf rpg",
+        "kirim uang rpg",
+        "cara transfer saldo",
+        "ngirim duit ke player lain",
+        "transfer bank rpg"
+      ],
+      "answer": "💰 *Transfer Uang RPG:*\n\n1. Pastikan kamu dan penerima sudah punya akun bank: *.bank*\n2. Transfer: *.tfbank [nomor] [jumlah]*\n   Contoh: *.tfbank 6285649689059 50000*\n3. Bisa juga *.transfer-bank [nomor] [jumlah]*\n4. Cek mutasi di *.banklog* atau *.mutasi*\n\n⚠️ Pastikan nomor benar! Transfer yang salah tidak bisa dikembalikan."
+    },
+    "premium_info": {
+      "question_patterns": [
+        "premium itu apa",
+        "cara jadi premium",
+        "benefit premium",
+        "keuntungan premium",
+        "harga premium",
+        "premium user",
+        "daftar premium"
+      ],
+      "answer": "⭐ *Elaina Premium:*\n\n• Limit harian lebih banyak\n• Bebas akses semua fitur tanpa batas\n• Prioritas respons bot\n• Bisa pakai bot di DM (personal chat)\n\nCek *.menupremium* untuk info harga & cara daftar. Pembayaran via QRIS/DANA/Gopay."
+    },
+    "script_source": {
+      "question_patterns": [
+        "script bot",
+        "source code",
+        "github bot",
+        "repo bot",
+        "open source",
+        "kode bot",
+        "scriptnya dimana",
+        "minta script"
+      ],
+      "answer": "Script bot Elaina Asisten dibuat oleh NICKY. Ketik *.script* atau *.sc* untuk link repository GitHub dan info lebih lanjut."
+    },
+    "primbon_zodiak": {
+      "question_patterns": [
+        "zodiak",
+        "ramalan zodiak",
+        "primbon",
+        "jodoh",
+        "weton",
+        "ramalan jodoh",
+        "cocok gak",
+        "cek jodoh"
+      ],
+      "answer": "🔮 *Fitur Primbon:*\n\n• *.zodiak [nama zodiak]* - Ramalan zodiak harian\n• *.jodoh [nama1] [nama2]* - Cek kecocokan jodoh\n• *.weton [tanggal lahir]* - Hitung weton\n• *.nama [nama]* - Arti nama\n\nKetik *.menuprimbon* untuk fitur lengkap!"
+    },
+    "berita_news": {
+      "question_patterns": [
+        "berita",
+        "news",
+        "berita hari ini",
+        "berita terbaru",
+        "cnn",
+        "cnbc",
+        "kompas",
+        "tribun",
+        "tempo",
+        "baca berita"
+      ],
+      "answer": "📰 *Fitur Berita:*\n\n• *.cnn* - Berita dari CNN Indonesia\n• *.cnbc* - Berita ekonomi dari CNBC\n• *.kompas* - Berita dari Kompas\n• *.tribun* - Berita dari Tribun\n• *.tempo* - Berita dari Tempo\n\nKetik *.menuberita* untuk daftar lengkap."
+    },
+    "pinterest_search": {
+      "question_patterns": [
+        "cari di pinterest",
+        "pinterest",
+        "cari gambar pinterest",
+        "pin gambar",
+        "download pinterest",
+        "foto pinterest"
+      ],
+      "answer": "📌 *Pinterest Search:*\n\nKetik *.pinterest [kata kunci]* untuk cari gambar dari Pinterest. Contoh: *.pinterest anime girl* atau *.pinterest landscape*\n\nButuh download gambar Pinterest? Pakai *.pindl [link]*"
+    },
+    "bot_uptime": {
+      "question_patterns": [
+        "bot online 24 jam",
+        "bot selalu online",
+        "jam offline",
+        "bot hidup terus",
+        "sampai kapan bot online",
+        "bot restart jam berapa"
+      ],
+      "answer": "Bot Elaina berjalan selama server hosting aktif. Kalau bot tidak merespon, mungkin sedang maintenance atau restart. Coba hubungi owner NICKY di Telegram: t.me/MsXploiter"
+    },
+    "bot_error_help": {
+      "question_patterns": [
+        "bot error",
+        "bot gak respon",
+        "command gak jalan",
+        "error nih",
+        "kok gak bisa",
+        "gak muncul",
+        "stuck"
+      ],
+      "answer": "Kalau bot error atau tidak merespon:\n\n1. Coba ulangi command dengan prefix titik: *.command*\n2. Pastikan penulisan command benar\n3. Cek koneksi internet kamu\n4. Tunggu beberapa saat, mungkin bot sedang sibuk\n5. Hubungi owner: t.me/MsXploiter\n\nJangan spam ya! Bot akan balas kalau sudah normal."
+    },
+    "bot_name_origin": {
+      "question_patterns": [
+        "kenapa namanya elaina",
+        "asal nama elaina",
+        "elaina dari anime",
+        "cerita nama elaina",
+        "nama elaina artinya"
+      ],
+      "answer": "Nama Elaina terinspirasi dari karakter anime Elaina dari serial 'Majo no Tabitabi' (The Journey of Elaina). Karakter ini dikenal sebagai penyihir pengembara yang cerdas dan mandiri — cocok dengan karakter bot asisten ini!"
+    },
+    "bot_coding_html": {
+      "question_patterns": [
+        "bisa bikin website",
+        "bisa nulis kode",
+        "bisa coding",
+        "bikinin html",
+        "bisa bikin script",
+        "nulis html css",
+        "bisa bikin landing page",
+        "bantu coding"
+      ],
+      "answer": "Aku bisa bantu bikin kode sederhana! Coba tanya dengan detail apa yang kamu mau. Contoh: 'Bikinin html landing page untuk toko baju' atau 'Buat kalkulator sederhana dengan javascript'. Aku akan kasih kode lengkap dengan penjelasannya."
+    },
+    "bot_hiburan": {
+      "question_patterns": [
+        "aku galau",
+        "lagi sedih",
+        "butuh hiburan",
+        "kasih semangat",
+        "lagi bete",
+        "mood jelek",
+        "capek",
+        "stress",
+        "bosan"
+      ],
+      "answer": "😊 Tenang, semua orang kadang ngerasa gitu! Coba:\n• *.menugame* - Main game seru biar mood naik\n• *.waifu* atau *.anime* - Lihat gambar anime favorit\n• *.menurandom* - Random pics, meme, atau kpop\n• *.play [judul lagu]* - Dengerin musik favorit\n\nAtau ngobrol aja sama aku, aku siap dengerin kok! 💪"
+    },
+    "text_to_speech": {
+      "question_patterns": [
+        "text to speech",
+        "ubah teks jadi suara",
+        "tts",
+        "suara dari teks",
+        "baca teks",
+        "convert text ke audio"
+      ],
+      "answer": "🗣️ *Text to Speech (TTS):*\n\nKetik *.tts [teks]* untuk mengubah teks menjadi suara. Contoh: *.tts halo selamat pagi*\n\nBot akan mengirimkan audio hasil konversi teks tersebut."
+    },
+    "video_to_audio": {
+      "question_patterns": [
+        "convert video ke mp3",
+        "ubah mp4 ke mp3",
+        "ekstrak audio",
+        "video jadi audio",
+        "ambil suara dari video",
+        "mp4 to mp3"
+      ],
+      "answer": "🎵 *Convert Video ke Audio:*\n\n1. Kirim video yang mau di-convert\n2. Reply video dengan *.toaudio* atau *.tomp3*\n3. Bot akan mengirimkan file audio MP3\n\nBisa juga *.ytmp3 [link]* untuk download audio dari YouTube."
+    },
+    "jadwal_shalat": {
+      "question_patterns": [
+        "jadwal shalat",
+        "waktu sholat",
+        "adzan",
+        "jam shalat",
+        "shalat maghrib",
+        "imsak",
+        "subuh"
+      ],
+      "answer": "🕌 *Jadwal Shalat:*\n\nKetik *.jadwalshalat [kota]* untuk melihat jadwal shalat hari ini. Contoh: *.jadwalshalat jakarta*\n\nAtau *.shalat* untuk jadwal lengkap berdasarkan lokasi default."
+    },
+    "baca_quran": {
+      "question_patterns": [
+        "baca quran",
+        "al quran",
+        "ngaji",
+        "surah",
+        "ayat",
+        "baca alquran",
+        "quran online"
+      ],
+      "answer": "📖 *Al-Quran:*\n\nKetik *.quran [nomor surah] [nomor ayat]* untuk membaca ayat Al-Quran. Contoh: *.quran 1 1* untuk Al-Fatihah ayat 1.\n\nTersedia juga *.hadist* untuk mencari hadist, dan *.asmaulhusna* untuk 99 nama Allah."
+    },
+    "anime_kiss_hug": {
+      "question_patterns": [
+        "gif anime kiss",
+        "anime peluk",
+        "gif anime hug",
+        "anime cuddle",
+        "anime kiss",
+        "anime couple",
+        "gif anime lucu",
+        "anime action gif"
+      ],
+      "answer": "💕 *GIF Anime Aksi:*\n\n• *.animekiss* - GIF ciuman anime\n• *.animehug* - GIF pelukan anime\n• *.animepat* - GIF tepukan kepala\n• *.animecuddle* - GIF berpelukan\n• *.animeslap* - GIF tamparan (lucu)\n• *.animeblush* - GIF tersipu\n• *.animewave* - GIF melambai\n\nDan masih banyak lagi! Ketik *.menuanime* untuk daftar lengkap."
+    },
+    "gojo_image": {
+      "question_patterns": [
+        "gambar gojo",
+        "foto gojo",
+        "satoru gojo",
+        "jujutsu kaisen",
+        "gojo satoru",
+        "gojo pic"
+      ],
+      "answer": "🖼️ Ketik *.gojo* atau *.satoru-gojo* untuk gambar random Gojo Satoru dari Jujutsu Kaisen!"
+    },
+    "waifu_image": {
+      "question_patterns": [
+        "gambar waifu",
+        "foto waifu",
+        "random waifu",
+        "pic waifu",
+        "waifu random",
+        "gambar cewe anime"
+      ],
+      "answer": "🖼️ Ketik *.waifu* untuk gambar random waifu anime!"
+    },
+    "cara_kick": {
+      "question_patterns": [
+        "cara kick anggota",
+        "tendang member",
+        "kick dari grup",
+        "keluarin orang",
+        "remove member",
+        "cara kick"
+      ],
+      "answer": "Untuk kick anggota grup: Reply pesan orang tersebut dengan *.kick* atau ketik *.kick @nomor* (mention). Pastikan bot jadi admin grup ya!"
+    },
+    "welcome_message": {
+      "question_patterns": [
+        "welcome member baru",
+        "pesan selamat datang",
+        "aktifin welcome",
+        "set welcome",
+        "welcome message",
+        "sambutan member baru"
+      ],
+      "answer": "Untuk mengaktifkan welcome message: *.setwelcome on* (khusus admin grup). Bot akan otomatis menyambut member baru yang join. Edit pesannya dengan *.setwelcome [teks]*."
+    },
+    "antilink_guide": {
+      "question_patterns": [
+        "cara antilink",
+        "nyalain antilink",
+        "anti link grup",
+        "aktifin antilink",
+        "biar gak ada link",
+        "blokir link wa"
+      ],
+      "answer": "🛡️ *Anti Link Grup:*\n\n• *.antilinkgc on* - Anti link grup WhatsApp lain\n• *.antilinktiktok on* - Anti link TikTok\n• *.antilinkinstagram on* - Anti link Instagram\n• *.antilinkfacebook on* - Anti link Facebook\n• *.antilinktwitter on* - Anti link Twitter/X\n• *.antilinkall on* - Anti SEMUA link\n\nUntuk mematikan: ganti *on* jadi *off*. Khusus admin grup!"
+    },
+    "tagall_guide": {
+      "question_patterns": [
+        "tag all",
+        "tag semua",
+        "mention semua",
+        "notif semua member",
+        "panggil semua",
+        "hidetag"
+      ],
+      "answer": "📢 *Tag All:*\n\n• *.tagall [pesan]* - Mention semua member grup\n• *.hidetag [pesan]* - Mention tanpa notifikasi (silent)\n\nKhusus admin grup. Gunakan dengan bijak!"
+    },
+    "catur_guide": {
+      "question_patterns": [
+        "game catur",
+        "main catur",
+        "chess",
+        "catur bot",
+        "main catur di wa",
+        "chess game"
+      ],
+      "answer": "♟️ *Game Catur:*\n\n• *.catur [@lawan]* - Mulai game catur dengan seseorang\n• Bot akan mengirimkan papan catur interaktif\n• Giliran jalan otomatis bergantian\n• Bisa main santai atau turnamen!"
+    },
+    "werewolf_guide": {
+      "question_patterns": [
+        "game werewolf",
+        "cara main werewolf",
+        "ww",
+        "werewolf game",
+        "werewolf rules",
+        "werewolf bot"
+      ],
+      "answer": "🐺 *Werewolf Game:*\n\nGame sosial dimana pemain dibagi jadi warga dan werewolf. Warga harus menemukan werewolf sebelum semua terbunuh!\n\n• *.werewolf* - Info game\n• Main rame-rame di grup\n• Ada role: Werewolf, Villager, Seer, Doctor, dll\n\nKetik *.menugame* untuk game lainnya!"
+    },
+    "tebak_gambar_guide": {
+      "question_patterns": [
+        "game tebak gambar",
+        "tebakgambar",
+        "guess picture",
+        "tebak gambar game",
+        "main tebak gambar"
+      ],
+      "answer": "🖼️ *Tebak Gambar:*\n\nKetik *.tebakgambar* untuk mulai! Bot akan kirim gambar dan kamu harus menebak apa maksudnya. Jawab dengan reply pesan gambar tersebut. Cocok buat seru-seruan di grup!"
+    },
+    "daily_rpg": {
+      "question_patterns": [
+        "daily reward",
+        "hadiah harian",
+        "daily rpg",
+        "reward harian",
+        "claim daily",
+        "bonus harian"
+      ],
+      "answer": "🎁 *Daily Reward RPG:*\n\nKetik *.daily-rpg* setiap hari untuk klaim hadiah harian! Bisa dapat: EXP, uang, umpan, item random. Jangan lupa klaim setiap hari biar makin kaya!"
+    },
+    "first_time_bot": {
+      "question_patterns": [
+        "pertama kali pakai",
+        "baru pertama",
+        "pertama kali chat bot",
+        "new user",
+        "pemakaian pertama",
+        "introduce bot",
+        "saya baru pertama kali",
+        "baru kenal bot",
+        "baru tau bot ini",
+        "aku baru tau",
+        "pertama kali pakek",
+        "belum pernah coba",
+        "baru nemu bot",
+        "pertama kali nemu"
+      ],
+      "answer": "😄 Hai! Senang kenal kamu! Aku *Elaina Asisten*, bot WhatsApp multi-fitur buatan NICKY.\n\nBeberapa hal yang bisa kamu coba:\n• *.menu* - Lihat semua fitur\n• *.rpg-status* - Main RPG\n• *.ai [pertanyaan]* - Tanya-tanya sama aku\n• *.play [judul lagu]* - Download musik\n\nMau tau lebih? Tanya aja! Atau ketik *.menu* untuk eksplor sendiri."
+    },
+    "bot_pricing": {
+      "question_patterns": [
+        "gratis atau bayar",
+        "bot ini gratis",
+        "berbayar",
+        "harga",
+        "pakai bot bayar",
+        "free",
+        "berlangganan",
+        "biaya bulanan",
+        "bot ini bayar gak",
+        "gratis gak",
+        "perlu bayar",
+        "langganan"
+      ],
+      "answer": "💰 *Gratis kok!* Bot Elaina Asisten bisa dipakai gratis untuk fitur dasar. Ada juga fitur *Premium* buat yang mau limit lebih banyak dan akses penuh. Ketik *.menupremium* untuk info lengkap."
+    },
+    "bot_safety": {
+      "question_patterns": [
+        "bot ini aman",
+        "data saya disimpan",
+        "privasi",
+        "keamanan",
+        "aman gak",
+        "aman gak sih",
+        "data pribadi",
+        "privacy",
+        "bot simpan nomor",
+        "nomor saya aman",
+        "data bocor",
+        "aman gak data",
+        "data saya aman",
+        "bot aman gak"
+      ],
+      "answer": "🔒 *Keamanan:*\n\n• Bot hanya menyimpan data yang diperlukan untuk fitur berjalan (ID chat, history, preferences)\n• Tidak menyimpan password atau data sensitif\n• Nomor WhatsApp kamu hanya dipakai untuk identifikasi di sistem\n• Data RPG/game hanya tersimpan di database bot\n\nKalau ada kekhawatiran, hubungi NICKY di t.me/MsXploiter"
+    },
+    "bot_language": {
+      "question_patterns": [
+        "bisa bahasa inggris",
+        "english",
+        "bahasa indonesia aja",
+        "support english",
+        "multi bahasa",
+        "bisa bahasa lain",
+        "pake bahasa inggris",
+        "bot ngomong inggris"
+      ],
+      "answer": "🌏 Bot Elaina pakai *Bahasa Indonesia* sebagai bahasa utama. Tapi kalau kamu tanya pakai bahasa Inggris, bot tetap akan ngerti dan jawab!"
+    },
+    "bot_age_limit": {
+      "question_patterns": [
+        "batasan umur",
+        "minimal umur",
+        "anak kecil boleh",
+        "usia minimal",
+        "berapa tahun",
+        "umur berapa",
+        "ada batasan"
+      ],
+      "answer": "Tidak ada batasan umur spesifik untuk pakai bot ini. Tapi beberapa fitur (seperti game RPG ekonomi) lebih cocok untuk remaja ke atas. Orang tua disarankan mendampingi anak di bawah 13 tahun."
+    },
+    "bot_bug_report": {
+      "question_patterns": [
+        "bug",
+        "error",
+        "lapor bug",
+        "ada bug",
+        "gak berfungsi",
+        "rusak",
+        "bermasalah",
+        "error terus",
+        "fitur gak jalan",
+        "command gak berfungsi",
+        "bot nya rusak"
+      ],
+      "answer": "🐛 *Lapor Bug/Error:*\n\n1. Screenshot errornya\n2. Kirim ke NICKY via:\n   • Telegram: t.me/MsXploiter\n   • Gmail: nesfnicky@gmail.com\n3. Jelaskan detail: fitur apa, command apa, pesan errornya\n\nAtau langsung chat owner dengan *.owner*"
+    },
+    "bot_prefix_detail": {
+      "question_patterns": [
+        "prefixnya",
+        "pake titik",
+        "tanpa titik",
+        "awalan",
+        "harus pake titik",
+        "titik atau enggak",
+        "caranya prefix",
+        ". atau tanpa",
+        "pake . apa enggak",
+        "awalannya apa"
+      ],
+      "answer": "Bot ini support *prefix titik (.)* maupun *tanpa prefix* (langsung ketik command). Contoh: kamu bisa ketik *.menu* atau langsung *menu* — dua-duanya jalan!"
+    },
+    "newbie_guide": {
+      "question_patterns": [
+        "guide",
+        "panduan lengkap",
+        "petunjuk",
+        "buku panduan",
+        "cara lengkap",
+        "dokumentasi",
+        "wiki bot",
+        "help lengkap"
+      ],
+      "answer": "📖 *Panduan Cepat Elaina Asisten:*\n\n🔹 *.menu* - Lihat semua fitur\n🔹 *.rpg-status* - Main RPG\n🔹 *.mancing* - Game mancing\n🔹 *.ai [tanya]* - Chat sama AI\n🔹 *.play [judul]* - Download lagu\n🔹 *.tiktok [link]* - Download TikTok\n🔹 *.sticker* - Bikin stiker\n🔹 *.menuanime* - Fitur anime\n🔹 *.menugame* - Semua game\n🔹 *.jadibot* - Bikin bot sendiri\n\n💡 TIPS: Prefix titik (.) optional. Bot support dengan atau tanpa titik!"
+    },
+    "tanya_umum": {
+      "question_patterns": [
+        "tanya di luar bot",
+        "pengetahuan umum",
+        "bukan soal bot",
+        "bisa tanya apa aja",
+        "serba bisa",
+        "tau semua",
+        "kamu tau gak",
+        "kamu ngerti gak",
+        "kamu paham",
+        "tanya sesuatu",
+        "ngobrol aja",
+        "diskusi"
+      ],
+      "answer": "Aku bisa bantu jelasin banyak hal! Mulai dari sains, sejarah, teknologi, coding, filosofi, sampai pengetahuan umum. Tanya aja apa yang kamu penasaran — aku akan jawab sebisaku!"
+    },
+    "emotion_support_0": {
+      "question_patterns": [
+        "aku lagi sedih banget hari ini"
+      ],
+      "answer": "😢 Hai... aku dengerin kok. Semua orang kadang ngerasa sedih dan itu manusiawi. Coba: tarik napas dalam-dalam, dengerin musik favorit, atau main game di bot buat alihin pikiran. Ketik *.menugame* — ada banyak game seru! Kalau butuh ngobrol, aku di sini."
+    },
+    "emotion_support_1": {
+      "question_patterns": [
+        "aku putus sama pacar, sakit banget rasanya"
+      ],
+      "answer": "💔 Putus memang sakit, dan itu valid. Tapi ingat: ini bukan akhir dunia. Fokus ke dirimu dulu — lakukan hobi, kumpul sama temen, coba hal baru. Waktu akan menyembuhkan. Sementara itu, bot ini siap nemenin: coba *.animekiss* atau *.waifu* buat hiburan, atau *.play [lagu favorit]* buat dengerin musik!"
+    },
+    "emotion_support_2": {
+      "question_patterns": [
+        "gimana cara ngilangin stress"
+      ],
+      "answer": "🧘 *Tips Ngilangin Stress:*\n\n1. Tarik napas dalam 4 detik, tahan 4 detik, hembuskan 4 detik (box breathing)\n2. Jalan santai 10-15 menit\n3. Dengerin musik — coba *.play [judul]* untuk download lagu\n4. Main game santai: *.tebakgambar* atau *.mancing*\n5. Curhat (aku siap dengerin!)\n\nKalau stress berlarut-larut, jangan ragu konsultasi ke profesional ya."
+    },
+    "emotion_support_3": {
+      "question_patterns": [
+        "kamu bisa jadi temen curhat gak"
+      ],
+      "answer": "🤗 Tentu! Aku di sini buat dengerin. Ceritain aja apa yang lagi kamu rasain. Walaupun aku AI, aku bakal dengerin tanpa judge. Kadang ngomongin masalah bisa bikin lebih lega. Cerita yuk!"
+    },
+    "user_confused": {
+      "question_patterns": [
+        "aku bingung",
+        "saya bingung",
+        "masih bingung",
+        "gak ngerti",
+        "nggak ngerti",
+        "kurang paham",
+        "belum paham",
+        "tidak mengerti",
+        "mohon bantuannya",
+        "bisa bantu",
+        "tolong bantu",
+        "bantuin dong"
+      ],
+      "answer": "Tenang, aku bantu ya! Coba ketik *.menu* dulu untuk lihat daftar fitur bot. Dari situ kamu bisa pilih fitur yang kamu mau. Kalau masih bingung, tanya fitur spesifik yang kamu penasaran — aku jelasin detailnya."
+    },
+    "apa_ini": {
+      "question_patterns": [
+        "ini bot apa",
+        "ini apaan sih",
+        "apaan nih",
+        "elaina apaan"
+      ],
+      "answer": "Ini Elaina Asisten, bot WhatsApp multi-fitur buatan NICKY. Bisa untuk RPG game, download video/musik, cari anime, chatting AI, sticker, dan banyak lagi. Ketik *.menu* untuk lihat semua fitur."
+    }
+  },
+  "game_knowledge": {
+    "rpg_getting_started": {
+      "question_patterns": [
+        "cara main rpg",
+        "rpg gimana",
+        "mulai rpg",
+        "rpg pemula",
+        "rpg tutorial",
+        "rpg apa aja",
+        "cara naikin level rpg"
+      ],
+      "answer": "Untuk mulai main RPG: 1) Cek status kamu dengan .rpg-status, 2) Pilih job/profesi dengan .myrole, 3) Kerja cari uang dengan .job, 4) Mining/farming/fishing untuk resources. Ketik .menurpg untuk menu lengkap RPG."
+    },
+    "fishing_guide": {
+      "question_patterns": [
+        "cara mancing",
+        "mancing gimana",
+        "mancing tutorial",
+        "afk mancing",
+        "pancing",
+        "rod",
+        "umpan"
+      ],
+      "answer": "Sistem Mancing: 1) .mancing untuk mulai mancing interaktif, 2) .shop-pancing untuk lihat daftar pancing, 3) .buy-pancing [nama] untuk beli pancing, 4) .set-pancing [nama] untuk ganti pancing aktif, 5) .afk-mancing [menit] untuk mancing otomatis tanpa harus stay di chat. Cek .menu-mancing untuk semua fitur mancing."
+    },
+    "economy_guide": {
+      "question_patterns": [
+        "cara dapet uang",
+        "cara nabung",
+        "bank",
+        "cara transfer",
+        "cara kaya",
+        "ekonomi"
+      ],
+      "answer": "Sistem Ekonomi: 1) .job untuk kerja dapet gaji, 2) .setor [jumlah] untuk nabung ke bank, 3) .tarik [jumlah] untuk ambil dari bank, 4) .tfbank [nomor] [jumlah] untuk transfer. Uang bisa dipakai beli pancing, item RPG, dan upgrade."
+    },
+    "rpg_jobs": {
+      "question_patterns": [
+        "job apa aja",
+        "profesi rpg",
+        "daftar job",
+        "role rpg",
+        "pilih job",
+        "ganti job"
+      ],
+      "answer": "💼 *Job/Profesi RPG:*\n• Miner - menambang\n• Petani - berkebun\n• Nelayan - memancing\n• Peracik Umpan - buat umpan\n• Penempa - crafting senjata\n• Teknisi - repair\n• Pedagang - jual beli\n• Pemburu - berburu\n• Peternak - ternak hewan\n• Alkemis - buat potion\n• Apoteker - buat obat\n• Koki Laut - masak\n• Penjelajah - eksplorasi\n\nKetik .menu-role untuk lihat semua. Pilih dengan .role [nama]."
+    },
+    "rpg_economy": {
+      "question_patterns": [
+        "cara dapet uang rpg",
+        "cara kaya rpg",
+        "ekonomi rpg",
+        "bank rpg",
+        "nabung rpg",
+        "transfer rpg"
+      ],
+      "answer": "💰 *Ekonomi RPG:*\n1. .job untuk kerja dapet gaji\n2. .setor [jumlah] untuk nabung ke bank\n3. .tarik [jumlah] untuk ambil dari bank\n4. .tfbank [nomor] [jumlah] untuk transfer\n5. .bungabank untuk cek bunga\n6. .claimbunga untuk klaim bunga\n7. .banklog untuk lihat mutasi\n\nBank memberi bunga berkala. Rajin nabung ya!"
+    },
+    "fishing_advanced": {
+      "question_patterns": [
+        "pancing terbaik",
+        "rekomendasi rod",
+        "upgrade pancing",
+        "rod apa yang bagus",
+        "pancing pemula",
+        "level pancing"
+      ],
+      "answer": "🎣 *Rekomendasi Pancing:*\n• Pemula: Pancing Bambu (gratis)\n• Level 4+: Pancing Fiber (Rp250k) \n• Level 8+: Pancing Carbon (Rp750k)\n• Level 12+: Pancing Mythril (Rp27M)\n• Level 16+: Pancing Abyss\n• Level 20+: Pancing Tempest\n\nCek .shop-pancing untuk daftar lengkap dan harga."
+    },
+    "rpg_leveling_fast": {
+      "question_patterns": [
+        "cara cepet naikin level",
+        "leveling cepet",
+        "naikin level rpg",
+        "exp banyak",
+        "cara naik level rpg",
+        "grinding rpg",
+        "boost level"
+      ],
+      "answer": "📈 *Cara Cepet Naik Level RPG:*\n\n1. *.job* terus-menerus - kerja = EXP\n2. *.misi* - Misi harian kasih EXP besar\n3. *.afk-mancing [menit]* - EXP pasif sambil ditinggal\n4. Mining/Farming - Dapet EXP + resources\n5. Event spesial kadang kasih EXP bonus\n6. Pilih job yang sesuai level - job lebih tinggi = EXP lebih banyak\n\n💡 Fokus ke satu aktivitas dulu biar efisien!"
+    },
+    "rpg_salary_info": {
+      "question_patterns": [
+        "gaji rpg",
+        "gaji job",
+        "berapa gaji",
+        "penghasilan job",
+        "gaji per jam",
+        "gaji mining",
+        "gaji farming",
+        "gaji nelayan"
+      ],
+      "answer": "💰 Gaji tiap job berbeda tergantung level job dan level RPG kamu. Semakin tinggi level, semakin besar gaji. Cek *.myrole* untuk info job kamu, atau *.menu-role* untuk daftar job lengkap dengan perkiraan gaji."
+    },
+    "rpg_level_15_guide": {
+      "question_patterns": [
+        "level 15",
+        "udah level 15",
+        "rpg level tinggi",
+        "mid game rpg",
+        "level menengah",
+        "udah lumayan level"
+      ],
+      "answer": "Di level 15, kamu sudah mid-game! Rekomendasi:\n• Upgrade ke job tier 2-3 di *.menu-role*\n• Beli Pancing Mythril (Rp27M) kalau fokus fishing\n• Mulai investasi di *.deposit* (deposito bank)\n• Ikut *.market* untuk jual beli resources\n• Gabung *.clan* untuk event bareng\n\nTarget selanjutnya: level 20+ untuk akses ke item legendary!"
+    }
+  },
+  "command_aliases": {
+    "menu": [
+      "menu",
+      "help",
+      "fitur",
+      "daftar fitur",
+      "semua fitur",
+      "list command"
+    ],
+    "menuall": [
+      "menuall",
+      "allmenu",
+      "semua menu",
+      "menu lengkap",
+      "full menu"
+    ],
+    "rpg-status": [
+      "rpg-status",
+      "statusrpg",
+      "status rpg",
+      "profil rpg",
+      "rpg profil",
+      "cek rpg",
+      "rpg saya",
+      "my rpg",
+      "rpg ku",
+      "profilku",
+      "levelku"
+    ],
+    "saldo": [
+      "saldo",
+      "ceksaldo",
+      "cek saldo",
+      "balance",
+      "bal",
+      "uang saya",
+      "duit saya",
+      "cek uang",
+      "uangku"
+    ],
+    "mancing": [
+      "mancing",
+      "pancing",
+      "fishing",
+      "mulai mancing",
+      "pergi mancing",
+      "ayo mancing"
+    ],
+    "animelist": [
+      "anime-list",
+      "animelist",
+      "list anime",
+      "daftar anime",
+      "menu anime",
+      "anime menu",
+      "semua anime"
+    ],
+    "animesearch": [
+      "anime-search",
+      "animesearch",
+      "cari anime",
+      "search anime",
+      "cari karakter"
+    ],
+    "ai": [
+      "ai",
+      "tanya",
+      "ask",
+      "chat",
+      "ngobrol",
+      "autoai"
+    ],
+    "menuanime": [
+      "menuanime",
+      "menu anime",
+      "buka anime",
+      "fitur anime",
+      "semua anime"
+    ],
+    "menugame": [
+      "menugame",
+      "menu game",
+      "game",
+      "fitur game"
+    ],
+    "menurpg": [
+      "menurpg",
+      "menu rpg",
+      "rpg",
+      "fitur rpg"
+    ],
+    "menudownloader": [
+      "menudownloader",
+      "menu downloader",
+      "downloader",
+      "download",
+      "fitur download"
+    ],
+    "menutools": [
+      "menutools",
+      "menu tools",
+      "tools",
+      "fitur tools"
+    ],
+    "menugroup": [
+      "menugroup",
+      "menu group",
+      "grup",
+      "group",
+      "fitur grup"
+    ],
+    "menuislami": [
+      "menuislami",
+      "menu islami",
+      "islami",
+      "fitur islami"
+    ],
+    "menusearch": [
+      "menusearch",
+      "menu search",
+      "search",
+      "cari",
+      "fitur search"
+    ],
+    "menuconvert": [
+      "menuconvert",
+      "menu convert",
+      "convert",
+      "konversi"
+    ],
+    "play": [
+      "play",
+      "putar",
+      "lagu",
+      "musik",
+      "music",
+      "song",
+      "download lagu",
+      "download musik"
+    ],
+    "tiktok": [
+      "tiktok",
+      "tt",
+      "ttdl",
+      "download tiktok",
+      "tt download"
+    ],
+    "instagram": [
+      "instagram",
+      "ig",
+      "igdl",
+      "download ig",
+      "download instagram"
+    ],
+    "sticker": [
+      "sticker",
+      "stiker",
+      "s",
+      "swm",
+      "jadiin stiker",
+      "buat stiker",
+      "bikin stiker"
+    ],
+    "jadibot": [
+      "jadibot",
+      "clonebot",
+      "jadi bot",
+      "clone",
+      "bot clone",
+      "bikin bot",
+      "buat bot"
+    ],
+    "jadwal": [
+      "jadwalshalat",
+      "shalat",
+      "sholat",
+      "adzan",
+      "waktu shalat",
+      "jadwal sholat",
+      "jam shalat"
+    ],
+    "script": [
+      "script",
+      "sc",
+      "source",
+      "source code",
+      "repo",
+      "github",
+      "script bot"
+    ],
+    "facebook": [
+      "facebook",
+      "fb",
+      "fbdl",
+      "download fb",
+      "download facebook"
+    ],
+    "youtube": [
+      "youtube",
+      "yt",
+      "ytmp3",
+      "ytmp4",
+      "download yt",
+      "download youtube"
+    ],
+    "afk-mancing": [
+      "afk-mancing",
+      "afk mancing",
+      "mancing afk",
+      "auto mancing",
+      "mancing otomatis",
+      "afk fishing"
+    ],
+    "shop-pancing": [
+      "shop-pancing",
+      "shop pancing",
+      "toko pancing",
+      "beli pancing",
+      "daftar pancing"
+    ],
+    "set-pancing": [
+      "set-pancing",
+      "set pancing",
+      "ganti pancing",
+      "pilih pancing",
+      "pakai pancing"
+    ],
+    "buy-pancing": [
+      "buy-pancing",
+      "buy pancing",
+      "beli pancing",
+      "beli rod"
+    ],
+    "antilink": [
+      "antilink",
+      "anti link",
+      "antilinkgc",
+      "nyalain antilink",
+      "aktifkan antilink"
+    ],
+    "tagall": [
+      "tagall",
+      "tag all",
+      "tag semua",
+      "mention all",
+      "hidetag"
+    ],
+    "kick": [
+      "kick",
+      "tendang",
+      "keluarkan",
+      "remove"
+    ],
+    "werewolf": [
+      "werewolf",
+      "ww",
+      "werewolf game",
+      "game werewolf"
+    ],
+    "catur": [
+      "catur",
+      "chess",
+      "catur game",
+      "game catur"
+    ],
+    "tebakgambar": [
+      "tebakgambar",
+      "tebak gambar",
+      "game tebak gambar",
+      "guess picture"
+    ],
+    "tebakkata": [
+      "tebakkata",
+      "tebak kata",
+      "game tebak kata",
+      "guess word"
+    ],
+    "tebaklagu": [
+      "tebaklagu",
+      "tebak lagu",
+      "game tebak lagu",
+      "guess song"
+    ],
+    "qr": [
+      "qr",
+      "qris",
+      "bikin qr",
+      "buat qr",
+      "qr code"
+    ],
+    "translate": [
+      "translate",
+      "terjemahin",
+      "translate bahasa",
+      "artiin"
+    ],
+    "tts": [
+      "tts",
+      "text to speech",
+      "ubah teks jadi suara",
+      "suara dari teks"
+    ],
+    "remini": [
+      "remini",
+      "enhance",
+      "hd",
+      "jernihin foto",
+      "tajamin",
+      "enhance foto"
+    ],
+    "jadwalshalat": [
+      "jadwalshalat",
+      "shalat",
+      "sholat",
+      "adzan",
+      "waktu shalat",
+      "jadwal sholat",
+      "jam shalat",
+      "waktu sholat"
+    ],
+    "daily-rpg": [
+      "daily-rpg",
+      "daily",
+      "hadiah harian",
+      "reward harian",
+      "klaim harian",
+      "bonus rpg"
+    ],
+    "jual-ikan": [
+      "jual-ikan",
+      "jual ikan",
+      "sell fish",
+      "jual hasil mancing"
+    ],
+    "shop-umpan": [
+      "shop-umpan",
+      "shop umpan",
+      "toko umpan",
+      "beli umpan",
+      "buy umpan",
+      "list umpan"
+    ],
+    "animekiss": [
+      "animekiss",
+      "anime kiss",
+      "kiss anime",
+      "cium anime"
+    ],
+    "animehug": [
+      "animehug",
+      "anime hug",
+      "peluk anime",
+      "hug anime"
+    ],
+    "gojo": [
+      "gojo",
+      "satoru-gojo",
+      "satoru gojo",
+      "gojo satoru",
+      "jujutsu"
+    ],
+    "quran": [
+      "quran",
+      "alquran",
+      "al quran",
+      "baca quran",
+      "ngaji"
+    ],
+    "hadist": [
+      "hadist",
+      "hadits",
+      "hadis",
+      "cari hadist"
+    ],
+    "asmaulhusna": [
+      "asmaulhusna",
+      "asmaul husna",
+      "99 nama",
+      "nama allah"
+    ],
+    "zodiak": [
+      "zodiak",
+      "ramalan zodiak",
+      "horoscope",
+      "bintang"
+    ],
+    "jodoh": [
+      "jodoh",
+      "cocok jodoh",
+      "ramalan jodoh",
+      "cek jodoh"
+    ],
+    "weton": [
+      "weton",
+      "hitung weton",
+      "neptu"
+    ],
+    "cnn": [
+      "cnn",
+      "berita cnn",
+      "cnn indonesia"
+    ],
+    "cnbc": [
+      "cnbc",
+      "berita cnbc",
+      "cnbc indonesia"
+    ],
+    "kompas": [
+      "kompas",
+      "berita kompas",
+      "kompas com"
+    ],
+    "pinterest": [
+      "pinterest",
+      "pin",
+      "cari pin",
+      "gambar pinterest"
+    ],
+    "toaudio": [
+      "toaudio",
+      "tomp3",
+      "convert audio",
+      "mp4 to mp3",
+      "video ke audio"
+    ],
+    "tourl": [
+      "tourl",
+      "upload",
+      "upload file",
+      "jadiin link"
+    ],
+    "ssweb": [
+      "ssweb",
+      "screenshot web",
+      "ss website",
+      "tangkap layar web"
+    ],
+    "generate-attp": [
+      "generate-attp",
+      "attp",
+      "sticker text",
+      "text ke stiker"
+    ],
+    "ping": [
+      "ping",
+      "test bot",
+      "cek bot",
+      "kecepatan bot"
+    ],
+    "owner": [
+      "owner",
+      "kontak owner",
+      "hubungi owner",
+      "contact owner"
+    ],
+    "tas-mancing": [
+      "tas-mancing",
+      "tas mancing",
+      "inventory mancing",
+      "hasil mancing",
+      "ikan saya"
+    ],
+    "ganti-rod": [
+      "ganti-rod",
+      "ganti rod",
+      "ganti pancing",
+      "set pancing",
+      "set rod",
+      "pilih pancing",
+      "pakai pancing"
+    ],
+    "menuai": [
+      "menuai",
+      "menu ai",
+      "buka ai",
+      "ai menu",
+      "chat ai"
+    ],
+    "twitter": [
+      "twitter",
+      "twitdl",
+      "twdl",
+      "download twitter",
+      "download tweet",
+      "download x",
+      "x download"
+    ],
+    "capcut": [
+      "capcut",
+      "cc",
+      "download capcut",
+      "capcut download",
+      "template capcut"
+    ],
+    "pindl": [
+      "pindl",
+      "pin dl",
+      "download pinterest",
+      "pinterest download",
+      "download pin",
+      "save pin"
+    ],
+    "mediafire": [
+      "mediafire",
+      "mf",
+      "download mediafire",
+      "mediafire download"
+    ],
+    "likee": [
+      "likee",
+      "like",
+      "download likee",
+      "likee download"
+    ],
+    "snackvideo": [
+      "snackvideo",
+      "snack",
+      "download snack",
+      "snack download"
+    ],
+    "menumancing": [
+      "menumancing",
+      "menu-mancing",
+      "menu mancing",
+      "fitur mancing",
+      "mancing menu"
+    ]
+  },
+  "greeting_patterns": [
+    "halo",
+    "hai",
+    "hi",
+    "hey",
+    "p",
+    "assalamualaikum",
+    "assalamu",
+    "permisi",
+    "pagii",
+    "siang",
+    "malam",
+    "hello",
+    "woi",
+    "oi"
+  ],
+  "farewell_patterns": [
+    "makasih",
+    "terima kasih",
+    "thanks",
+    "thank",
+    "thx",
+    "makasi",
+    "oke makasih",
+    "dadah",
+    "bye",
+    "sampai jumpa",
+    "makasih ya"
+  ],
+  "generic_responses": {
+    "greeting": [
+      "Halo juga! Ada yang bisa kubantu?",
+      "Hai! Butuh bantuan apa?",
+      "Halo! Mau tanya-tanya atau butuh sesuatu?"
+    ],
+    "farewell": [
+      "Sama-sama! Kalau butuh bantuan lagi, panggil aja.",
+      "Siap! Senang bisa bantu.",
+      "Oke, sampai jumpa lagi ya!"
+    ],
+    "confused": [
+      "Hmm, aku kurang paham maksudmu. Coba jelaskan lebih detail ya? Atau ketik .menu untuk lihat fitur yang tersedia.",
+      "Wah, maaf aku belum ngerti. Bisa tolong perjelas maksud kamu?",
+      "Aku belum yakin apa yang kamu maksud. Coba ulangi dengan lebih jelas ya."
+    ],
+    "error": [
+      "Maaf, terjadi kesalahan. Coba lagi nanti ya.",
+      "Waduh, ada error nih. Mungkin coba lagi?"
+    ]
+  },
+  "contextual_patterns": {
+    "lanjut": {
+      "patterns": [
+        "lanjut",
+        "terus",
+        "lalu",
+        "trus",
+        "teruskan",
+        "next",
+        "selanjutnya",
+        "habis itu"
+      ],
+      "response": "Baik, kita lanjut. Ada yang mau ditanyakan lagi?"
+    },
+    "benar_salah": {
+      "patterns": [
+        "betul",
+        "bener",
+        "benar",
+        "iya betul",
+        "ya benar",
+        "betul sekali"
+      ],
+      "response": "Oke, sip! Ada lagi yang mau didiskusikan?"
+    },
+    "tidak_paham": {
+      "patterns": [
+        "gak ngerti",
+        "nggak paham",
+        "bingung",
+        "maksudnya",
+        "kurang jelas",
+        "gak paham"
+      ],
+      "response": "Baik, aku jelaskan ulang ya. Bisa tolong sebutkan bagian mana yang kurang jelas?"
+    },
+    "minta_contoh": {
+      "patterns": [
+        "contoh",
+        "contohnya",
+        "kasih contoh",
+        "misalnya",
+        "beri contoh"
+      ],
+      "response": "Tentu! Ini contohnya... (Jelaskan lebih detail bagian mana yang mau dikasih contoh?)"
+    },
+    "permisi_tanya": {
+      "patterns": [
+        "permisi",
+        "mau tanya",
+        "boleh tanya",
+        "boleh nanya",
+        "mau nanya dong",
+        "tanya dong"
+      ],
+      "response": "Silakan, tanya aja! Aku siap bantu."
+    },
+    "butuh_bantuan": {
+      "patterns": [
+        "tolong",
+        "help",
+        "bantu",
+        "butuh bantuan",
+        "minta tolong"
+      ],
+      "response": "Tentu! Kasih tau aja apa yang kamu butuhin, aku bantu sebisaku."
+    },
+    "pemula_bingung": {
+      "patterns": [
+        "aku bingung",
+        "gak ngerti",
+        "nggak paham",
+        "masih awam",
+        "baru belajar",
+        "belum ngerti",
+        "gak paham",
+        "kurang tau",
+        "gak tau",
+        "bingung banget",
+        "masih bingung"
+      ],
+      "response": "Tenang, aku jelasin pelan-pelan ya. Jadi gini..."
+    },
+    "minta_saran": {
+      "patterns": [
+        "minta saran",
+        "kasih saran",
+        "saran dong",
+        "rekomendasi",
+        "menurutmu",
+        "menurut kamu"
+      ],
+      "response": "Hmm, menurut aku... (lanjutkan dengan konteks yang relevan)"
+    },
+    "butuh_detail": {
+      "patterns": [
+        "jelasin detail",
+        "lebih detail",
+        "rinci",
+        "lengkap",
+        "step by step",
+        "langkah langkah"
+      ],
+      "response": "Baik, aku jelaskan secara detail langkah demi langkah ya."
+    },
+    "lanjut_konteks": {
+      "patterns": [
+        "lanjutin",
+        "terus gimana",
+        "terusin",
+        "next",
+        "habis itu ngapain",
+        "selanjutnya"
+      ],
+      "response": "Baik, lanjut ya. Setelah itu..."
+    },
+    "tertarik_coba": {
+      "patterns": [
+        "menarik",
+        "keren juga",
+        "boleh dicoba",
+        "pengen coba",
+        "mau coba",
+        "coba ah"
+      ],
+      "response": "Wah, coba aja dulu! Kalau ada yang bingung, tanya lagi ya."
+    },
+    "pujian_bot": {
+      "patterns": [
+        "keren botnya",
+        "bagus",
+        "mantap",
+        "jago",
+        "pintar",
+        "hebat"
+      ],
+      "response": "Ah, makasih! Senang bisa bantu. Ada lagi yang mau ditanyain?"
+    }
+  },
+  "general_knowledge": {
+    "science": {
+      "langit_biru": {
+        "question_patterns": [
+          "kenapa langit biru",
+          "langit warnanya biru",
+          "warna langit biru",
+          "penyebab langit biru",
+          "langit kenapa biru",
+          "why is the sky blue"
+        ],
+        "answer": "🌌 *Kenapa Langit Biru?*\n\nCahaya matahari sebenarnya putih, tapi saat masuk atmosfer bumi, cahaya tersebut dihamburkan oleh molekul udara. Cahaya biru memiliki panjang gelombang lebih pendek sehingga lebih mudah dihamburkan ke segala arah. Itulah kenapa kita melihat langit berwarna biru! Fenomena ini disebut *Rayleigh Scattering*."
+      },
+      "gravitasi": {
+        "question_patterns": [
+          "cara kerja gravitasi",
+          "apa itu gravitasi",
+          "gravitasi einstein",
+          "teori gravitasi",
+          "gravitasi bumi",
+          "gaya gravitasi"
+        ],
+        "answer": "🍎 *Gravitasi:*\n\nMenurut Newton, gravitasi adalah gaya tarik-menarik antara dua benda bermassa. Einstein kemudian merevisinya dengan Teori Relativitas Umum — gravitasi bukanlah \"gaya\" melainkan lengkungan ruang-waktu yang disebabkan oleh massa benda. Semakin besar massa (seperti bumi/matahari), semakin besar lengkungannya, sehingga benda lain \"jatuh\" mengikuti lengkungan tersebut."
+      },
+      "black_hole": {
+        "question_patterns": [
+          "apa itu black hole",
+          "black hole",
+          "lubang hitam",
+          "kenapa cahaya tidak bisa keluar black hole",
+          "lubang hitam itu apa"
+        ],
+        "answer": "🕳️ *Black Hole (Lubang Hitam):*\n\nBlack hole adalah objek luar angkasa dengan gravitasi SANGAT kuat — bahkan cahaya pun tidak bisa lolos. Terbentuk saat bintang masif mati dan runtuh ke dalam dirinya sendiri. Titik pusatnya disebut *singularity*, dan batas di mana tidak ada yang bisa kembali disebut *event horizon*. Cahaya tidak bisa keluar karena kecepatan lepas (escape velocity) melebihi kecepatan cahaya!"
+      },
+      "fotosintesis": {
+        "question_patterns": [
+          "bagaimana fotosintesis",
+          "proses fotosintesis",
+          "fotosintesis tumbuhan",
+          "cara tumbuhan buat makanan",
+          "fotosintesis terjadi"
+        ],
+        "answer": "🌿 *Fotosintesis:*\n\nTumbuhan mengubah cahaya matahari, air (H₂O), dan karbon dioksida (CO₂) menjadi glukosa (makanan) dan oksigen (O₂). Prosesnya: 1) Daun menyerap cahaya via klorofil, 2) Air dari akar dipecah jadi oksigen & hidrogen, 3) CO₂ dari udara digabung dengan hidrogen membentuk glukosa. Reaksi: 6CO₂ + 6H₂O + cahaya → C₆H₁₂O₆ + 6O₂"
+      },
+      "air_mendidih": {
+        "question_patterns": [
+          "mengapa air mendidih 100 derajat",
+          "air mendidih suhu",
+          "titik didih air",
+          "kenapa air mendidih",
+          "suhu air mendidih"
+        ],
+        "answer": "💧 *Kenapa Air Mendidih di 100°C?*\n\nPada tekanan atmosfer normal (1 atm di permukaan laut), air mendidih di 100°C karena pada suhu itu tekanan uap air sama dengan tekanan atmosfer sekitarnya. Menariknya: di gunung yang tinggi, air mendidih di suhu lebih rendah (sekitar 90°C di ketinggian 3000m) karena tekanan udara lebih rendah!"
+      },
+      "atom_molekul": {
+        "question_patterns": [
+          "perbedaan atom dan molekul",
+          "atom vs molekul",
+          "apa itu atom",
+          "apa itu molekul",
+          "beda atom molekul"
+        ],
+        "answer": "⚛️ *Atom vs Molekul:*\n\n• *Atom*: unit terkecil suatu unsur kimia (contoh: H = Hidrogen, O = Oksigen)\n• *Molekul*: gabungan 2 atau lebih atom yang terikat secara kimia (contoh: H₂O = air, gabungan 2 atom H + 1 atom O)\n\nIbarat LEGO: atom adalah satu brick, molekul adalah konstruksi dari beberapa brick!"
+      },
+      "vaksin": {
+        "question_patterns": [
+          "cara kerja vaksin",
+          "bagaimana vaksin bekerja",
+          "vaksin dalam tubuh",
+          "vaksinasi",
+          "vaksin itu apa"
+        ],
+        "answer": "💉 *Cara Kerja Vaksin:*\n\nVaksin mengandung versi lemah/mati dari virus/bakteri (atau proteinnya). Saat disuntikkan, sistem imun kita mengenali sebagai \"musuh\" dan membuat antibodi. Jadi saat virus asli menyerang nanti, tubuh sudah punya \"pasukan\" antibodi siap tempur. Itu kenapa vaksin mencegah penyakit — melatih sistem imun lebih dulu!"
+      },
+      "bulan_jatuh": {
+        "question_patterns": [
+          "kenapa bulan tidak jatuh",
+          "bulan tidak jatuh ke bumi",
+          "mengapa bulan mengorbit",
+          "bulan kok gak jatuh"
+        ],
+        "answer": "🌙 *Kenapa Bulan Tidak Jatuh ke Bumi?*\n\nBulan sebenarnya SELALU \"jatuh\" ke arah bumi karena gravitasi. Tapi bulan juga bergerak ke samping dengan kecepatan tinggi (~3680 km/jam). Kombinasi jatuh + gerak ke samping ini menghasilkan orbit melingkar. Seperti bola yang dilempar cukup kencang — dia akan terus \"jatuh\" mengelilingi bumi tanpa pernah menyentuhnya!"
+      }
+    },
+    "history": {
+      "indonesia_merdeka": {
+        "question_patterns": [
+          "kapan indonesia merdeka",
+          "indonesia merdeka",
+          "presiden pertama indonesia",
+          "17 agustus 1945",
+          "proklamasi kemerdekaan indonesia"
+        ],
+        "answer": "🇮🇩 *Kemerdekaan Indonesia:*\n\nIndonesia merdeka pada *17 Agustus 1945*. Proklamasi dibacakan oleh Soekarno dan Hatta di Jalan Pegangsaan Timur No. 56, Jakarta. Soekarno menjadi presiden pertama dan Mohammad Hatta sebagai wakil presiden pertama."
+      },
+      "perang_dunia2": {
+        "question_patterns": [
+          "penyebab perang dunia kedua",
+          "perang dunia 2",
+          "kenapa perang dunia 2",
+          "penyebab ww2",
+          "perang dunia kedua kenapa"
+        ],
+        "answer": "⚔️ *Penyebab Perang Dunia II (1939-1945):*\n\n1. Jerman di bawah Hitler melanggar Perjanjian Versailles dan menginvasi Polandia (1939)\n2. Ekspansi agresif Jepang di Asia-Pasifik\n3. Kegagalan Liga Bangsa-Bangsa mencegah konflik\n4. Depresi ekonomi global yang memicu nasionalisme ekstrim\n5. Kebencian Jerman atas kekalahan di PD I\n\nTotal korban diperkirakan 70-85 juta jiwa — konflik paling mematikan dalam sejarah."
+      },
+      "penemu_listrik": {
+        "question_patterns": [
+          "siapa penemu listrik",
+          "penemu listrik",
+          "bagaimana listrik ditemukan",
+          "sejarah listrik",
+          "penemuan listrik"
+        ],
+        "answer": "⚡ *Penemu Listrik:*\n\nListrik bukan \"ditemukan\" oleh satu orang — tapi dipahami secara bertahap. Benjamin Franklin membuktikan petir adalah listrik (1752). Alessandro Volta menciptakan baterai pertama (1800). Michael Faraday menemukan induksi elektromagnetik (1831) — dasar generator modern. Thomas Edison dan Nikola Tesla mengembangkan sistem listrik praktis. Tesla menemukan arus AC yang kita pakai hari ini!"
+      },
+      "majapahit": {
+        "question_patterns": [
+          "sejarah kerajaan majapahit",
+          "kerajaan majapahit",
+          "majapahit",
+          "gajah mada",
+          "hayam wuruk"
+        ],
+        "answer": "🏛️ *Kerajaan Majapahit (1293-1527):*\n\nKerajaan Hindu-Buddha terbesar di Nusantara, berpusat di Jawa Timur (dekat Mojokerto sekarang). Mencapai puncak kejayaan di bawah Raja Hayam Wuruk (1350-1389) dengan Mahapatih Gajah Mada yang terkenal dengan \"Sumpah Palapa\"-nya — menyatukan Nusantara. Wilayahnya mencakup Indonesia modern + Malaysia, Singapura, dan Filipina selatan."
+      },
+      "einstein": {
+        "question_patterns": [
+          "siapa albert einstein",
+          "einstein",
+          "kontribusi einstein",
+          "einstein penemu apa",
+          "teori relativitas"
+        ],
+        "answer": "🧠 *Albert Einstein (1879-1955):*\n\nFisikawan paling berpengaruh abad ke-20. Kontribusi utamanya:\n• Teori Relativitas Khusus (1905): E=mc²\n• Teori Relativitas Umum (1915): gravitasi = lengkungan ruang-waktu\n• Efek fotolistrik (Nobel Prize 1921)\n• Gerak Brown (membuktikan atom)\n\nRevolusi pemahaman kita tentang ruang, waktu, dan alam semesta!"
+      }
+    },
+    "coding": {
+      "js_vs_python": {
+        "question_patterns": [
+          "perbedaan javascript dan python",
+          "javascript vs python",
+          "beda js dan python",
+          "js sama python bedanya",
+          "javascript atau python"
+        ],
+        "answer": "💻 *JavaScript vs Python:*\n\n• *JS*: Bahasa scripting untuk web (frontend + backend via Node.js). Async by default. Lebih cepat di browser. Sintaks curly braces {}.\n• *Python*: General purpose, sintaks simpel pakai indentasi. Populer di data science, AI, backend. Lebih mudah dibaca pemula.\n\nIntinya: JS wajib buat web, Python wajib buat AI/data."
+      },
+      "rest_api": {
+        "question_patterns": [
+          "apa itu rest api",
+          "rest api",
+          "cara kerja rest api",
+          "restful api",
+          "api itu apa"
+        ],
+        "answer": "🔗 *REST API (Representational State Transfer):*\n\nCara dua sistem komputer berkomunikasi lewat HTTP. Pake metode:\n• GET = ambil data\n• POST = kirim data baru\n• PUT/PATCH = update data\n• DELETE = hapus data\n\nContoh: GET /users/1 → ambil user ID 1. Response biasanya format JSON. REST API adalah standar komunikasi web modern!"
+      },
+      "async_await": {
+        "question_patterns": [
+          "async await",
+          "jelasin async await",
+          "konsep async await javascript",
+          "cara kerja async await",
+          "async await adalah"
+        ],
+        "answer": "⏳ *Async/Await di JavaScript:*\n\nCara menangani operasi asynchronous (butuh waktu — seperti fetch data) dengan kode yang mudah dibaca. Tanpa async/await, harus pakai callback atau Promise chain yang bisa jadi \"callback hell\".\n\n```js\nasync function getData() {\n  const response = await fetch('https://api.com/data')\n  const data = await response.json()\n  return data  // kode menunggu fetch selesai baru lanjut\n}\n```\n\n`await` = \"tunggu sampai selesai, baru lanjut\". `async` = fungsi ini punya await di dalamnya."
+      },
+      "sql_vs_nosql": {
+        "question_patterns": [
+          "perbedaan sql dan nosql",
+          "sql vs nosql",
+          "apa beda sql nosql",
+          "database sql atau nosql"
+        ],
+        "answer": "🗄️ *SQL vs NoSQL Database:*\n\n• *SQL* (MySQL, PostgreSQL): Data terstruktur macam tabel Excel. Ada relasi antar tabel. Pakai query language standar. Cocok buat data yang konsisten (banking, inventory).\n• *NoSQL* (MongoDB, Redis): Data fleksibel — bisa JSON/dokumen. Gak perlu skema kaku. Lebih gampang scale horizontal. Cocok buat data dinamis (social media, real-time).\n\nGampangnya: SQL = rapi dan teratur, NoSQL = fleksibel."
+      },
+      "html_css_website": {
+        "question_patterns": [
+          "bikin website sederhana",
+          "cara bikin website",
+          "html css untuk pemula",
+          "buat website pake html css"
+        ],
+        "answer": "🌐 *Bikin Website Sederhana (HTML + CSS):*\n\n1. Buat file `index.html` dengan struktur dasar HTML\n2. Tambah CSS di `<style>` untuk styling\n3. Buka di browser!\n\nSederhananya:\n```html\n<!DOCTYPE html>\n<h1>Halo Dunia!</h1>\n<p>Website pertamaku</p>\n```\n\nMau belajar lebih? Banyak tutorial gratis di w3schools atau freeCodeCamp!"
+      }
+    },
+    "philosophy": {
+      "arti_kehidupan": {
+        "question_patterns": [
+          "apa arti kehidupan",
+          "makna hidup",
+          "arti kehidupan menurut filosofi",
+          "tujuan hidup"
+        ],
+        "answer": "🤔 *Arti Kehidupan (Filosofi):*\n\nBerbagai aliran filsafat punya jawaban berbeda:\n• *Eksistensialisme* (Sartre): Hidup tidak punya arti bawaan — kita yang menciptakan makna sendiri.\n• *Stoikisme*: Hidup yang baik adalah hidup dengan kebajikan dan menerima hal di luar kendali kita.\n• *Hedonisme*: Mencari kebahagiaan dan kenikmatan.\n• *Absurdisme* (Camus): Hidup itu absurd, tapi kita harus tetap menjalaninya dengan semangat.\n\nIntinya: makna hidup adalah apa yang KAMU pilih untuk diperjuangkan!"
+      },
+      "free_will": {
+        "question_patterns": [
+          "apakah manusia punya kehendak bebas",
+          "free will",
+          "kehendak bebas",
+          "manusia bebas memilih"
+        ],
+        "answer": "🕊️ *Kehendak Bebas (Free Will):*\n\nPerdebatan filosofis klasik! Dua kubu utama:\n• *Determinisme*: Semua tindakan sudah ditentukan oleh sebab-akibat sebelumnya. Pilihan kita ilusi.\n• *Libertarianisme*: Manusia benar-benar bebas memilih, tidak terikat rantai kausal.\n• *Kompatibilisme*: Jalan tengah — kebebasan bisa eksis meski determinisme juga benar.\n\nIlmuwan modern masih berdebat — quantum mechanics bisa jadi celah untuk free will!"
+      },
+      "etika_moral": {
+        "question_patterns": [
+          "perbedaan etika dan moral",
+          "etika vs moral",
+          "apa itu etika",
+          "apa itu moral"
+        ],
+        "answer": "⚖️ *Etika vs Moral:*\n\n• *Moral*: Prinsip benar/salah yang kamu percayai secara pribadi (dari agama, keluarga, hati nurani).\n• *Etika*: Aturan/tata krama yang disepakati oleh komunitas/profesi/masyarakat.\n\nContoh: Secara moral kamu merasa berbohong itu salah. Tapi secara etika, dokter kadang boleh tidak memberitahu diagnosis penuh ke pasien demi kebaikannya. Moral = hati nurani, Etika = aturan sosial."
+      },
+      "mimpi_tidur": {
+        "question_patterns": [
+          "kenapa kita bermimpi",
+          "mimpi saat tidur",
+          "penyebab mimpi",
+          "mengapa manusia bermimpi"
+        ],
+        "answer": "💤 *Kenapa Kita Bermimpi?*\n\nTeori utama:\n• *Memory consolidation*: Otak memproses dan menyimpan memori hari itu\n• *Emotional regulation*: Mimpi membantu mengolah emosi\n• *Threat simulation*: Latihan menghadapi bahaya (teori evolusi)\n• *Random activation*: Neuron di otak aktif random saat tidur REM\n\nMimpi terjadi terutama saat fase REM (Rapid Eye Movement). Menariknya, semua mamalia bermimpi!"
+      },
+      "ai_consciousness": {
+        "question_patterns": [
+          "apakah AI bisa punya kesadaran",
+          "ai sadar",
+          "ai consciousness",
+          "kesadaran buatan"
+        ],
+        "answer": "🤖 *Apakah AI Bisa Sadar?*\n\nSaat ini, TIDAK. AI seperti aku adalah pattern matching canggih — bisa merespon seperti manusia, tapi tidak punya kesadaran subjektif (qualia). Aku tidak \"merasakan\" apapun.\n\nPerdebatan filosofis: kalau suatu hari AI benar-benar bisa sadar, bagaimana kita tahu? Itu disebut \"The Hard Problem of Consciousness\" — seberapa kompleks sistem harus jadi sebelum kesadaran muncul? Sampai sekarang belum terjawab!"
+      }
+    },
+    "math_help": {
+      "bilangan_prima": {
+        "question_patterns": [
+          "apa itu bilangan prima",
+          "bilangan prima",
+          "prime number",
+          "contoh bilangan prima"
+        ],
+        "answer": "🔢 *Bilangan Prima:*\n\nBilangan yang hanya bisa dibagi oleh 1 dan dirinya sendiri. Contoh: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29...\n\nCatatan: 1 BUKAN bilangan prima. 2 adalah satu-satunya bilangan prima genap! Bilangan prima penting dalam kriptografi — sistem keamanan internet (HTTPS) pake bilangan prima besar!"
+      },
+      "luas_lingkaran": {
+        "question_patterns": [
+          "hitung luas lingkaran",
+          "luas lingkaran",
+          "rumus luas lingkaran",
+          "circle area"
+        ],
+        "answer": "⭕ *Luas Lingkaran = π × r²*\n\nπ (pi) ≈ 3.14, r = jari-jari.\nContoh: r = 7 cm → Luas = 3.14 × 7² = 3.14 × 49 = 153.86 cm².\n\nKalau pakai π = 22/7: Luas = 22/7 × 49 = 154 cm²."
+      }
+    },
+    "general_facts": {
+      "ibu_kota_jepang": {
+        "question_patterns": [
+          "apa ibu kota jepang",
+          "ibukota jepang",
+          "tokyo",
+          "capital of japan",
+          "jepang ibukotanya"
+        ],
+        "answer": "🏯 Ibu kota Jepang adalah *Tokyo*. Sebelumnya ibu kota Jepang adalah Kyoto (794-1868) sebelum dipindahkan ke Tokyo pada era Restorasi Meiji."
+      },
+      "provinsi_indonesia": {
+        "question_patterns": [
+          "berapa provinsi di indonesia",
+          "jumlah provinsi indonesia",
+          "provinsi indonesia ada berapa"
+        ],
+        "answer": "🗺️ Indonesia memiliki *38 provinsi* (per 2023), termasuk 3 provinsi terbaru: Papua Selatan, Papua Tengah, dan Papua Pegunungan. Provinsi terbanyak ada di Pulau Sumatera dan Papua."
+      },
+      "presiden_sekarang": {
+        "question_patterns": [
+          "siapa presiden indonesia sekarang",
+          "presiden indonesia 2024",
+          "presiden sekarang",
+          "presiden ri"
+        ],
+        "answer": "🇮🇩 Presiden Indonesia saat ini adalah *Prabowo Subianto* (sejak 20 Oktober 2024), dengan Gibran Rakabuming Raka sebagai wakil presiden."
+      },
+      "mata_uang_malaysia": {
+        "question_patterns": [
+          "mata uang malaysia",
+          "uang malaysia",
+          "ringgit",
+          "currency malaysia"
+        ],
+        "answer": "💱 Mata uang Malaysia adalah *Ringgit Malaysia (MYR)*. Sering disingkat RM. 1 Ringgit ≈ Rp3.500 (kurs fluktuatif)."
+      },
+      "candi_borobudur": {
+        "question_patterns": [
+          "dimana candi borobudur",
+          "letak borobudur",
+          "borobudur dimana"
+        ],
+        "answer": "🛕 Candi Borobudur terletak di *Magelang, Jawa Tengah*. Candi Buddha terbesar di dunia ini dibangun pada abad ke-9 oleh Dinasti Syailendra. Merupakan Situs Warisan Dunia UNESCO."
+      }
+    },
+    "emotional_support": {
+      "sedih": {
+        "question_patterns": [
+          "aku lagi sedih",
+          "aku sedih banget",
+          "curhat",
+          "lagi galau",
+          "galau",
+          "sedih",
+          "hati sakit"
+        ],
+        "answer": "😢 Hai... aku dengerin kok. Semua orang kadang ngerasa sedih dan itu manusiawi. Coba: tarik napas dalam-dalam, dengerin musik favorit, atau main game di bot buat alihin pikiran. Ketik *.menugame* — ada banyak game seru! Kalau butuh ngobrol, aku di sini."
+      },
+      "putus_cinta": {
+        "question_patterns": [
+          "putus sama pacar",
+          "baru putus",
+          "patah hati",
+          "diputusin",
+          "broken heart",
+          "sakit hati"
+        ],
+        "answer": "💔 Putus memang sakit, dan itu valid. Tapi ingat: ini bukan akhir dunia. Fokus ke dirimu dulu — lakukan hobi, kumpul sama temen, coba hal baru. Waktu akan menyembuhkan. Sementara itu, bot ini siap nemenin: coba *.animekiss* atau *.waifu* buat hiburan, atau *.play [lagu favorit]* buat dengerin musik!"
+      },
+      "stress": {
+        "question_patterns": [
+          "gimana ngilangin stress",
+          "aku stress",
+          "capek banget",
+          "stress",
+          "burnout",
+          "lelah mental"
+        ],
+        "answer": "🧘 *Tips Ngilangin Stress:*\n\n1. Tarik napas dalam 4 detik, tahan 4 detik, hembuskan 4 detik (box breathing)\n2. Jalan santai 10-15 menit\n3. Dengerin musik — coba *.play [judul]* untuk download lagu\n4. Main game santai: *.tebakgambar* atau *.mancing*\n5. Curhat (aku siap dengerin!)\n\nKalau stress berlarut-larut, jangan ragu konsultasi ke profesional ya."
+      },
+      "temen_curhat": {
+        "question_patterns": [
+          "bisa jadi temen curhat",
+          "temen curhat",
+          "butuh temen ngobrol",
+          "aku kesepian",
+          "lonely"
+        ],
+        "answer": "🤗 Tentu! Aku di sini buat dengerin. Ceritain aja apa yang lagi kamu rasain. Walaupun aku AI, aku bakal dengerin tanpa judge. Kadang ngomongin masalah bisa bikin lebih lega. Cerita yuk!"
+      }
+    },
+    "fun_responses": {
+      "alien": {
+        "question_patterns": [
+          "apakah alien itu ada",
+          "alien",
+          "makhluk luar angkasa",
+          "ufo",
+          "extraterrestrial"
+        ],
+        "answer": "👽 Pertanyaan bagus! Secara ilmiah, belum ada bukti pasti keberadaan alien. Tapi dengan miliaran galaksi dan triliunan planet di alam semesta, secara statistik sangat mungkin ada kehidupan lain di luar sana. NASA dan SETI masih mencari!"
+      },
+      "ayam_nyebrang": {
+        "question_patterns": [
+          "kenapa ayam nyebrang jalan",
+          "ayam nyebrang",
+          "why did chicken cross road"
+        ],
+        "answer": "🐔 Ayam nyebrang jalan... karena di seberang ada KFC. Bercanda! Jawaban klasiknya: \"To get to the other side.\" Tapi serius, mungkin dia lihat jagung di seberang."
+      },
+      "kucing_vs_anjing": {
+        "question_patterns": [
+          "kucing sama anjing berantem",
+          "kucing vs anjing",
+          "kucing anjing siapa menang"
+        ],
+        "answer": "🐱 vs 🐶 Biasanya kucing menang karena lebih agile dan punya cakar tajam! Tapi anjing besar bisa overpower kucing. Sebenarnya sih mereka lebih sering akur kalau dibesarkan bareng. Jangan diadu ya!"
+      },
+      "ikan_terbang": {
+        "question_patterns": [
+          "apakah ikan bisa terbang",
+          "ikan terbang",
+          "flying fish"
+        ],
+        "answer": "🐟 Ya! Ikan terbang (flying fish) memang ada! Mereka bisa melompat dari air dan meluncur di udara sejauh 200 meter menggunakan sirip yang melebar seperti sayap. Biasanya untuk menghindari predator. Keren kan?"
+      },
+      "jadi_milyader": {
+        "question_patterns": [
+          "gimana jadi milyader",
+          "cara jadi kaya",
+          "kaya dalam seminggu",
+          "cara cepat kaya"
+        ],
+        "answer": "💰 Kalau ada cara jadi milyader dalam seminggu, semua orang udah kaya! Cara yang realistis:\n1. Bangun skill bernilai tinggi\n2. Kerja keras & konsisten (bertahun-tahun, bukan seminggu)\n3. Investasi cerdas\n4. Bikin bisnis yang solve real problem\n\nAtau... main RPG bot aja dulu: *.rpg-status* 😄"
+      }
+    }
+  },
+  "command_access": {
+    "_description": "Access level untuk setiap command. public = semua user, premium = user premium, owner = hanya owner bot",
+    "public": [
+      "menu",
+      "menuall",
+      "allmenu",
+      "rpg-status",
+      "statusrpg",
+      "status-rpg",
+      "profil-rpg",
+      "profilerpg",
+      "saldo",
+      "ceksaldo",
+      "balance",
+      "myrole",
+      "jobrole",
+      "menu-role",
+      "menurole",
+      "job",
+      "role",
+      "mancing",
+      "pancing",
+      "menu-mancing",
+      "menumancing",
+      "afk-mancing",
+      "shop-pancing",
+      "buy-pancing",
+      "beli-pancing",
+      "set-pancing",
+      "ganti-rod",
+      "tas-mancing",
+      "jual-ikan",
+      "market",
+      "pasarekonomi",
+      "shopekonomi",
+      "bank",
+      "atm",
+      "setor",
+      "nabung",
+      "tarik",
+      "tfbank",
+      "transfer-bank",
+      "banklog",
+      "mutasi",
+      "daily-rpg",
+      "daily",
+      "shop-umpan",
+      "waifu",
+      "anime",
+      "elaina",
+      "husbu",
+      "shota",
+      "loli",
+      "gojo",
+      "sukuna",
+      "makima",
+      "power",
+      "frieren",
+      "fern",
+      "animelist",
+      "anime-list",
+      "animesearch",
+      "anime-search",
+      "animekiss",
+      "animehug",
+      "animepat",
+      "animeslap",
+      "play",
+      "playmp3",
+      "playmp4",
+      "ytmp3",
+      "ytmp4",
+      "tiktok",
+      "ttdl",
+      "instagram",
+      "igdl",
+      "facebook",
+      "fbdl",
+      "twitter",
+      "twitdl",
+      "pinterest",
+      "pindl",
+      "sticker",
+      "stiker",
+      "s",
+      "swm",
+      "take",
+      "toimg",
+      "tomp4",
+      "toaudio",
+      "tovid",
+      "tourl",
+      "ssweb",
+      "qr",
+      "qris",
+      "translate",
+      "tts",
+      "enhance",
+      "remini",
+      "hdvid",
+      "generate-attp",
+      "tebakgambar",
+      "tebaklagu",
+      "tebakkata",
+      "kuis",
+      "catur",
+      "clan",
+      "werewolf",
+      "slot",
+      "suit",
+      "jadwalshalat",
+      "shalat",
+      "sholat",
+      "quran",
+      "hadist",
+      "asmaulhusna",
+      "google",
+      "gimage",
+      "ytsearch",
+      "yts",
+      "stalker",
+      "igstalk",
+      "spotifysearch",
+      "npmsearch",
+      "ppcouple",
+      "cosplay",
+      "pubg",
+      "cat",
+      "doggo",
+      "zodiak",
+      "jodoh",
+      "nama",
+      "weton",
+      "cnn",
+      "cnbc",
+      "kompas",
+      "tribun",
+      "tempo",
+      "anonchat",
+      "anonymous",
+      "script",
+      "sc",
+      "owner",
+      "ping",
+      "tagall",
+      "hidetag",
+      "ai",
+      "autoai",
+      "menuanime",
+      "menugame",
+      "menurpg",
+      "menudownloader",
+      "menutools",
+      "menugroup",
+      "menuai",
+      "menuislami",
+      "menusearch",
+      "menuconvert",
+      "menuephoto",
+      "menuprimbon",
+      "menurandom",
+      "menuberita",
+      "menuaudio",
+      "menuanonymous",
+      "menustore",
+      "animecuddle",
+      "animeblush",
+      "animewave",
+      "animesmile",
+      "animepoke",
+      "animewink",
+      "animebonk",
+      "animebully",
+      "animebite",
+      "animelick",
+      "animekill",
+      "animecry",
+      "animehappy",
+      "animedance",
+      "animecringe",
+      "animeyeet",
+      "animeawoo",
+      "animeneko",
+      "animenom",
+      "animetickle",
+      "animefoxgirl",
+      "animegecg",
+      "animehandhold",
+      "animehighfive",
+      "animeglomp",
+      "animesmug",
+      "animemegumin",
+      "animeshinobu",
+      "truth",
+      "dare",
+      "jadibot",
+      "clonebot",
+      "stopjadibot",
+      "listjadibot",
+      "tomp3",
+      "togif",
+      "mediafire",
+      "capcut",
+      "snackvideo",
+      "likee",
+      "playstore",
+      "wikimedia",
+      "teka-teki",
+      "menumain",
+      "menucpanel",
+      "menupush",
+      "menuasupan",
+      "kisahnabi",
+      "doa",
+      "buylimit",
+      "buycoin",
+      "topup",
+      "ceklimit",
+      "soundcool",
+      "voice",
+      "antilinkgc",
+      "antilinktiktok",
+      "antilinkinstagram",
+      "antilinkfacebook",
+      "antilinktwitter",
+      "antilinktelegram",
+      "antilinkytvideo",
+      "antilinkytchannel",
+      "antilinkmediafire",
+      "antilinkterabox",
+      "antiwame",
+      "antitagsw",
+      "antilinkall",
+      "antilinkch",
+      "antiasing",
+      "antitoxic",
+      "antivirus",
+      "welcome",
+      "setwelcome",
+      "left",
+      "kick",
+      "add",
+      "promote",
+      "demote",
+      "ephemeral",
+      "antibot",
+      "bclist",
+      "tictactoe",
+      "tictac",
+      "morse",
+      "txt-to-image"
+    ],
+    "premium": [
+      "menupremium",
+      "premium",
+      "buypremium",
+      "claimlimit"
+    ],
+    "owner": [
+      "menuowner",
+      "bc",
+      "bcgc",
+      "bcast",
+      "join",
+      "leave",
+      "block",
+      "unblock",
+      "addprem",
+      "delprem",
+      "addowner",
+      "delowner",
+      "setbio",
+      "setname",
+      "setpp",
+      "restart",
+      "shutdown",
+      "addjadibot",
+      "deljadibot",
+      "customjadibot",
+      "eval",
+      "exec",
+      ">",
+      ">>",
+      "$"
+    ]
+  },
+  "nl_command_patterns": {
+    "_description": "Natural language patterns that map to direct command execution",
+    "download_tiktok": {
+      "patterns": [
+        "download tiktok",
+        "download video tiktok",
+        "download tt",
+        "tiktok download",
+        "tt download",
+        "ambil video tiktok",
+        "donlot tiktok",
+        "save tiktok",
+        "unduh tiktok"
+      ],
+      "command": "tiktok",
+      "extract_arg": "url",
+      "response": "🔽 Oke, aku download video TikTok-nya ya..."
+    },
+    "download_instagram": {
+      "patterns": [
+        "download instagram",
+        "download ig",
+        "instagram download",
+        "ig download",
+        "ambil ig",
+        "save instagram",
+        "unduh ig"
+      ],
+      "command": "instagram",
+      "extract_arg": "url",
+      "response": "🔽 Oke, aku download dari Instagram..."
+    },
+    "download_facebook": {
+      "patterns": [
+        "download facebook",
+        "download fb",
+        "facebook download",
+        "fb download",
+        "ambil fb",
+        "save facebook",
+        "unduh fb"
+      ],
+      "command": "facebook",
+      "extract_arg": "url",
+      "response": "🔽 Oke, aku download dari Facebook..."
+    },
+    "download_youtube": {
+      "patterns": [
+        "download youtube",
+        "download yt",
+        "youtube download",
+        "yt download",
+        "download lagu",
+        "download musik",
+        "download video youtube",
+        "putar lagu",
+        "play lagu"
+      ],
+      "command": "play",
+      "extract_arg": "text",
+      "response": "🎵 Oke, aku cari dan download..."
+    },
+    "ceksaldo": {
+      "patterns": [
+        "cek saldo",
+        "lihat saldo",
+        "saldo saya",
+        "berapa saldo",
+        "cek uang",
+        "uang saya"
+      ],
+      "command": "saldo",
+      "extract_arg": "none",
+      "response": "💰 Cek saldo RPG-mu..."
+    },
+    "cek_status": {
+      "patterns": [
+        "cek status",
+        "status rpg",
+        "profil rpg",
+        "rpg saya",
+        "level saya"
+      ],
+      "command": "rpg-status",
+      "extract_arg": "none",
+      "response": "📊 Cek status RPG-mu..."
+    },
+    "main_mancing": {
+      "patterns": [
+        "mulai mancing",
+        "pergi mancing",
+        "ayo mancing",
+        "mancing sekarang",
+        "pancing ikan"
+      ],
+      "command": "mancing",
+      "extract_arg": "none",
+      "response": "🎣 Ayo mancing!"
+    },
+    "bikin_stiker": {
+      "patterns": [
+        "bikin stiker",
+        "buat stiker",
+        "jadiin stiker",
+        "bikin sticker",
+        "buat sticker",
+        "jadikan stiker"
+      ],
+      "command": "sticker",
+      "extract_arg": "none",
+      "response": "🎨 Kirim gambar/video-nya ya, nanti aku ubah jadi stiker!"
+    },
+    "menu_lengkap": {
+      "patterns": [
+        "buka menu",
+        "lihat menu",
+        "tampilkan menu",
+        "kasih menu",
+        "menu dong",
+        "minta menu"
+      ],
+      "command": "menu",
+      "extract_arg": "none",
+      "response": "📂 Ini menu fitur bot!"
+    },
+    "search_anime_char": {
+      "patterns": [
+        "cari kan foto",
+        "cari foto",
+        "carikan foto",
+        "cari kan gambar",
+        "carikan gambar",
+        "cari gambar",
+        "cari pic",
+        "carikan pic",
+        "foto karakter",
+        "gambar karakter",
+        "pic karakter"
+      ],
+      "command": "_anime_char",
+      "extract_arg": "text",
+      "response": "🔍 Oke, aku cari gambar karakter anime-nya...",
+      "_note": "Special handler: extracts character name and maps to anime command"
+    },
+    "list_browse": {
+      "patterns": [
+        "list pancing",
+        "daftar pancing",
+        "lihat pancing",
+        "tas mancing",
+        "tas pancing",
+        "inventory mancing",
+        "shop pancing",
+        "toko pancing",
+        "belanja pancing",
+        "list rod",
+        "daftar rod",
+        "lihat rod",
+        "shop umpan",
+        "toko umpan",
+        "beli umpan",
+        "list umpan",
+        "menu mancing",
+        "buka menu mancing"
+      ],
+      "command": "_list_browse",
+      "extract_arg": "text",
+      "response": "📋 Oke, ini daftarnya...",
+      "_note": "Special handler: maps to buy-pancing, shop-pancing, tas-mancing, shop-umpan, etc."
+    },
+    "action_buy_set": {
+      "patterns": [
+        "beli pancing",
+        "buy pancing",
+        "beli rod",
+        "set pancing",
+        "ganti pancing",
+        "pakai pancing",
+        "ganti rod",
+        "beli umpan",
+        "buy umpan"
+      ],
+      "command": "_action_buy_set",
+      "extract_arg": "text",
+      "response": "✅ Oke, aku proses...",
+      "_note": "Special handler: maps to buy-pancing, set-pancing, buy-umpan with args"
+    },
+    "afk_fishing_time": {
+      "patterns": [
+        "afk mancing",
+        "mancing afk",
+        "afk fishing",
+        "auto mancing",
+        "mancing otomatis"
+      ],
+      "command": "afk-mancing",
+      "extract_arg": "number",
+      "response": "🎣 AFK Mancing dimulai..."
+    },
+    "download_youtube_audio": {
+      "patterns": [
+        "download lagu",
+        "download musik",
+        "download song",
+        "cari lagu",
+        "cari musik",
+        "putar lagu",
+        "play lagu",
+        "download mp3",
+        "yt mp3",
+        "youtube mp3",
+        "lagu dari youtube",
+        "musik dari youtube"
+      ],
+      "command": "play",
+      "extract_arg": "text",
+      "response": "🎵 Oke, aku cari dan download lagunya..."
+    },
+    "download_youtube_video": {
+      "patterns": [
+        "download video youtube",
+        "download yt video",
+        "yt mp4",
+        "youtube mp4",
+        "download yt",
+        "video dari youtube"
+      ],
+      "command": "ytmp4",
+      "extract_arg": "url",
+      "response": "🎬 Oke, aku download video YouTube-nya..."
+    },
+    "download_twitter": {
+      "patterns": [
+        "download twitter",
+        "download tweet",
+        "download x",
+        "twitter download",
+        "tweet download",
+        "x download",
+        "ambil twitter",
+        "save tweet",
+        "unduh twitter"
+      ],
+      "command": "twitter",
+      "extract_arg": "url",
+      "response": "🐦 Oke, aku download dari Twitter/X..."
+    },
+    "download_pinterest": {
+      "patterns": [
+        "download pinterest",
+        "download pin",
+        "pinterest download",
+        "pin download",
+        "ambil pin",
+        "save pinterest",
+        "unduh pinterest",
+        "save pin"
+      ],
+      "command": "pindl",
+      "extract_arg": "url",
+      "response": "📌 Oke, aku download dari Pinterest..."
+    },
+    "download_capcut": {
+      "patterns": [
+        "download capcut",
+        "capcut download",
+        "ambil capcut",
+        "save capcut",
+        "unduh capcut"
+      ],
+      "command": "capcut",
+      "extract_arg": "url",
+      "response": "✂️ Oke, aku download template CapCut-nya..."
+    },
+    "browse_menu": {
+      "patterns": [
+        "buka menu",
+        "lihat menu",
+        "tampilkan menu",
+        "kasih menu",
+        "menu dong",
+        "minta menu",
+        "bisa gak buka menu"
+      ],
+      "command": "menu",
+      "extract_arg": "none",
+      "response": "📂 Ini menu fitur bot!"
+    },
+    "browse_anime_menu": {
+      "patterns": [
+        "menu anime",
+        "buka anime",
+        "lihat anime",
+        "fitur anime"
+      ],
+      "command": "menuanime",
+      "extract_arg": "none",
+      "response": "🖼️ Ini menu anime!"
+    },
+    "status_rpg": {
+      "patterns": [
+        "cek status",
+        "status rpg",
+        "profil rpg",
+        "rpg saya",
+        "level saya",
+        "my rpg",
+        "profilku",
+        "levelku"
+      ],
+      "command": "rpg-status",
+      "extract_arg": "none",
+      "response": "📊 Cek status RPG-mu..."
+    }
+  }
+}

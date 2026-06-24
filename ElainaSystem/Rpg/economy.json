@@ -1,0 +1,40 @@
+{
+  "bankCentral": 9306072,
+  "bankSeeded": true,
+  "sewaRevenueTotal": 0,
+  "feeRevenueTotal": 432121,
+  "shopRevenueTotal": 8642484,
+  "premiumRevenueTotal": 0,
+  "rewardMultiplier": 1,
+  "passiveIncomeMultiplier": 0.9,
+  "lastRecalcAt": 1781611533443,
+  "market": {
+    "items": {
+      "bait": {
+        "stock": 0,
+        "updatedAt": 1781604533960
+      },
+      "fish": {
+        "stock": 797,
+        "updatedAt": 1781610271778
+      },
+      "ore": {
+        "stock": 466,
+        "updatedAt": 1781304960519
+      },
+      "chemical": {
+        "stock": 90,
+        "updatedAt": 0
+      },
+      "potion": {
+        "stock": 80,
+        "updatedAt": 0
+      },
+      "gear": {
+        "stock": 92,
+        "updatedAt": 1781520452214
+      }
+    },
+    "lastChangedAt": 1781610271778
+  }
+}
