@@ -19605,12 +19605,12 @@
     "6282231699375@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 32500,
+      "coin": 873294,
       "joined": true,
       "joinedAt": 1782469544656,
-      "interactionCount": 60,
-      "lastInteractionGain": 1782509350950,
-      "levelUpRewardTotal": 7000,
+      "interactionCount": 88,
+      "lastInteractionGain": 1782512649866,
+      "levelUpRewardTotal": 15500,
       "bank": 0,
       "roleKey": "koki_laut",
       "roleName": "Koki Laut"
@@ -20123,7 +20123,7 @@
     },
     "6285649689059@s.whatsapp.net": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 245
+        "6285649689059@s.whatsapp.net": 246
       },
       "antibot": false,
       "antiviewonce": false,
@@ -22663,7 +22663,7 @@
       "antilinkkick": false,
       "antipromotion": false,
       "sholatwib": true,
-      "sholatwibLast": "2026-06-26:maghrib"
+      "sholatwibLast": "2026-06-27:subuh"
     },
     "6285339193129@s.whatsapp.net": {
       "totalChat": {
@@ -23390,8 +23390,8 @@
     },
     "120363424752898522@g.us": {
       "totalChat": {
-        "6282231699375@s.whatsapp.net": 220,
-        "120363424752898522@g.us": 658,
+        "6282231699375@s.whatsapp.net": 374,
+        "120363424752898522@g.us": 875,
         "6285123893509@s.whatsapp.net": 29,
         "6281216682302@s.whatsapp.net": 10,
         "6285743032858@s.whatsapp.net": 12,
