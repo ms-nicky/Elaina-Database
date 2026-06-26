@@ -18235,11 +18235,14 @@
       "limit": 10,
       "exp": 0,
       "coin": 50000,
-      "joined": false,
-      "joinedAt": 0,
+      "joined": true,
+      "joinedAt": 1782469960356,
       "interactionCount": 0,
       "lastInteractionGain": 0,
-      "levelUpRewardTotal": 0
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "koki_laut",
+      "roleName": "Koki Laut"
     },
     "6283826046035@s.whatsapp.net": {
       "limit": 10,
@@ -19588,12 +19591,312 @@
       "interactionCount": 0,
       "lastInteractionGain": 0,
       "levelUpRewardTotal": 0
+    },
+    "6283138667039@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6282231699375@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 199219,
+      "joined": true,
+      "joinedAt": 1782469544656,
+      "interactionCount": 36,
+      "lastInteractionGain": 1782472908633,
+      "levelUpRewardTotal": 7000,
+      "bank": 0,
+      "roleKey": "koki_laut",
+      "roleName": "Koki Laut"
+    },
+    "62895326098706@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6285123893509@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 54000,
+      "joined": true,
+      "joinedAt": 1782469580235,
+      "interactionCount": 12,
+      "lastInteractionGain": 1782470627790,
+      "levelUpRewardTotal": 4000,
+      "bank": 0,
+      "roleKey": "peracik_umpan",
+      "roleName": "Peracik Umpan"
+    },
+    "6281216682302@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": true,
+      "joinedAt": 1782469578575,
+      "interactionCount": 3,
+      "lastInteractionGain": 1782469726927,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "pemburu",
+      "roleName": "Pemburu"
+    },
+    "6285743032858@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": true,
+      "joinedAt": 1782469593133,
+      "interactionCount": 1,
+      "lastInteractionGain": 1782469610923,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "alkemis",
+      "roleName": "Alkemis"
+    },
+    "628995292933@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 54000,
+      "joined": true,
+      "joinedAt": 1782469610262,
+      "interactionCount": 13,
+      "lastInteractionGain": 1782472255853,
+      "levelUpRewardTotal": 4000,
+      "bank": 0,
+      "roleKey": "peracik_umpan",
+      "roleName": "Peracik Umpan"
+    },
+    "6281330950729@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 54000,
+      "joined": true,
+      "joinedAt": 1782469719803,
+      "interactionCount": 11,
+      "lastInteractionGain": 1782472609340,
+      "levelUpRewardTotal": 4000,
+      "bank": 0,
+      "roleKey": "alkemis",
+      "roleName": "Alkemis"
+    },
+    "6282185700291@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6285123893495@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": true,
+      "joinedAt": 1782469987530,
+      "interactionCount": 8,
+      "lastInteractionGain": 1782472659426,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "penjelajah",
+      "roleName": "Penjelajah"
+    },
+    "6282196789258@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6285178205569@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6287870909352@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 42961,
+      "joined": true,
+      "joinedAt": 1782469995005,
+      "interactionCount": 14,
+      "lastInteractionGain": 1782472916281,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "miner",
+      "roleName": "Miner"
+    },
+    "6283899192986@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "62881025041154@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6287760777350@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "62895622392356@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6281360057036@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6283821681384@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6285827665843@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6285849938163@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6287814356807@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "62881026340933@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "628133028234@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": true,
+      "joinedAt": 1782471428177,
+      "interactionCount": 1,
+      "lastInteractionGain": 1782471448041,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "teknisi",
+      "roleName": "Teknisi"
+    },
+    "6282264119528@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6281252518600@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": true,
+      "joinedAt": 1782472304293,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "koki_laut",
+      "roleName": "Koki Laut"
+    },
+    "6285191076123@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
     }
   },
   "chats": {
     "6285652122429@s.whatsapp.net": {
       "totalChat": {
-        "6285652122429@s.whatsapp.net": 212
+        "6285652122429@s.whatsapp.net": 217
       }
     },
     "120363424793147766@g.us": {
@@ -19747,7 +20050,7 @@
     },
     "6285649689059@s.whatsapp.net": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 241
+        "6285649689059@s.whatsapp.net": 244
       },
       "antibot": false,
       "antiviewonce": false,
@@ -19793,8 +20096,8 @@
     },
     "120363187859302787@g.us": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 111,
-        "120363187859302787@g.us": 2257,
+        "6285649689059@s.whatsapp.net": 112,
+        "120363187859302787@g.us": 2259,
         "6281252888128@s.whatsapp.net": 45,
         "6285725287897@s.whatsapp.net": 132,
         "6289523718577@s.whatsapp.net": 137,
@@ -19924,7 +20227,8 @@
         "6285730530731@s.whatsapp.net": 2,
         "6287781397452@s.whatsapp.net": 6,
         "6281573854967@s.whatsapp.net": 4,
-        "6281396133576@s.whatsapp.net": 3
+        "6281396133576@s.whatsapp.net": 3,
+        "6282231699375@s.whatsapp.net": 1
       },
       "antibot": false,
       "antiviewonce": false,
@@ -19945,7 +20249,7 @@
     },
     "120363266032522758@newsletter": {
       "totalChat": {
-        "120363266032522758@newsletter": 271
+        "120363266032522758@newsletter": 279
       },
       "antibot": false,
       "antiviewonce": false,
@@ -20202,7 +20506,7 @@
     },
     "120363424730928081@newsletter": {
       "totalChat": {
-        "120363424730928081@newsletter": 64
+        "120363424730928081@newsletter": 65
       },
       "antibot": false,
       "antiviewonce": false,
@@ -21132,7 +21436,7 @@
         "6289528711363@s.whatsapp.net": 10,
         "6283190642846@s.whatsapp.net": 25,
         "6281373368637@s.whatsapp.net": 18,
-        "120363426906288651@g.us": 403,
+        "120363426906288651@g.us": 404,
         "6282310296739@s.whatsapp.net": 227,
         "6283180865761@s.whatsapp.net": 12,
         "6281929051637@s.whatsapp.net": 39,
@@ -21172,7 +21476,7 @@
         "6285715121790@s.whatsapp.net": 22,
         "6285124705084@s.whatsapp.net": 14,
         "62895328438766@s.whatsapp.net": 19,
-        "62895633826998@s.whatsapp.net": 18,
+        "62895633826998@s.whatsapp.net": 19,
         "6285166132203@s.whatsapp.net": 7,
         "60178806241@s.whatsapp.net": 10,
         "6285813954605@s.whatsapp.net": 3,
@@ -21484,7 +21788,7 @@
         "6287711705922@s.whatsapp.net": 13,
         "6289527067981@s.whatsapp.net": 2,
         "6285394186691@s.whatsapp.net": 49,
-        "6283102654461@s.whatsapp.net": 19,
+        "6283102654461@s.whatsapp.net": 21,
         "6282324583562@s.whatsapp.net": 8,
         "6281318114453@s.whatsapp.net": 5,
         "62895414579545@s.whatsapp.net": 21,
@@ -21497,7 +21801,7 @@
         "6281226740023@s.whatsapp.net": 17,
         "6285179653253@s.whatsapp.net": 11,
         "6282172386197@s.whatsapp.net": 14,
-        "6283832623075@s.whatsapp.net": 19,
+        "6283832623075@s.whatsapp.net": 20,
         "6282176449716@s.whatsapp.net": 6,
         "6282249559525@s.whatsapp.net": 22,
         "6282164170748@s.whatsapp.net": 8,
@@ -21585,7 +21889,7 @@
         "6282133224316@s.whatsapp.net": 37,
         "6281559537761@s.whatsapp.net": 22,
         "62895605294542@s.whatsapp.net": 17,
-        "6282215745859@s.whatsapp.net": 3,
+        "6282215745859@s.whatsapp.net": 4,
         "628987491902@s.whatsapp.net": 15,
         "6287794621282@s.whatsapp.net": 86,
         "6285124530994@s.whatsapp.net": 15,
@@ -21789,7 +22093,7 @@
         "6285129131705@s.whatsapp.net": 2,
         "6283817952149@s.whatsapp.net": 12,
         "601160558757@s.whatsapp.net": 4,
-        "6283159714121@s.whatsapp.net": 1,
+        "6283159714121@s.whatsapp.net": 2,
         "6281239457046@s.whatsapp.net": 23,
         "6283114910779@s.whatsapp.net": 4,
         "6283140973248@s.whatsapp.net": 8,
@@ -22136,7 +22440,7 @@
         "6281373414570@s.whatsapp.net": 7,
         "6282236768753@s.whatsapp.net": 3,
         "62881011217703@s.whatsapp.net": 4,
-        "6285719295674@s.whatsapp.net": 6,
+        "6285719295674@s.whatsapp.net": 7,
         "6281327008527@s.whatsapp.net": 1,
         "628881394852@s.whatsapp.net": 10,
         "6285707127296@s.whatsapp.net": 3,
@@ -22209,7 +22513,7 @@
         "6282182811453@s.whatsapp.net": 2,
         "6285735169602@s.whatsapp.net": 5,
         "628814958591@s.whatsapp.net": 1,
-        "6281918049198@s.whatsapp.net": 1,
+        "6281918049198@s.whatsapp.net": 2,
         "6285142057137@s.whatsapp.net": 1,
         "6283827146108@s.whatsapp.net": 3,
         "6283857076890@s.whatsapp.net": 2,
@@ -22236,19 +22540,35 @@
         "6287872201957@s.whatsapp.net": 2,
         "6285724371734@s.whatsapp.net": 25,
         "6289528313997@s.whatsapp.net": 14,
-        "6289502343429@s.whatsapp.net": 4,
+        "6289502343429@s.whatsapp.net": 5,
         "6285822704073@s.whatsapp.net": 5,
         "628989845945@s.whatsapp.net": 3,
         "6285824826646@s.whatsapp.net": 3,
         "6285246286345@s.whatsapp.net": 2,
-        "6281252249418@s.whatsapp.net": 1,
+        "6281252249418@s.whatsapp.net": 2,
         "6282173382346@s.whatsapp.net": 5,
         "6283177954926@s.whatsapp.net": 1,
         "6282183253887@s.whatsapp.net": 5,
         "6285645755460@s.whatsapp.net": 1,
         "6282364287779@s.whatsapp.net": 2,
         "6289654155138@s.whatsapp.net": 3,
-        "62895373042546@s.whatsapp.net": 1
+        "62895373042546@s.whatsapp.net": 1,
+        "6283138667039@s.whatsapp.net": 5,
+        "6282374324051@s.whatsapp.net": 1,
+        "62895326098706@s.whatsapp.net": 4,
+        "6282196789258@s.whatsapp.net": 1,
+        "6285178205569@s.whatsapp.net": 1,
+        "6283899192986@s.whatsapp.net": 2,
+        "62881025041154@s.whatsapp.net": 1,
+        "6287760777350@s.whatsapp.net": 1,
+        "62895622392356@s.whatsapp.net": 1,
+        "6283821681384@s.whatsapp.net": 1,
+        "6285827665843@s.whatsapp.net": 1,
+        "6285849938163@s.whatsapp.net": 1,
+        "6287814356807@s.whatsapp.net": 2,
+        "62881026340933@s.whatsapp.net": 2,
+        "6282264119528@s.whatsapp.net": 3,
+        "6285191076123@s.whatsapp.net": 1
       },
       "antibot": false,
       "antiviewonce": false,
@@ -22265,7 +22585,7 @@
       "antilinkkick": false,
       "antipromotion": false,
       "sholatwib": true,
-      "sholatwibLast": "2026-06-16:isya"
+      "sholatwibLast": "2026-06-26:maghrib"
     },
     "6285339193129@s.whatsapp.net": {
       "totalChat": {
@@ -22941,7 +23261,66 @@
     },
     "120363427298354342@g.us": {
       "totalChat": {
-        "628979346107@s.whatsapp.net": 1
+        "628979346107@s.whatsapp.net": 1,
+        "6282185700291@s.whatsapp.net": 32,
+        "62881010609630@s.whatsapp.net": 9,
+        "120363427298354342@g.us": 10,
+        "6281360057036@s.whatsapp.net": 2,
+        "6289528930289@s.whatsapp.net": 1,
+        "6289528632702@s.whatsapp.net": 1
+      },
+      "antibot": false,
+      "antiviewonce": false,
+      "media": false,
+      "antiimage": false,
+      "video": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilinkgc": false,
+      "antilinkkick": false,
+      "antipromotion": false,
+      "sholatwib": false,
+      "sholatwibLast": ""
+    },
+    "120363423675817834@g.us": {
+      "totalChat": {
+        "6285649689059@s.whatsapp.net": 9,
+        "120363423675817834@g.us": 6
+      },
+      "antibot": false,
+      "antiviewonce": false,
+      "media": false,
+      "antiimage": false,
+      "video": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilinkgc": false,
+      "antilinkkick": false,
+      "antipromotion": false,
+      "sholatwib": false,
+      "sholatwibLast": ""
+    },
+    "120363424752898522@g.us": {
+      "totalChat": {
+        "6282231699375@s.whatsapp.net": 148,
+        "120363424752898522@g.us": 460,
+        "6285123893509@s.whatsapp.net": 27,
+        "6281216682302@s.whatsapp.net": 10,
+        "6285743032858@s.whatsapp.net": 4,
+        "628995292933@s.whatsapp.net": 22,
+        "6281330950729@s.whatsapp.net": 46,
+        "6285123893495@s.whatsapp.net": 31,
+        "6287870909352@s.whatsapp.net": 43,
+        "628133028234@s.whatsapp.net": 2,
+        "6281252518600@s.whatsapp.net": 7
       },
       "antibot": false,
       "antiviewonce": false,
@@ -22986,6 +23365,15 @@
       "autoread": false
     },
     "6285652122429:40@s.whatsapp.net": {
+      "status": 0,
+      "autoTyping": true,
+      "autoRecord": false,
+      "presenceConfigured": true,
+      "setPrefix": "one",
+      "autoread": true,
+      "onlygrub": true
+    },
+    "6285652122429:41@s.whatsapp.net": {
       "status": 0,
       "autoTyping": true,
       "autoRecord": false,
