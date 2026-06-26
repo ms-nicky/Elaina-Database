@@ -8323,14 +8323,14 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 199219,
-    "exp": 140,
+    "coin": 32500,
+    "exp": 309,
     "level": 4,
     "inv": [],
     "weapon": "",
     "armor": "",
-    "bank": 0,
-    "dailyCooldown": 0,
+    "bank": 165851,
+    "dailyCooldown": 1782506532773,
     "workCooldown": 0,
     "huntCooldown": 0,
     "quest": {
@@ -8389,34 +8389,41 @@
     },
     "fishing": {
       "level": 1,
-      "exp": 38,
-      "bait": 4,
+      "exp": 59,
+      "bait": 9,
       "rod": "bambu",
       "rods": {
         "bambu": true
       },
       "bag": {
-        "nila": 1
+        "nila": 1,
+        "lele": 2,
+        "sampah": 1
       },
       "lastClaim": 1782469621703,
-      "lastFishing": 1782471584423,
-      "totalCatch": 1,
+      "lastFishing": 1782509395120,
+      "totalCatch": 4,
       "afkStart": 0,
       "afkEnd": 0,
       "afkRod": "",
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782501348473,
-    "interactionCount": 42,
+    "lastInteractionGain": 1782509350950,
+    "interactionCount": 52,
     "levelUpRewardTotal": 7000,
     "loan": 0,
-    "lastInterest": 0,
+    "lastInterest": 20260626,
     "lastHeist": 0,
     "transferDay": 0,
     "transferUsed": 0,
     "insurance": false,
-    "bankLog": [],
+    "bankLog": [
+      "[26/6/2026, 23.04.57] Tarik Rp50.000 (biaya Rp500, diterima Rp49.500)",
+      "[26/6/2026, 22.44.13] Klaim bunga harian: +Rp4.232",
+      "[26/6/2026, 22.44.00] Setor Rp210.619 ke bank",
+      "[26/6/2026, 22.43.41] Setor Rp1.000 ke bank"
+    ],
     "deposit": {
       "amount": 0,
       "until": 0
@@ -8424,14 +8431,16 @@
     "escrow": null,
     "mining": {
       "bag": {
-        "bijih_besi": 0,
-        "batu_kasar": 0,
-        "bijih_perak": 0,
-        "batu_bara": 0
+        "bijih_besi": 3,
+        "batu_kasar": 10,
+        "bijih_perak": 2,
+        "batu_bara": 11,
+        "bijih_tembaga": 3,
+        "bijih_emas": 1
       },
-      "level": 1,
-      "exp": 108,
-      "lastMine": 1782471141811,
+      "level": 2,
+      "exp": 205,
+      "lastMine": 1782508889152,
       "bagsOwned": {
         "tas_kain": true
       },
@@ -8451,13 +8460,13 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 0,
-        "endAt": 0,
-        "minutes": 0,
-        "entryFee": 0,
-        "chat": ""
+        "startAt": 1782508901737,
+        "endAt": 1782509801737,
+        "minutes": 15,
+        "entryFee": 8500,
+        "chat": "120363424752898522@g.us"
       },
-      "totalMined": 9,
+      "totalMined": 39,
       "totalSold": 9
     }
   },
@@ -8763,13 +8772,13 @@
   },
   "628995292933@s.whatsapp.net": {
     "name": "TrZa",
-    "coin": 54000,
-    "exp": 34,
+    "coin": 0,
+    "exp": 87,
     "level": 2,
     "inv": [],
     "weapon": "",
     "armor": "",
-    "bank": 0,
+    "bank": 54000,
     "dailyCooldown": 0,
     "workCooldown": 0,
     "huntCooldown": 0,
@@ -8845,8 +8854,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782475072462,
-    "interactionCount": 13,
+    "lastInteractionGain": 1782509037456,
+    "interactionCount": 17,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8854,7 +8863,9 @@
     "transferDay": 0,
     "transferUsed": 0,
     "insurance": false,
-    "bankLog": [],
+    "bankLog": [
+      "[26/6/2026, 22.58.11] Setor Rp54.000 ke bank"
+    ],
     "deposit": {
       "amount": 0,
       "until": 0

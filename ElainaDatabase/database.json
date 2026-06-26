@@ -19605,11 +19605,11 @@
     "6282231699375@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 199219,
+      "coin": 32500,
       "joined": true,
       "joinedAt": 1782469544656,
-      "interactionCount": 50,
-      "lastInteractionGain": 1782501348473,
+      "interactionCount": 60,
+      "lastInteractionGain": 1782509350950,
       "levelUpRewardTotal": 7000,
       "bank": 0,
       "roleKey": "koki_laut",
@@ -19667,11 +19667,11 @@
     "628995292933@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 54000,
+      "coin": 0,
       "joined": true,
       "joinedAt": 1782469610262,
-      "interactionCount": 14,
-      "lastInteractionGain": 1782475072462,
+      "interactionCount": 18,
+      "lastInteractionGain": 1782509037456,
       "levelUpRewardTotal": 4000,
       "bank": 0,
       "roleKey": "peracik_umpan",
@@ -23390,12 +23390,12 @@
     },
     "120363424752898522@g.us": {
       "totalChat": {
-        "6282231699375@s.whatsapp.net": 186,
-        "120363424752898522@g.us": 567,
+        "6282231699375@s.whatsapp.net": 220,
+        "120363424752898522@g.us": 658,
         "6285123893509@s.whatsapp.net": 29,
         "6281216682302@s.whatsapp.net": 10,
         "6285743032858@s.whatsapp.net": 12,
-        "628995292933@s.whatsapp.net": 23,
+        "628995292933@s.whatsapp.net": 27,
         "6281330950729@s.whatsapp.net": 46,
         "6285123893495@s.whatsapp.net": 34,
         "6287870909352@s.whatsapp.net": 57,
@@ -23428,7 +23428,23 @@
     "6282231699375@s.whatsapp.net": {
       "totalChat": {
         "6282231699375@s.whatsapp.net": 1
-      }
+      },
+      "antibot": false,
+      "antiviewonce": false,
+      "media": false,
+      "antiimage": false,
+      "video": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilinkgc": false,
+      "antilinkkick": false,
+      "antipromotion": false,
+      "sholatwib": false,
+      "sholatwibLast": ""
     }
   },
   "settings": {
