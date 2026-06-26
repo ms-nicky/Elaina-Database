@@ -5724,7 +5724,7 @@
   "6285694197112@s.whatsapp.net": {
     "name": "gilangmiriptukanggas",
     "coin": 50000,
-    "exp": 13,
+    "exp": 42,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -5805,8 +5805,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781181837743,
-    "interactionCount": 1,
+    "lastInteractionGain": 1782498162421,
+    "interactionCount": 3,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
