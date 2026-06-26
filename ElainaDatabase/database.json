@@ -67,8 +67,8 @@
       "coin": 54000,
       "joined": true,
       "joinedAt": 1780577916237,
-      "interactionCount": 15,
-      "lastInteractionGain": 1781401445060,
+      "interactionCount": 16,
+      "lastInteractionGain": 1782491911406,
       "levelUpRewardTotal": 4000,
       "bank": 0,
       "roleKey": "peternak",
@@ -764,8 +764,8 @@
       "coin": 54000,
       "joined": true,
       "joinedAt": 1780416836617,
-      "interactionCount": 17,
-      "lastInteractionGain": 1781598344308,
+      "interactionCount": 18,
+      "lastInteractionGain": 1782492427213,
       "levelUpRewardTotal": 4000,
       "bank": 0,
       "roleKey": "koki_laut",
@@ -20123,7 +20123,7 @@
     },
     "6285649689059@s.whatsapp.net": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 244
+        "6285649689059@s.whatsapp.net": 245
       },
       "antibot": false,
       "antiviewonce": false,
@@ -20144,8 +20144,8 @@
     },
     "120363424695316622@g.us": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 27,
-        "120363424695316622@g.us": 44,
+        "6285649689059@s.whatsapp.net": 31,
+        "120363424695316622@g.us": 48,
         "6281252888128@s.whatsapp.net": 2,
         "6285652122429@s.whatsapp.net": 12,
         "6282143965467@s.whatsapp.net": 4
@@ -20169,9 +20169,9 @@
     },
     "120363187859302787@g.us": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 112,
-        "120363187859302787@g.us": 2260,
-        "6281252888128@s.whatsapp.net": 45,
+        "6285649689059@s.whatsapp.net": 116,
+        "120363187859302787@g.us": 2271,
+        "6281252888128@s.whatsapp.net": 56,
         "6285725287897@s.whatsapp.net": 132,
         "6289523718577@s.whatsapp.net": 137,
         "6285652122429@s.whatsapp.net": 7,
@@ -20186,7 +20186,7 @@
         "6282289710565@s.whatsapp.net": 7,
         "6288225976347@s.whatsapp.net": 14,
         "601151644617@s.whatsapp.net": 4,
-        "6281330583619@s.whatsapp.net": 29,
+        "6281330583619@s.whatsapp.net": 31,
         "6285194324622@s.whatsapp.net": 6,
         "6282228498341@s.whatsapp.net": 21,
         "6282138790442@s.whatsapp.net": 61,
@@ -20302,7 +20302,8 @@
         "6281573854967@s.whatsapp.net": 4,
         "6281396133576@s.whatsapp.net": 3,
         "6282231699375@s.whatsapp.net": 2,
-        "6281374535119@s.whatsapp.net": 1
+        "6281374535119@s.whatsapp.net": 1,
+        "6282143965467@s.whatsapp.net": 1
       },
       "antibot": false,
       "antiviewonce": false,
@@ -20315,7 +20316,7 @@
       "anticontact": false,
       "antilocation": false,
       "antidocument": false,
-      "antilinkgc": false,
+      "antilinkgc": true,
       "antilinkkick": false,
       "antipromotion": false,
       "sholatwib": false,
@@ -23418,6 +23419,11 @@
       "antipromotion": false,
       "sholatwib": false,
       "sholatwibLast": ""
+    },
+    "6282143965467@s.whatsapp.net": {
+      "totalChat": {
+        "6282143965467@s.whatsapp.net": 3
+      }
     }
   },
   "settings": {
@@ -23454,6 +23460,15 @@
       "onlygrub": true
     },
     "6285652122429:41@s.whatsapp.net": {
+      "status": 0,
+      "autoTyping": true,
+      "autoRecord": false,
+      "presenceConfigured": true,
+      "setPrefix": "one",
+      "autoread": true,
+      "onlygrub": true
+    },
+    "6282143965467:13@s.whatsapp.net": {
       "status": 0,
       "autoTyping": true,
       "autoRecord": false,
