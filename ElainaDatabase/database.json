@@ -19611,8 +19611,8 @@
       "coin": 1034778,
       "joined": true,
       "joinedAt": 1782469544656,
-      "interactionCount": 208,
-      "lastInteractionGain": 1782596695224,
+      "interactionCount": 209,
+      "lastInteractionGain": 1782598844026,
       "levelUpRewardTotal": 27000,
       "bank": 0,
       "roleKey": "koki_laut",
@@ -19657,11 +19657,11 @@
     "6285743032858@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 54302,
+      "coin": 45802,
       "joined": true,
       "joinedAt": 1782469593133,
-      "interactionCount": 13,
-      "lastInteractionGain": 1782580625097,
+      "interactionCount": 14,
+      "lastInteractionGain": 1782599266798,
       "levelUpRewardTotal": 4000,
       "bank": 0,
       "roleKey": "alkemis",
@@ -20139,7 +20139,7 @@
     },
     "6285649689059@s.whatsapp.net": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 252
+        "6285649689059@s.whatsapp.net": 253
       },
       "antibot": false,
       "antiviewonce": false,
@@ -20186,7 +20186,7 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 117,
-        "120363187859302787@g.us": 2387,
+        "120363187859302787@g.us": 2391,
         "6281252888128@s.whatsapp.net": 56,
         "6285725287897@s.whatsapp.net": 134,
         "6289523718577@s.whatsapp.net": 137,
@@ -20317,7 +20317,7 @@
         "6287781397452@s.whatsapp.net": 6,
         "6281573854967@s.whatsapp.net": 4,
         "6281396133576@s.whatsapp.net": 3,
-        "6282231699375@s.whatsapp.net": 13,
+        "6282231699375@s.whatsapp.net": 14,
         "6281374535119@s.whatsapp.net": 1,
         "6282143965467@s.whatsapp.net": 1,
         "628818872304@s.whatsapp.net": 3
@@ -23408,10 +23408,10 @@
     "120363424752898522@g.us": {
       "totalChat": {
         "6282231699375@s.whatsapp.net": 888,
-        "120363424752898522@g.us": 2012,
+        "120363424752898522@g.us": 2015,
         "6285123893509@s.whatsapp.net": 31,
         "6281216682302@s.whatsapp.net": 43,
-        "6285743032858@s.whatsapp.net": 26,
+        "6285743032858@s.whatsapp.net": 28,
         "628995292933@s.whatsapp.net": 145,
         "6281330950729@s.whatsapp.net": 46,
         "6285123893495@s.whatsapp.net": 36,
