@@ -16253,11 +16253,14 @@
       "limit": 10,
       "exp": 0,
       "coin": 50000,
-      "joined": false,
-      "joinedAt": 0,
-      "interactionCount": 0,
-      "lastInteractionGain": 0,
-      "levelUpRewardTotal": 0
+      "joined": true,
+      "joinedAt": 1782576489055,
+      "interactionCount": 1,
+      "lastInteractionGain": 1782576508602,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "miner",
+      "roleName": "Miner"
     },
     "6285169740744@s.whatsapp.net": {
       "limit": 10,
@@ -19605,11 +19608,11 @@
     "6282231699375@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 705784,
+      "coin": 697284,
       "joined": true,
       "joinedAt": 1782469544656,
-      "interactionCount": 172,
-      "lastInteractionGain": 1782559390782,
+      "interactionCount": 175,
+      "lastInteractionGain": 1782575989706,
       "levelUpRewardTotal": 27000,
       "bank": 0,
       "roleKey": "koki_laut",
@@ -19654,12 +19657,12 @@
     "6285743032858@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 50302,
+      "coin": 54302,
       "joined": true,
       "joinedAt": 1782469593133,
-      "interactionCount": 11,
-      "lastInteractionGain": 1782564919995,
-      "levelUpRewardTotal": 0,
+      "interactionCount": 12,
+      "lastInteractionGain": 1782575554704,
+      "levelUpRewardTotal": 4000,
       "bank": 0,
       "roleKey": "alkemis",
       "roleName": "Alkemis"
@@ -20182,8 +20185,8 @@
     },
     "120363187859302787@g.us": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 116,
-        "120363187859302787@g.us": 2362,
+        "6285649689059@s.whatsapp.net": 117,
+        "120363187859302787@g.us": 2368,
         "6281252888128@s.whatsapp.net": 56,
         "6285725287897@s.whatsapp.net": 134,
         "6289523718577@s.whatsapp.net": 137,
@@ -20270,7 +20273,7 @@
         "6288267075126@s.whatsapp.net": 1,
         "6285624645780@s.whatsapp.net": 1,
         "6289684034250@s.whatsapp.net": 1,
-        "628813717522@s.whatsapp.net": 1,
+        "628813717522@s.whatsapp.net": 4,
         "6285169740744@s.whatsapp.net": 1,
         "6282346064472@s.whatsapp.net": 1,
         "6282371588315@s.whatsapp.net": 1,
@@ -20595,7 +20598,7 @@
     },
     "120363424730928081@newsletter": {
       "totalChat": {
-        "120363424730928081@newsletter": 88
+        "120363424730928081@newsletter": 89
       },
       "antibot": false,
       "antiviewonce": false,
@@ -23404,11 +23407,11 @@
     },
     "120363424752898522@g.us": {
       "totalChat": {
-        "6282231699375@s.whatsapp.net": 709,
-        "120363424752898522@g.us": 1656,
+        "6282231699375@s.whatsapp.net": 713,
+        "120363424752898522@g.us": 1674,
         "6285123893509@s.whatsapp.net": 31,
         "6281216682302@s.whatsapp.net": 43,
-        "6285743032858@s.whatsapp.net": 24,
+        "6285743032858@s.whatsapp.net": 25,
         "628995292933@s.whatsapp.net": 85,
         "6281330950729@s.whatsapp.net": 46,
         "6285123893495@s.whatsapp.net": 36,
