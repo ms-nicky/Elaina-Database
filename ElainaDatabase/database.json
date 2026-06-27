@@ -5507,8 +5507,8 @@
       "coin": 54000,
       "joined": true,
       "joinedAt": 1780536668357,
-      "interactionCount": 25,
-      "lastInteractionGain": 1782569214936,
+      "interactionCount": 26,
+      "lastInteractionGain": 1782572678660,
       "levelUpRewardTotal": 4000,
       "bank": 0,
       "roleKey": "pedagang",
@@ -19964,6 +19964,19 @@
       "interactionCount": 0,
       "lastInteractionGain": 0,
       "levelUpRewardTotal": 0
+    },
+    "628818872304@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": true,
+      "joinedAt": 1782572350229,
+      "interactionCount": 1,
+      "lastInteractionGain": 1782572362170,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "peternak",
+      "roleName": "Peternak"
     }
   },
   "chats": {
@@ -20170,7 +20183,7 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 116,
-        "120363187859302787@g.us": 2353,
+        "120363187859302787@g.us": 2362,
         "6281252888128@s.whatsapp.net": 56,
         "6285725287897@s.whatsapp.net": 134,
         "6289523718577@s.whatsapp.net": 137,
@@ -20197,7 +20210,7 @@
         "6285691801458@s.whatsapp.net": 15,
         "6288708801977@s.whatsapp.net": 5,
         "6282277403134@s.whatsapp.net": 1,
-        "6285123231517@s.whatsapp.net": 39,
+        "6285123231517@s.whatsapp.net": 40,
         "6288211836684@s.whatsapp.net": 40,
         "6285198290304@s.whatsapp.net": 11,
         "6285727583242@s.whatsapp.net": 15,
@@ -20303,7 +20316,8 @@
         "6281396133576@s.whatsapp.net": 3,
         "6282231699375@s.whatsapp.net": 11,
         "6281374535119@s.whatsapp.net": 1,
-        "6282143965467@s.whatsapp.net": 1
+        "6282143965467@s.whatsapp.net": 1,
+        "628818872304@s.whatsapp.net": 3
       },
       "antibot": false,
       "antiviewonce": false,
@@ -20581,7 +20595,7 @@
     },
     "120363424730928081@newsletter": {
       "totalChat": {
-        "120363424730928081@newsletter": 85
+        "120363424730928081@newsletter": 88
       },
       "antibot": false,
       "antiviewonce": false,
