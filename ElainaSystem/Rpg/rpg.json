@@ -1569,7 +1569,7 @@
   "6285123231517@s.whatsapp.net": {
     "name": "PACAR HEESEUNG, SONGHYEON",
     "coin": 54000,
-    "exp": 155,
+    "exp": 163,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -1650,8 +1650,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782572678660,
-    "interactionCount": 23,
+    "lastInteractionGain": 1782580043427,
+    "interactionCount": 24,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8323,13 +8323,13 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 697284,
-    "exp": 209,
+    "coin": 56705,
+    "exp": 261,
     "level": 7,
     "inv": [],
     "weapon": "",
     "armor": "",
-    "bank": 165851,
+    "bank": 2421853,
     "dailyCooldown": 1782506532773,
     "workCooldown": 0,
     "huntCooldown": 0,
@@ -8413,8 +8413,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782575989706,
-    "interactionCount": 104,
+    "lastInteractionGain": 1782579617256,
+    "interactionCount": 109,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260626,
@@ -8423,6 +8423,8 @@
     "transferUsed": 0,
     "insurance": false,
     "bankLog": [
+      "[27/6/2026, 18.37.31] Tarik Rp100.000 (biaya Rp1.000, diterima Rp99.000)",
+      "[27/6/2026, 18.37.14] Setor Rp2.356.002 ke bank",
       "[26/6/2026, 23.04.57] Tarik Rp50.000 (biaya Rp500, diterima Rp49.500)",
       "[26/6/2026, 22.44.13] Klaim bunga harian: +Rp4.232",
       "[26/6/2026, 22.44.00] Setor Rp210.619 ke bank",
@@ -8435,19 +8437,19 @@
     "escrow": null,
     "mining": {
       "bag": {
-        "bijih_besi": 8,
-        "batu_kasar": 20,
-        "bijih_perak": 7,
-        "batu_bara": 16,
-        "bijih_tembaga": 11,
+        "bijih_besi": 1,
+        "batu_kasar": 4,
+        "bijih_perak": 2,
+        "batu_bara": 2,
+        "bijih_tembaga": 2,
         "bijih_emas": 0,
-        "kristal_amber": 2,
-        "berlian": 1,
-        "inti_naga": 1
+        "kristal_amber": 0,
+        "berlian": 0,
+        "inti_naga": 0
       },
-      "level": 6,
-      "exp": 455,
-      "lastMine": 1782575500703,
+      "level": 7,
+      "exp": 60,
+      "lastMine": 1782579618910,
       "bagsOwned": {
         "tas_kain": true
       },
@@ -8467,14 +8469,14 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 1782575722772,
-        "endAt": 1782576622772,
-        "minutes": 15,
-        "entryFee": 8500,
+        "startAt": 1782579626132,
+        "endAt": 1782583826132,
+        "minutes": 70,
+        "entryFee": 41500,
         "chat": "120363424752898522@g.us"
       },
-      "totalMined": 210,
-      "totalSold": 144
+      "totalMined": 235,
+      "totalSold": 224
     },
     "ranch": {
       "animals": {
@@ -8485,10 +8487,10 @@
         "kerbau": 0
       },
       "level": 1,
-      "exp": 0,
-      "lastClaim": 1782519637430,
-      "lastCare": 1782519670764,
-      "totalIncome": 0,
+      "exp": 65,
+      "lastClaim": 1782578282216,
+      "lastCare": 1782578276840,
+      "totalIncome": 1205,
       "totalBorn": 0,
       "totalDead": 0
     }
