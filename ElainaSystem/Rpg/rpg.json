@@ -8323,14 +8323,16 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 1038128,
-    "exp": 636,
-    "level": 7,
-    "inv": [],
+    "coin": 1032028,
+    "exp": 33,
+    "level": 8,
+    "inv": [
+      "potion"
+    ],
     "weapon": "",
     "armor": "",
-    "bank": 2421853,
-    "dailyCooldown": 1782506532773,
+    "bank": 2470290,
+    "dailyCooldown": 1782594504579,
     "workCooldown": 0,
     "huntCooldown": 0,
     "quest": {
@@ -8389,43 +8391,43 @@
     },
     "fishing": {
       "level": 2,
-      "exp": 172,
-      "bait": 0,
+      "exp": 149,
+      "bait": 22,
       "rod": "bambu",
       "rods": {
         "bambu": true
       },
       "bag": {
         "nila": 1,
-        "lele": 3,
+        "lele": 2,
         "sampah": 2,
         "tongkol": 2,
         "mujair": 5,
         "salmon": 1,
         "gurame": 1,
         "kakap": 1,
-        "baronang": 2,
-        "patin": 1
+        "baronang": 2
       },
       "lastClaim": 1782580794626,
-      "lastFishing": 1782587824408,
-      "totalCatch": 19,
+      "lastFishing": 1782594501121,
+      "totalCatch": 17,
       "afkStart": 0,
       "afkEnd": 0,
       "afkRod": "",
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782590889532,
-    "interactionCount": 126,
+    "lastInteractionGain": 1782594477769,
+    "interactionCount": 125,
     "levelUpRewardTotal": 27000,
     "loan": 0,
-    "lastInterest": 20260626,
+    "lastInterest": 20260627,
     "lastHeist": 0,
     "transferDay": 0,
     "transferUsed": 0,
     "insurance": false,
     "bankLog": [
+      "[27/6/2026, 23.08.24] Klaim bunga harian: +Rp48.437",
       "[27/6/2026, 18.37.31] Tarik Rp100.000 (biaya Rp1.000, diterima Rp99.000)",
       "[27/6/2026, 18.37.14] Setor Rp2.356.002 ke bank",
       "[26/6/2026, 23.04.57] Tarik Rp50.000 (biaya Rp500, diterima Rp49.500)",
@@ -8440,19 +8442,19 @@
     "escrow": null,
     "mining": {
       "bag": {
-        "bijih_besi": 5,
-        "batu_kasar": 18,
-        "bijih_perak": 2,
-        "batu_bara": 8,
-        "bijih_tembaga": 4,
+        "bijih_besi": 4,
+        "batu_kasar": 10,
+        "bijih_perak": 0,
+        "batu_bara": 7,
+        "bijih_tembaga": 3,
         "bijih_emas": 2,
         "kristal_amber": 1,
         "berlian": 0,
         "inti_naga": 0
       },
       "level": 8,
-      "exp": 316,
-      "lastMine": 1782590891089,
+      "exp": 195,
+      "lastMine": 1782591501051,
       "bagsOwned": {
         "tas_kain": true
       },
@@ -8472,13 +8474,13 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 1782590898498,
-        "endAt": 1782591798498,
-        "minutes": 15,
-        "entryFee": 8500,
+        "startAt": 1782591509940,
+        "endAt": 1782596309940,
+        "minutes": 80,
+        "entryFee": 47500,
         "chat": "120363424752898522@g.us"
       },
-      "totalMined": 344,
+      "totalMined": 331,
       "totalSold": 304
     },
     "ranch": {
@@ -8898,26 +8900,33 @@
       "claimedAt": 0
     },
     "fishing": {
-      "level": 1,
-      "exp": 85,
-      "bait": 24,
+      "level": 3,
+      "exp": 97,
+      "bait": 0,
       "rod": "bambu",
       "rods": {
         "bambu": true
       },
       "bag": {
-        "nila": 0,
-        "mujair": 0,
-        "marlin": 0
+        "nila": 3,
+        "mujair": 1,
+        "marlin": 0,
+        "lele": 6,
+        "baronang": 1,
+        "patin": 4,
+        "salmon": 2,
+        "tongkol": 2,
+        "tenggiri": 1,
+        "kakap": 1
       },
       "lastClaim": 1782584126413,
       "lastFishing": 1782587645410,
-      "totalCatch": 3,
-      "afkStart": 1782587853596,
-      "afkEnd": 1782591453596,
-      "afkRod": "bambu",
-      "afkChat": "120363424752898522@g.us",
-      "afkMinutes": 60
+      "totalCatch": 24,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
     },
     "lastInteractionGain": 1782587825726,
     "interactionCount": 32,
