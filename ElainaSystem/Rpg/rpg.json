@@ -8323,8 +8323,8 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 1050337,
-    "exp": 321,
+    "coin": 1038128,
+    "exp": 636,
     "level": 7,
     "inv": [],
     "weapon": "",
@@ -8389,33 +8389,35 @@
     },
     "fishing": {
       "level": 2,
-      "exp": 95,
-      "bait": 7,
+      "exp": 172,
+      "bait": 0,
       "rod": "bambu",
       "rods": {
         "bambu": true
       },
       "bag": {
         "nila": 1,
-        "lele": 2,
+        "lele": 3,
         "sampah": 2,
         "tongkol": 2,
-        "mujair": 4,
+        "mujair": 5,
         "salmon": 1,
         "gurame": 1,
-        "kakap": 1
+        "kakap": 1,
+        "baronang": 2,
+        "patin": 1
       },
       "lastClaim": 1782580794626,
-      "lastFishing": 1782586396909,
-      "totalCatch": 14,
+      "lastFishing": 1782587824408,
+      "totalCatch": 19,
       "afkStart": 0,
       "afkEnd": 0,
       "afkRod": "",
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782587292014,
-    "interactionCount": 115,
+    "lastInteractionGain": 1782590889532,
+    "interactionCount": 126,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260626,
@@ -8438,19 +8440,19 @@
     "escrow": null,
     "mining": {
       "bag": {
-        "bijih_besi": 1,
-        "batu_kasar": 6,
-        "bijih_perak": 0,
-        "batu_bara": 4,
-        "bijih_tembaga": 0,
-        "bijih_emas": 0,
-        "kristal_amber": 0,
+        "bijih_besi": 5,
+        "batu_kasar": 18,
+        "bijih_perak": 2,
+        "batu_bara": 8,
+        "bijih_tembaga": 4,
+        "bijih_emas": 2,
+        "kristal_amber": 1,
         "berlian": 0,
         "inti_naga": 0
       },
       "level": 8,
-      "exp": 32,
-      "lastMine": 1782587293576,
+      "exp": 316,
+      "lastMine": 1782590891089,
       "bagsOwned": {
         "tas_kain": true
       },
@@ -8470,13 +8472,13 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 1782587298241,
-        "endAt": 1782588198241,
+        "startAt": 1782590898498,
+        "endAt": 1782591798498,
         "minutes": 15,
         "entryFee": 8500,
         "chat": "120363424752898522@g.us"
       },
-      "totalMined": 315,
+      "totalMined": 344,
       "totalSold": 304
     },
     "ranch": {
@@ -8831,8 +8833,8 @@
   },
   "628995292933@s.whatsapp.net": {
     "name": "TrZa",
-    "coin": 789317,
-    "exp": 1,
+    "coin": 717044,
+    "exp": 172,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -8850,9 +8852,9 @@
     "roleAssignedAt": 1782469610259,
     "jobCooldown": 0,
     "jobDoneTotal": 0,
-    "shopSpentTotal": 0,
+    "shopSpentTotal": 122880,
     "premiumSpentTotal": 0,
-    "adminFeePaidTotal": 0,
+    "adminFeePaidTotal": 6144,
     "missionClaimedTotal": 0,
     "roleDutyDayKey": "",
     "roleDutyTotal": 0,
@@ -8897,27 +8899,28 @@
     },
     "fishing": {
       "level": 1,
-      "exp": 44,
-      "bait": 5,
+      "exp": 85,
+      "bait": 24,
       "rod": "bambu",
       "rods": {
         "bambu": true
       },
       "bag": {
-        "nila": 1,
-        "mujair": 1
+        "nila": 0,
+        "mujair": 0,
+        "marlin": 0
       },
       "lastClaim": 1782584126413,
-      "lastFishing": 1782587238061,
-      "totalCatch": 2,
-      "afkStart": 0,
-      "afkEnd": 0,
-      "afkRod": "",
-      "afkChat": "",
-      "afkMinutes": 5
+      "lastFishing": 1782587645410,
+      "totalCatch": 3,
+      "afkStart": 1782587853596,
+      "afkEnd": 1782591453596,
+      "afkRod": "bambu",
+      "afkChat": "120363424752898522@g.us",
+      "afkMinutes": 60
     },
-    "lastInteractionGain": 1782587257209,
-    "interactionCount": 25,
+    "lastInteractionGain": 1782587825726,
+    "interactionCount": 32,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,

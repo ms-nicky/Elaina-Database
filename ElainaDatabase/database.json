@@ -19608,11 +19608,11 @@
     "6282231699375@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 1058837,
+      "coin": 1046628,
       "joined": true,
       "joinedAt": 1782469544656,
-      "interactionCount": 186,
-      "lastInteractionGain": 1782587292014,
+      "interactionCount": 202,
+      "lastInteractionGain": 1782590889532,
       "levelUpRewardTotal": 27000,
       "bank": 0,
       "roleKey": "koki_laut",
@@ -19670,11 +19670,11 @@
     "628995292933@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 789112,
+      "coin": 717044,
       "joined": true,
       "joinedAt": 1782469610262,
-      "interactionCount": 42,
-      "lastInteractionGain": 1782587257209,
+      "interactionCount": 50,
+      "lastInteractionGain": 1782587925688,
       "levelUpRewardTotal": 15000,
       "bank": 0,
       "roleKey": "peracik_umpan",
@@ -20139,7 +20139,7 @@
     },
     "6285649689059@s.whatsapp.net": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 251
+        "6285649689059@s.whatsapp.net": 252
       },
       "antibot": false,
       "antiviewonce": false,
@@ -23407,12 +23407,12 @@
     },
     "120363424752898522@g.us": {
       "totalChat": {
-        "6282231699375@s.whatsapp.net": 748,
-        "120363424752898522@g.us": 1826,
+        "6282231699375@s.whatsapp.net": 855,
+        "120363424752898522@g.us": 1968,
         "6285123893509@s.whatsapp.net": 31,
         "6281216682302@s.whatsapp.net": 43,
         "6285743032858@s.whatsapp.net": 26,
-        "628995292933@s.whatsapp.net": 110,
+        "628995292933@s.whatsapp.net": 142,
         "6281330950729@s.whatsapp.net": 46,
         "6285123893495@s.whatsapp.net": 36,
         "6287870909352@s.whatsapp.net": 171,
