@@ -8323,8 +8323,8 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 1032028,
-    "exp": 33,
+    "coin": 1034778,
+    "exp": 224,
     "level": 8,
     "inv": [
       "potion"
@@ -8417,8 +8417,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782594477769,
-    "interactionCount": 125,
+    "lastInteractionGain": 1782596695224,
+    "interactionCount": 129,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260627,
