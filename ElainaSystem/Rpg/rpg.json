@@ -1569,7 +1569,7 @@
   "6285123231517@s.whatsapp.net": {
     "name": "PACAR HEESEUNG, SONGHYEON",
     "coin": 54000,
-    "exp": 163,
+    "exp": 178,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -1650,8 +1650,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782580043427,
-    "interactionCount": 24,
+    "lastInteractionGain": 1782581908163,
+    "interactionCount": 25,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8323,8 +8323,8 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 56705,
-    "exp": 261,
+    "coin": 66705,
+    "exp": 278,
     "level": 7,
     "inv": [],
     "weapon": "",
@@ -8389,8 +8389,8 @@
     },
     "fishing": {
       "level": 2,
-      "exp": 53,
-      "bait": 0,
+      "exp": 84,
+      "bait": 8,
       "rod": "bambu",
       "rods": {
         "bambu": true
@@ -8402,19 +8402,20 @@
         "tongkol": 2,
         "mujair": 2,
         "salmon": 1,
-        "gurame": 1
+        "gurame": 1,
+        "kakap": 1
       },
-      "lastClaim": 1782469621703,
-      "lastFishing": 1782559225554,
-      "totalCatch": 11,
+      "lastClaim": 1782580794626,
+      "lastFishing": 1782580797247,
+      "totalCatch": 12,
       "afkStart": 0,
       "afkEnd": 0,
       "afkRod": "",
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782579617256,
-    "interactionCount": 109,
+    "lastInteractionGain": 1782581163002,
+    "interactionCount": 111,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260626,
@@ -8697,8 +8698,8 @@
   },
   "6285743032858@s.whatsapp.net": {
     "name": "—_–",
-    "coin": 54302,
-    "exp": 7,
+    "coin": 45802,
+    "exp": 19,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -8779,8 +8780,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782575554704,
-    "interactionCount": 9,
+    "lastInteractionGain": 1782580625097,
+    "interactionCount": 10,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8793,17 +8794,50 @@
       "amount": 0,
       "until": 0
     },
-    "escrow": null
+    "escrow": null,
+    "mining": {
+      "bag": {},
+      "level": 1,
+      "exp": 0,
+      "lastMine": 0,
+      "bagsOwned": {
+        "tas_kain": true
+      },
+      "bagKey": "tas_kain",
+      "pickaxesOwned": {
+        "kayu": true
+      },
+      "pickaxeKey": "kayu",
+      "upgrade": {
+        "speed": 0,
+        "durability": 0,
+        "luck": 0
+      },
+      "mods": {
+        "mod_speed": 0,
+        "mod_durability": 0,
+        "mod_luck": 0
+      },
+      "session": {
+        "startAt": 1782580626555,
+        "endAt": 1782581526555,
+        "minutes": 15,
+        "entryFee": 8500,
+        "chat": "120363424752898522@g.us"
+      },
+      "totalMined": 0,
+      "totalSold": 0
+    }
   },
   "628995292933@s.whatsapp.net": {
     "name": "TrZa",
-    "coin": 0,
-    "exp": 87,
+    "coin": 17960,
+    "exp": 110,
     "level": 2,
     "inv": [],
     "weapon": "",
     "armor": "",
-    "bank": 54000,
+    "bank": 0,
     "dailyCooldown": 0,
     "workCooldown": 0,
     "huntCooldown": 0,
@@ -8879,8 +8913,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782509037456,
-    "interactionCount": 17,
+    "lastInteractionGain": 1782581777833,
+    "interactionCount": 19,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8889,13 +8923,47 @@
     "transferUsed": 0,
     "insurance": false,
     "bankLog": [
+      "[27/6/2026, 19.36.18] Tarik Rp54.000 (biaya Rp540, diterima Rp53.460)",
       "[26/6/2026, 22.58.11] Setor Rp54.000 ke bank"
     ],
     "deposit": {
       "amount": 0,
       "until": 0
     },
-    "escrow": null
+    "escrow": null,
+    "mining": {
+      "bag": {},
+      "level": 1,
+      "exp": 0,
+      "lastMine": 0,
+      "bagsOwned": {
+        "tas_kain": true
+      },
+      "bagKey": "tas_kain",
+      "pickaxesOwned": {
+        "kayu": true
+      },
+      "pickaxeKey": "kayu",
+      "upgrade": {
+        "speed": 0,
+        "durability": 0,
+        "luck": 0
+      },
+      "mods": {
+        "mod_speed": 0,
+        "mod_durability": 0,
+        "mod_luck": 0
+      },
+      "session": {
+        "startAt": 1782581800018,
+        "endAt": 1782585400018,
+        "minutes": 60,
+        "entryFee": 35500,
+        "chat": "120363424752898522@g.us"
+      },
+      "totalMined": 0,
+      "totalSold": 0
+    }
   },
   "6281330950729@s.whatsapp.net": {
     "name": "nasgorgoreng",
