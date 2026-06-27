@@ -5124,7 +5124,7 @@
   "62882020455847@s.whatsapp.net": {
     "name": "ig:lvlyliza___",
     "coin": 50000,
-    "exp": 11,
+    "exp": 26,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -5205,8 +5205,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781151793345,
-    "interactionCount": 1,
+    "lastInteractionGain": 1782559988002,
+    "interactionCount": 2,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -8323,8 +8323,8 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 714284,
-    "exp": 136,
+    "coin": 705784,
+    "exp": 169,
     "level": 7,
     "inv": [],
     "weapon": "",
@@ -8389,8 +8389,8 @@
     },
     "fishing": {
       "level": 2,
-      "exp": 43,
-      "bait": 1,
+      "exp": 53,
+      "bait": 0,
       "rod": "bambu",
       "rods": {
         "bambu": true
@@ -8400,21 +8400,21 @@
         "lele": 2,
         "sampah": 2,
         "tongkol": 2,
-        "mujair": 1,
+        "mujair": 2,
         "salmon": 1,
         "gurame": 1
       },
       "lastClaim": 1782469621703,
-      "lastFishing": 1782519788001,
-      "totalCatch": 10,
+      "lastFishing": 1782559225554,
+      "totalCatch": 11,
       "afkStart": 0,
       "afkEnd": 0,
       "afkRod": "",
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782557101250,
-    "interactionCount": 98,
+    "lastInteractionGain": 1782559390782,
+    "interactionCount": 101,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260626,
@@ -8435,19 +8435,19 @@
     "escrow": null,
     "mining": {
       "bag": {
-        "bijih_besi": 4,
-        "batu_kasar": 10,
-        "bijih_perak": 3,
-        "batu_bara": 10,
-        "bijih_tembaga": 7,
+        "bijih_besi": 6,
+        "batu_kasar": 17,
+        "bijih_perak": 7,
+        "batu_bara": 13,
+        "bijih_tembaga": 9,
         "bijih_emas": 0,
-        "kristal_amber": 1,
+        "kristal_amber": 2,
         "berlian": 0,
         "inti_naga": 1
       },
       "level": 6,
-      "exp": 141,
-      "lastMine": 1782556462271,
+      "exp": 335,
+      "lastMine": 1782559144479,
       "bagsOwned": {
         "tas_kain": true
       },
@@ -8467,13 +8467,13 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 1782557124944,
-        "endAt": 1782558324944,
-        "minutes": 20,
-        "entryFee": 11500,
+        "startAt": 1782559153472,
+        "endAt": 1782560053472,
+        "minutes": 15,
+        "entryFee": 8500,
         "chat": "120363424752898522@g.us"
       },
-      "totalMined": 180,
+      "totalMined": 199,
       "totalSold": 144
     },
     "ranch": {
@@ -8696,7 +8696,7 @@
   "6285743032858@s.whatsapp.net": {
     "name": "—_–",
     "coin": 50302,
-    "exp": 44,
+    "exp": 88,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -8777,8 +8777,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782474152695,
-    "interactionCount": 3,
+    "lastInteractionGain": 1782559527434,
+    "interactionCount": 7,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -9098,7 +9098,7 @@
   "6285123893495@s.whatsapp.net": {
     "name": "Putri Salju",
     "coin": 50000,
-    "exp": 77,
+    "exp": 89,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -9179,8 +9179,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782472659426,
-    "interactionCount": 7,
+    "lastInteractionGain": 1782561552073,
+    "interactionCount": 8,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -9431,7 +9431,7 @@
   "6281252518600@s.whatsapp.net": {
     "name": "Aerox😎",
     "coin": 50000,
-    "exp": 0,
+    "exp": 13,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -9512,8 +9512,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 0,
-    "interactionCount": 0,
+    "lastInteractionGain": 1782559772841,
+    "interactionCount": 1,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
