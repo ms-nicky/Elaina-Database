@@ -1,13 +1,13 @@
 {
-  "bankCentral": 9214926,
+  "bankCentral": 11051426,
   "bankSeeded": true,
   "sewaRevenueTotal": 0,
-  "feeRevenueTotal": 432621,
-  "shopRevenueTotal": 8642484,
+  "feeRevenueTotal": 520621,
+  "shopRevenueTotal": 10402484,
   "premiumRevenueTotal": 0,
   "rewardMultiplier": 1,
   "passiveIncomeMultiplier": 0.9,
-  "lastRecalcAt": 1782516248580,
+  "lastRecalcAt": 1782519916964,
   "market": {
     "items": {
       "bait": {
@@ -19,8 +19,8 @@
         "updatedAt": 1781610271778
       },
       "ore": {
-        "stock": 530,
-        "updatedAt": 1782510940690
+        "stock": 610,
+        "updatedAt": 1782519182320
       },
       "chemical": {
         "stock": 90,
@@ -35,6 +35,6 @@
         "updatedAt": 1781520452214
       }
     },
-    "lastChangedAt": 1782510940690
+    "lastChangedAt": 1782519182320
   }
 }
