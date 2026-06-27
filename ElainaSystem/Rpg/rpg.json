@@ -8323,8 +8323,8 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 66705,
-    "exp": 278,
+    "coin": 1050337,
+    "exp": 321,
     "level": 7,
     "inv": [],
     "weapon": "",
@@ -8389,8 +8389,8 @@
     },
     "fishing": {
       "level": 2,
-      "exp": 84,
-      "bait": 8,
+      "exp": 95,
+      "bait": 7,
       "rod": "bambu",
       "rods": {
         "bambu": true
@@ -8400,22 +8400,22 @@
         "lele": 2,
         "sampah": 2,
         "tongkol": 2,
-        "mujair": 2,
+        "mujair": 4,
         "salmon": 1,
         "gurame": 1,
         "kakap": 1
       },
       "lastClaim": 1782580794626,
-      "lastFishing": 1782580797247,
-      "totalCatch": 12,
+      "lastFishing": 1782586396909,
+      "totalCatch": 14,
       "afkStart": 0,
       "afkEnd": 0,
       "afkRod": "",
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782581163002,
-    "interactionCount": 111,
+    "lastInteractionGain": 1782587292014,
+    "interactionCount": 115,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260626,
@@ -8439,18 +8439,18 @@
     "mining": {
       "bag": {
         "bijih_besi": 1,
-        "batu_kasar": 4,
-        "bijih_perak": 2,
-        "batu_bara": 2,
-        "bijih_tembaga": 2,
+        "batu_kasar": 6,
+        "bijih_perak": 0,
+        "batu_bara": 4,
+        "bijih_tembaga": 0,
         "bijih_emas": 0,
         "kristal_amber": 0,
         "berlian": 0,
         "inti_naga": 0
       },
-      "level": 7,
-      "exp": 60,
-      "lastMine": 1782579618910,
+      "level": 8,
+      "exp": 32,
+      "lastMine": 1782587293576,
       "bagsOwned": {
         "tas_kain": true
       },
@@ -8470,14 +8470,14 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 1782579626132,
-        "endAt": 1782583826132,
-        "minutes": 70,
-        "entryFee": 41500,
+        "startAt": 1782587298241,
+        "endAt": 1782588198241,
+        "minutes": 15,
+        "entryFee": 8500,
         "chat": "120363424752898522@g.us"
       },
-      "totalMined": 235,
-      "totalSold": 224
+      "totalMined": 315,
+      "totalSold": 304
     },
     "ranch": {
       "animals": {
@@ -8831,9 +8831,9 @@
   },
   "628995292933@s.whatsapp.net": {
     "name": "TrZa",
-    "coin": 17960,
-    "exp": 110,
-    "level": 2,
+    "coin": 789317,
+    "exp": 1,
+    "level": 3,
     "inv": [],
     "weapon": "",
     "armor": "",
@@ -8897,24 +8897,27 @@
     },
     "fishing": {
       "level": 1,
-      "exp": 0,
-      "bait": 0,
+      "exp": 44,
+      "bait": 5,
       "rod": "bambu",
       "rods": {
         "bambu": true
       },
-      "bag": {},
-      "lastClaim": 0,
-      "lastFishing": 0,
-      "totalCatch": 0,
+      "bag": {
+        "nila": 1,
+        "mujair": 1
+      },
+      "lastClaim": 1782584126413,
+      "lastFishing": 1782587238061,
+      "totalCatch": 2,
       "afkStart": 0,
       "afkEnd": 0,
       "afkRod": "",
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782581777833,
-    "interactionCount": 19,
+    "lastInteractionGain": 1782587257209,
+    "interactionCount": 25,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8932,10 +8935,19 @@
     },
     "escrow": null,
     "mining": {
-      "bag": {},
-      "level": 1,
-      "exp": 0,
-      "lastMine": 0,
+      "bag": {
+        "bijih_besi": 0,
+        "bijih_tembaga": 0,
+        "batu_bara": 0,
+        "batu_kasar": 0,
+        "bijih_perak": 0,
+        "bijih_emas": 0,
+        "berlian": 0,
+        "kristal_amber": 0
+      },
+      "level": 3,
+      "exp": 177,
+      "lastMine": 1782586982558,
       "bagsOwned": {
         "tas_kain": true
       },
@@ -8955,14 +8967,14 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 1782581800018,
-        "endAt": 1782585400018,
-        "minutes": 60,
-        "entryFee": 35500,
+        "startAt": 1782587091242,
+        "endAt": 1782594291242,
+        "minutes": 120,
+        "entryFee": 71500,
         "chat": "120363424752898522@g.us"
       },
-      "totalMined": 0,
-      "totalSold": 0
+      "totalMined": 53,
+      "totalSold": 53
     }
   },
   "6281330950729@s.whatsapp.net": {
