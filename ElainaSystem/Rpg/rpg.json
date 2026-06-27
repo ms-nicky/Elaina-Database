@@ -1569,7 +1569,7 @@
   "6285123231517@s.whatsapp.net": {
     "name": "PACAR HEESEUNG, SONGHYEON",
     "coin": 54000,
-    "exp": 126,
+    "exp": 146,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -1650,8 +1650,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782564306121,
-    "interactionCount": 20,
+    "lastInteractionGain": 1782569214936,
+    "interactionCount": 22,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
