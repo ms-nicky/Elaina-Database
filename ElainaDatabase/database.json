@@ -5297,8 +5297,8 @@
       "coin": 54000,
       "joined": true,
       "joinedAt": 1780475190725,
-      "interactionCount": 19,
-      "lastInteractionGain": 1781581889739,
+      "interactionCount": 21,
+      "lastInteractionGain": 1782520635665,
       "levelUpRewardTotal": 4000,
       "bank": 0,
       "roleKey": "pemburu",
@@ -20170,7 +20170,7 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 116,
-        "120363187859302787@g.us": 2284,
+        "120363187859302787@g.us": 2292,
         "6281252888128@s.whatsapp.net": 56,
         "6285725287897@s.whatsapp.net": 133,
         "6289523718577@s.whatsapp.net": 137,
@@ -20191,7 +20191,7 @@
         "6282228498341@s.whatsapp.net": 21,
         "6282138790442@s.whatsapp.net": 61,
         "6282313179242@s.whatsapp.net": 16,
-        "6283848924413@s.whatsapp.net": 28,
+        "6283848924413@s.whatsapp.net": 30,
         "6285736527587@s.whatsapp.net": 9,
         "6282160510935@s.whatsapp.net": 5,
         "6285691801458@s.whatsapp.net": 15,
@@ -20581,7 +20581,7 @@
     },
     "120363424730928081@newsletter": {
       "totalChat": {
-        "120363424730928081@newsletter": 69
+        "120363424730928081@newsletter": 71
       },
       "antibot": false,
       "antiviewonce": false,

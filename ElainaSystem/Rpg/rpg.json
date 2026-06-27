@@ -5324,7 +5324,7 @@
   "6283848924413@s.whatsapp.net": {
     "name": "nacheya gngstr",
     "coin": 54000,
-    "exp": 83,
+    "exp": 109,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -5405,8 +5405,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781581889739,
-    "interactionCount": 16,
+    "lastInteractionGain": 1782520635665,
+    "interactionCount": 18,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
