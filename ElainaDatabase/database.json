@@ -19611,11 +19611,11 @@
     "6282231699375@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 1956289,
+      "coin": 1947789,
       "joined": true,
       "joinedAt": 1782469544656,
-      "interactionCount": 258,
-      "lastInteractionGain": 1782677638311,
+      "interactionCount": 259,
+      "lastInteractionGain": 1782681658442,
       "levelUpRewardTotal": 27000,
       "bank": 0,
       "roleKey": "koki_laut",
@@ -23441,8 +23441,8 @@
     },
     "120363424752898522@g.us": {
       "totalChat": {
-        "6282231699375@s.whatsapp.net": 1077,
-        "120363424752898522@g.us": 2787,
+        "6282231699375@s.whatsapp.net": 1079,
+        "120363424752898522@g.us": 2793,
         "6285123893509@s.whatsapp.net": 31,
         "6281216682302@s.whatsapp.net": 43,
         "6285743032858@s.whatsapp.net": 32,
