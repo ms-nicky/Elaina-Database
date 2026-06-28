@@ -1568,9 +1568,9 @@
   },
   "6285123231517@s.whatsapp.net": {
     "name": "PACAR HEESEUNG, SONGHYEON",
-    "coin": 54000,
-    "exp": 178,
-    "level": 2,
+    "coin": 59500,
+    "exp": 2,
+    "level": 3,
     "inv": [],
     "weapon": "",
     "armor": "",
@@ -1650,9 +1650,9 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782581908163,
-    "interactionCount": 25,
-    "levelUpRewardTotal": 4000,
+    "lastInteractionGain": 1782631905745,
+    "interactionCount": 26,
+    "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
     "lastHeist": 0,
@@ -8324,7 +8324,7 @@
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
     "coin": 1964789,
-    "exp": 243,
+    "exp": 279,
     "level": 8,
     "inv": [
       "potion"
@@ -8417,8 +8417,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782602142685,
-    "interactionCount": 131,
+    "lastInteractionGain": 1782632409860,
+    "interactionCount": 134,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260627,

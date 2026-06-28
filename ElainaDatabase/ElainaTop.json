@@ -8,7 +8,7 @@
   "ping": 17,
   "update": 8,
   "menu-bank": 5,
-  "tt": 161,
+  "tt": 162,
   "join": 128,
   "menuall": 13,
   "menu-menambang": 2,
@@ -134,12 +134,13 @@
   "menustore": 1,
   "menuberita": 1,
   "bunga-bank": 2,
-  "tupai": 1,
-  "slow": 1,
+  "tupai": 2,
+  "slow": 3,
   "blown": 3,
-  "fat": 2,
-  "nightcore": 3,
+  "fat": 3,
+  "nightcore": 5,
   "tas-tambang": 3,
   "menu-peternakan": 1,
-  "peternakan": 14
+  "peternakan": 14,
+  "deep": 1
 }
