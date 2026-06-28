@@ -5724,7 +5724,7 @@
   "6285694197112@s.whatsapp.net": {
     "name": "gilangmiriptukanggas",
     "coin": 50000,
-    "exp": 42,
+    "exp": 60,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -5805,8 +5805,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782498162421,
-    "interactionCount": 3,
+    "lastInteractionGain": 1782615996053,
+    "interactionCount": 5,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -8702,8 +8702,8 @@
   },
   "6285743032858@s.whatsapp.net": {
     "name": "—_–",
-    "coin": 45802,
-    "exp": 31,
+    "coin": 37302,
+    "exp": 50,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -8784,8 +8784,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782599266798,
-    "interactionCount": 11,
+    "lastInteractionGain": 1782615912564,
+    "interactionCount": 13,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8828,11 +8828,11 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 0,
-        "endAt": 0,
-        "minutes": 0,
-        "entryFee": 0,
-        "chat": ""
+        "startAt": 1782615913493,
+        "endAt": 1782616813493,
+        "minutes": 15,
+        "entryFee": 8500,
+        "chat": "120363424752898522@g.us"
       },
       "totalMined": 11,
       "totalSold": 0
