@@ -8323,8 +8323,8 @@
   },
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
-    "coin": 1034778,
-    "exp": 234,
+    "coin": 1964789,
+    "exp": 243,
     "level": 8,
     "inv": [
       "potion"
@@ -8417,8 +8417,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782598844026,
-    "interactionCount": 130,
+    "lastInteractionGain": 1782602142685,
+    "interactionCount": 131,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260627,
@@ -8442,19 +8442,19 @@
     "escrow": null,
     "mining": {
       "bag": {
-        "bijih_besi": 4,
-        "batu_kasar": 10,
+        "bijih_besi": 0,
+        "batu_kasar": 0,
         "bijih_perak": 0,
-        "batu_bara": 7,
-        "bijih_tembaga": 3,
-        "bijih_emas": 2,
-        "kristal_amber": 1,
+        "batu_bara": 0,
+        "bijih_tembaga": 0,
+        "bijih_emas": 0,
+        "kristal_amber": 0,
         "berlian": 0,
         "inti_naga": 0
       },
       "level": 8,
-      "exp": 195,
-      "lastMine": 1782591501051,
+      "exp": 755,
+      "lastMine": 1782602144354,
       "bagsOwned": {
         "tas_kain": true
       },
@@ -8474,14 +8474,14 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 1782591509940,
-        "endAt": 1782596309940,
-        "minutes": 80,
-        "entryFee": 47500,
+        "startAt": 1782602164906,
+        "endAt": 1782603064906,
+        "minutes": 15,
+        "entryFee": 8500,
         "chat": "120363424752898522@g.us"
       },
-      "totalMined": 331,
-      "totalSold": 304
+      "totalMined": 384,
+      "totalSold": 384
     },
     "ranch": {
       "animals": {

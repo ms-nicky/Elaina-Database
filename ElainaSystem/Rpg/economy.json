@@ -7,7 +7,7 @@
   "premiumRevenueTotal": 0,
   "rewardMultiplier": 1,
   "passiveIncomeMultiplier": 0.9,
-  "lastRecalcAt": 1782599282067,
+  "lastRecalcAt": 1782604734461,
   "market": {
     "items": {
       "bait": {
@@ -19,8 +19,8 @@
         "updatedAt": 1782587775233
       },
       "ore": {
-        "stock": 823,
-        "updatedAt": 1782587052925
+        "stock": 903,
+        "updatedAt": 1782602158566
       },
       "chemical": {
         "stock": 90,
@@ -35,6 +35,6 @@
         "updatedAt": 1781520452214
       }
     },
-    "lastChangedAt": 1782587826515
+    "lastChangedAt": 1782602158566
   }
 }
