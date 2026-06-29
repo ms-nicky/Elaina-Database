@@ -8840,8 +8840,8 @@
   },
   "628995292933@s.whatsapp.net": {
     "name": "TrZa",
-    "coin": 717044,
-    "exp": 172,
+    "coin": 708544,
+    "exp": 185,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -8933,8 +8933,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782587825726,
-    "interactionCount": 32,
+    "lastInteractionGain": 1782712819353,
+    "interactionCount": 33,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8984,10 +8984,10 @@
         "mod_luck": 0
       },
       "session": {
-        "startAt": 1782587091242,
-        "endAt": 1782594291242,
-        "minutes": 120,
-        "entryFee": 71500,
+        "startAt": 1782712821244,
+        "endAt": 1782713721244,
+        "minutes": 15,
+        "entryFee": 8500,
         "chat": "120363424752898522@g.us"
       },
       "totalMined": 53,
@@ -9297,7 +9297,7 @@
   "6287870909352@s.whatsapp.net": {
     "name": "~dell?~π®©π★",
     "coin": 43787,
-    "exp": 53,
+    "exp": 77,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -9378,8 +9378,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782661571568,
-    "interactionCount": 24,
+    "lastInteractionGain": 1782712191663,
+    "interactionCount": 26,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -9436,7 +9436,7 @@
   "628133028234@s.whatsapp.net": {
     "name": "habib",
     "coin": 50000,
-    "exp": 25,
+    "exp": 36,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -9517,8 +9517,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782658958304,
-    "interactionCount": 2,
+    "lastInteractionGain": 1782711932938,
+    "interactionCount": 3,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -9636,7 +9636,7 @@
   "62895429595550@s.whatsapp.net": {
     "name": "put.",
     "coin": 50000,
-    "exp": 13,
+    "exp": 28,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -9717,8 +9717,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782474779991,
-    "interactionCount": 1,
+    "lastInteractionGain": 1782711143278,
+    "interactionCount": 2,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
