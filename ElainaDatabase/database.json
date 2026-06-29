@@ -19742,11 +19742,11 @@
     "6287870909352@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 43787,
+      "coin": 45513,
       "joined": true,
       "joinedAt": 1782469995005,
-      "interactionCount": 57,
-      "lastInteractionGain": 1782712191663,
+      "interactionCount": 61,
+      "lastInteractionGain": 1782772527930,
       "levelUpRewardTotal": 27500,
       "bank": 0,
       "roleKey": "miner",
@@ -20012,6 +20012,16 @@
       "bank": 0,
       "roleKey": "peternak",
       "roleName": "Peternak"
+    },
+    "6287733436038@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
     }
   },
   "chats": {
@@ -23442,17 +23452,18 @@
     "120363424752898522@g.us": {
       "totalChat": {
         "6282231699375@s.whatsapp.net": 1079,
-        "120363424752898522@g.us": 2821,
+        "120363424752898522@g.us": 2836,
         "6285123893509@s.whatsapp.net": 31,
         "6281216682302@s.whatsapp.net": 43,
         "6285743032858@s.whatsapp.net": 34,
         "628995292933@s.whatsapp.net": 283,
         "6281330950729@s.whatsapp.net": 57,
         "6285123893495@s.whatsapp.net": 52,
-        "6287870909352@s.whatsapp.net": 205,
+        "6287870909352@s.whatsapp.net": 225,
         "628133028234@s.whatsapp.net": 7,
         "6281252518600@s.whatsapp.net": 8,
-        "62895429595550@s.whatsapp.net": 10
+        "62895429595550@s.whatsapp.net": 10,
+        "6287733436038@s.whatsapp.net": 4
       },
       "antibot": false,
       "antiviewonce": false,
