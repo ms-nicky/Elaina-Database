@@ -9932,5 +9932,105 @@
       "until": 0
     },
     "escrow": null
+  },
+  "6285904314041@s.whatsapp.net": {
+    "name": "ginn",
+    "coin": 50000,
+    "exp": 10,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    },
+    "roleKey": "pedagang",
+    "roleName": "Pedagang",
+    "roleIcon": "🧾",
+    "roleAssignedAt": 1782846344343,
+    "jobCooldown": 0,
+    "jobDoneTotal": 0,
+    "shopSpentTotal": 0,
+    "premiumSpentTotal": 0,
+    "adminFeePaidTotal": 0,
+    "missionClaimedTotal": 0,
+    "roleDutyDayKey": "",
+    "roleDutyTotal": 0,
+    "roleExp": 0,
+    "roleReputation": 0,
+    "contractDoneTotal": 0,
+    "dailyMission": {
+      "dayKey": 20260630,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
+      "progress": 0,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
+      "claimed": false
+    },
+    "accessMission": {
+      "dayKey": 20260630,
+      "key": "role_duty",
+      "title": "Stabilisasi Harga Pasar",
+      "description": "Atur suplai dan rotasi barang agar harga toko Elaina tidak liar.",
+      "target": 1,
+      "progress": 0,
+      "completed": false,
+      "completedAt": 0,
+      "roleKey": "pedagang",
+      "roleName": "Pedagang"
+    },
+    "marketContract": {
+      "dayKey": 20260630,
+      "key": "pedagang_contract",
+      "title": "Rotasi Logistik Pasar",
+      "description": "Semua etalase perlu distabilkan sebelum jam ramai.",
+      "stockKey": "potion",
+      "stockGain": 10,
+      "rewardCoin": 1260,
+      "rewardExp": 18,
+      "reputationGain": 7,
+      "completed": false,
+      "claimedAt": 0
+    },
+    "fishing": {
+      "level": 1,
+      "exp": 0,
+      "bait": 0,
+      "rod": "bambu",
+      "rods": {
+        "bambu": true
+      },
+      "bag": {},
+      "lastClaim": 0,
+      "lastFishing": 0,
+      "totalCatch": 0,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
+    },
+    "lastInteractionGain": 1782846344343,
+    "interactionCount": 1,
+    "levelUpRewardTotal": 0,
+    "loan": 0,
+    "lastInterest": 0,
+    "lastHeist": 0,
+    "transferDay": 0,
+    "transferUsed": 0,
+    "insurance": false,
+    "bankLog": [],
+    "deposit": {
+      "amount": 0,
+      "until": 0
+    },
+    "escrow": null
   }
 }
