@@ -90,5 +90,71 @@
       "fishing": 0,
       "work": 0
     }
+  },
+  "6282231699375@s.whatsapp.net": {
+    "questDay": "20260701",
+    "quests": [
+      {
+        "key": "mining",
+        "label": "Mining",
+        "icon": "⛏️",
+        "target": 3,
+        "progress": 3,
+        "done": true
+      },
+      {
+        "key": "fishing",
+        "label": "Fishing",
+        "icon": "🎣",
+        "target": 5,
+        "progress": 5,
+        "done": true
+      },
+      {
+        "key": "chat",
+        "label": "Chat",
+        "icon": "💬",
+        "target": 10,
+        "progress": 10,
+        "done": true
+      },
+      {
+        "key": "work",
+        "label": "Bekerja",
+        "icon": "💼",
+        "target": 20,
+        "progress": 0,
+        "done": false
+      }
+    ],
+    "questCompleted": false,
+    "questCompletedAt": 0,
+    "questRewardClaimed": false,
+    "questSnapshot": {
+      "mining": 422,
+      "fishing": 17,
+      "chat": 138,
+      "work": 0
+    },
+    "achievements": {
+      "first_mine": {
+        "unlockedAt": 1782944070756
+      },
+      "fishing_beginner": {
+        "unlockedAt": 1782944070757
+      },
+      "ore_master": {
+        "unlockedAt": 1782944070757
+      },
+      "chat_100": {
+        "unlockedAt": 1782944070757
+      },
+      "rich": {
+        "unlockedAt": 1782944070757
+      },
+      "banker": {
+        "unlockedAt": 1782944070757
+      }
+    }
   }
 }
