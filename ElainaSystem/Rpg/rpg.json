@@ -5024,7 +5024,7 @@
   "6283875986042@s.whatsapp.net": {
     "name": "Rvaa",
     "coin": 50000,
-    "exp": 12,
+    "exp": 26,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -5105,8 +5105,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781141438915,
-    "interactionCount": 1,
+    "lastInteractionGain": 1782947954257,
+    "interactionCount": 2,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
