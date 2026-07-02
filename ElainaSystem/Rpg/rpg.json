@@ -709,7 +709,7 @@
   "6281330583619@s.whatsapp.net": {
     "name": "nafiss",
     "coin": 54000,
-    "exp": 46,
+    "exp": 56,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -790,8 +790,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782492427213,
-    "interactionCount": 13,
+    "lastInteractionGain": 1783025646993,
+    "interactionCount": 14,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -8324,7 +8324,7 @@
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
     "coin": 1939289,
-    "exp": 344,
+    "exp": 359,
     "level": 8,
     "inv": [
       "potion"
@@ -8417,8 +8417,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782944163059,
-    "interactionCount": 139,
+    "lastInteractionGain": 1783024372982,
+    "interactionCount": 140,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260627,
