@@ -574,8 +574,8 @@
       "coin": 50000,
       "joined": true,
       "joinedAt": 1780548540871,
-      "interactionCount": 8,
-      "lastInteractionGain": 1782995407392,
+      "interactionCount": 9,
+      "lastInteractionGain": 1783027489605,
       "levelUpRewardTotal": 0,
       "bank": 0,
       "roleKey": "koki_laut",
@@ -24636,13 +24636,13 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 135,
-        "120363187859302787@g.us": 2738,
+        "120363187859302787@g.us": 2763,
         "6281252888128@s.whatsapp.net": 63,
         "6285725287897@s.whatsapp.net": 141,
         "6289523718577@s.whatsapp.net": 137,
         "6285652122429@s.whatsapp.net": 7,
         "6285723408409@s.whatsapp.net": 8,
-        "6285119794504@s.whatsapp.net": 14,
+        "6285119794504@s.whatsapp.net": 19,
         "6282329716670@s.whatsapp.net": 2,
         "6285168745769@s.whatsapp.net": 2,
         "62895386497475@s.whatsapp.net": 1,
@@ -25053,7 +25053,7 @@
     },
     "120363424730928081@newsletter": {
       "totalChat": {
-        "120363424730928081@newsletter": 390
+        "120363424730928081@newsletter": 391
       },
       "antibot": false,
       "antiviewonce": false,
@@ -27571,7 +27571,7 @@
       "antilinkkick": false,
       "antipromotion": false,
       "sholatwib": true,
-      "sholatwibLast": "2026-07-02:maghrib"
+      "sholatwibLast": "2026-07-03:subuh"
     },
     "6285339193129@s.whatsapp.net": {
       "totalChat": {
