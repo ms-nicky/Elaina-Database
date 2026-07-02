@@ -10136,7 +10136,7 @@
   "6285974438059@s.whatsapp.net": {
     "name": "Rorwrrr",
     "coin": 50000,
-    "exp": 9,
+    "exp": 51,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -10217,8 +10217,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782920063219,
-    "interactionCount": 1,
+    "lastInteractionGain": 1782989813730,
+    "interactionCount": 4,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -10332,5 +10332,72 @@
       "until": 0
     },
     "escrow": null
+  },
+  "6285691801458@s.whatsapp.net": {
+    "name": "jam jam",
+    "coin": 50000,
+    "exp": 0,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    },
+    "roleKey": "player",
+    "roleName": "Player",
+    "roleIcon": "🎮",
+    "roleAssignedAt": 1782991393440,
+    "jobCooldown": 0,
+    "jobDoneTotal": 0,
+    "shopSpentTotal": 0,
+    "premiumSpentTotal": 0,
+    "adminFeePaidTotal": 0,
+    "missionClaimedTotal": 0,
+    "roleDutyDayKey": "",
+    "roleDutyTotal": 0,
+    "roleExp": 0,
+    "roleReputation": 0,
+    "contractDoneTotal": 0,
+    "dailyMission": {
+      "dayKey": 20260702,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
+      "progress": 0,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
+      "claimed": false
+    },
+    "accessMission": {
+      "dayKey": 20260702,
+      "key": "role_duty",
+      "title": "Uji Sistem Arena",
+      "description": "Bantu mengetes sirkulasi event dan jaga traffic bot tetap hidup.",
+      "target": 1,
+      "progress": 0,
+      "completed": false,
+      "completedAt": 0,
+      "roleKey": "player",
+      "roleName": "Player"
+    },
+    "marketContract": {
+      "dayKey": 20260702,
+      "key": "player_contract",
+      "title": "Event Showcase Arena",
+      "description": "Arena ramai dan butuh item pendukung untuk event.",
+      "stockKey": "gear",
+      "stockGain": 9,
+      "rewardCoin": 1180,
+      "rewardExp": 17,
+      "reputationGain": 6,
+      "completed": false,
+      "claimedAt": 0
+    }
   }
 }
