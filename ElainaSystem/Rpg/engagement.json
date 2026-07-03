@@ -340,5 +340,51 @@
       "chat": 14,
       "work": 0
     }
+  },
+  "6285709958595@s.whatsapp.net": {
+    "questDay": "20260703",
+    "quests": [
+      {
+        "key": "work",
+        "label": "Bekerja",
+        "icon": "💼",
+        "target": 3,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "chat",
+        "label": "Chat",
+        "icon": "💬",
+        "target": 5,
+        "progress": 5,
+        "done": true
+      },
+      {
+        "key": "game",
+        "label": "Menang Game",
+        "icon": "🎮",
+        "target": 10,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "fishing",
+        "label": "Fishing",
+        "icon": "🎣",
+        "target": 20,
+        "progress": 0,
+        "done": false
+      }
+    ],
+    "questCompleted": false,
+    "questCompletedAt": 0,
+    "questRewardClaimed": false,
+    "questSnapshot": {
+      "work": 0,
+      "chat": 17,
+      "game": 0,
+      "fishing": 0
+    }
   }
 }

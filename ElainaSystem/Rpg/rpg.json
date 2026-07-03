@@ -1065,7 +1065,7 @@
   "6285709958595@s.whatsapp.net": {
     "name": "𝐑𝐚𝐮𝐫𝐮𝐬 🦖",
     "coin": 54000,
-    "exp": 71,
+    "exp": 83,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -1146,8 +1146,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782358475877,
-    "interactionCount": 15,
+    "lastInteractionGain": 1783059716548,
+    "interactionCount": 16,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
