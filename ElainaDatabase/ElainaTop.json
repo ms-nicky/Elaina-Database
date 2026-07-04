@@ -9,7 +9,7 @@
   "update": 8,
   "menu-bank": 5,
   "tt": 174,
-  "join": 131,
+  "join": 132,
   "menuall": 13,
   "menu-menambang": 2,
   "bot": 8,
@@ -143,5 +143,6 @@
   "menu-peternakan": 1,
   "peternakan": 14,
   "deep": 1,
-  "menuai": 2
+  "menuai": 2,
+  "claimevent": 2
 }

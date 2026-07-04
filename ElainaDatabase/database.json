@@ -7117,11 +7117,14 @@
       "limit": 10,
       "exp": 0,
       "coin": 50000,
-      "joined": false,
-      "joinedAt": 0,
-      "interactionCount": 0,
-      "lastInteractionGain": 0,
-      "levelUpRewardTotal": 0
+      "joined": true,
+      "joinedAt": 1783195132431,
+      "interactionCount": 1,
+      "lastInteractionGain": 1783195140537,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "pemburu",
+      "roleName": "Pemburu"
     },
     "6282167533209@s.whatsapp.net": {
       "limit": 10,
@@ -25695,8 +25698,8 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 137,
-        "120363187859302787@g.us": 2844,
-        "6281252888128@s.whatsapp.net": 64,
+        "120363187859302787@g.us": 2856,
+        "6281252888128@s.whatsapp.net": 71,
         "6285725287897@s.whatsapp.net": 142,
         "6289523718577@s.whatsapp.net": 137,
         "6285652122429@s.whatsapp.net": 7,
@@ -25725,7 +25728,7 @@
         "6285123231517@s.whatsapp.net": 48,
         "6288211836684@s.whatsapp.net": 44,
         "6285198290304@s.whatsapp.net": 11,
-        "6285727583242@s.whatsapp.net": 15,
+        "6285727583242@s.whatsapp.net": 42,
         "6283857316629@s.whatsapp.net": 6,
         "6289529940875@s.whatsapp.net": 6,
         "6282136979366@s.whatsapp.net": 1,
@@ -25826,7 +25829,7 @@
         "6287781397452@s.whatsapp.net": 6,
         "6281573854967@s.whatsapp.net": 4,
         "6281396133576@s.whatsapp.net": 3,
-        "6282231699375@s.whatsapp.net": 26,
+        "6282231699375@s.whatsapp.net": 27,
         "6281374535119@s.whatsapp.net": 5,
         "6282143965467@s.whatsapp.net": 1,
         "628818872304@s.whatsapp.net": 3,
