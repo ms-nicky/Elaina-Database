@@ -1369,7 +1369,7 @@
   "6282310296739@s.whatsapp.net": {
     "name": "₴​ꫀ𝘳ꪶꪖ​ꪀ-⛧⃝+𓄃",
     "coin": 54000,
-    "exp": 16,
+    "exp": 31,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -1450,8 +1450,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782860768233,
-    "interactionCount": 11,
+    "lastInteractionGain": 1783167795146,
+    "interactionCount": 12,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -10533,5 +10533,105 @@
       "completed": false,
       "claimedAt": 0
     }
+  },
+  "6287769150430@s.whatsapp.net": {
+    "name": "Bintang Galang P",
+    "coin": 50000,
+    "exp": 0,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    },
+    "roleKey": "peternak",
+    "roleName": "Peternak",
+    "roleIcon": "🐄",
+    "roleAssignedAt": 1783165610893,
+    "jobCooldown": 0,
+    "jobDoneTotal": 0,
+    "shopSpentTotal": 0,
+    "premiumSpentTotal": 0,
+    "adminFeePaidTotal": 0,
+    "missionClaimedTotal": 0,
+    "roleDutyDayKey": "",
+    "roleDutyTotal": 0,
+    "roleExp": 0,
+    "roleReputation": 0,
+    "contractDoneTotal": 0,
+    "dailyMission": {
+      "dayKey": 20260704,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
+      "progress": 0,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
+      "claimed": false
+    },
+    "accessMission": {
+      "dayKey": 20260704,
+      "key": "role_duty",
+      "title": "Setor Hasil Peternakan",
+      "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
+      "target": 1,
+      "progress": 0,
+      "completed": false,
+      "completedAt": 0,
+      "roleKey": "peternak",
+      "roleName": "Peternak"
+    },
+    "marketContract": {
+      "dayKey": 20260704,
+      "key": "peternak_contract",
+      "title": "Pasokan Kandang",
+      "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
+      "stockKey": "chemical",
+      "stockGain": 11,
+      "rewardCoin": 1240,
+      "rewardExp": 18,
+      "reputationGain": 7,
+      "completed": false,
+      "claimedAt": 0
+    },
+    "fishing": {
+      "level": 1,
+      "exp": 0,
+      "bait": 0,
+      "rod": "bambu",
+      "rods": {
+        "bambu": true
+      },
+      "bag": {},
+      "lastClaim": 0,
+      "lastFishing": 0,
+      "totalCatch": 0,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
+    },
+    "lastInteractionGain": 0,
+    "interactionCount": 0,
+    "levelUpRewardTotal": 0,
+    "loan": 0,
+    "lastInterest": 0,
+    "lastHeist": 0,
+    "transferDay": 0,
+    "transferUsed": 0,
+    "insurance": false,
+    "bankLog": [],
+    "deposit": {
+      "amount": 0,
+      "until": 0
+    },
+    "escrow": null
   }
 }
