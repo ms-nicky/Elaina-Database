@@ -10236,7 +10236,7 @@
   "6285119794504@s.whatsapp.net": {
     "name": "Syadd",
     "coin": 50000,
-    "exp": 39,
+    "exp": 53,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -10317,8 +10317,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783047243260,
-    "interactionCount": 3,
+    "lastInteractionGain": 1783176099560,
+    "interactionCount": 4,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
