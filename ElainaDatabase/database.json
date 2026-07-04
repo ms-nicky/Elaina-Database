@@ -16646,8 +16646,8 @@
       "coin": 50000,
       "joined": true,
       "joinedAt": 1781362376946,
-      "interactionCount": 1,
-      "lastInteractionGain": 1781362394843,
+      "interactionCount": 2,
+      "lastInteractionGain": 1783198579244,
       "levelUpRewardTotal": 0,
       "bank": 0,
       "roleKey": "miner",
@@ -25698,7 +25698,7 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 137,
-        "120363187859302787@g.us": 2856,
+        "120363187859302787@g.us": 2860,
         "6281252888128@s.whatsapp.net": 71,
         "6285725287897@s.whatsapp.net": 142,
         "6289523718577@s.whatsapp.net": 137,
@@ -25728,7 +25728,7 @@
         "6285123231517@s.whatsapp.net": 48,
         "6288211836684@s.whatsapp.net": 44,
         "6285198290304@s.whatsapp.net": 11,
-        "6285727583242@s.whatsapp.net": 42,
+        "6285727583242@s.whatsapp.net": 44,
         "6283857316629@s.whatsapp.net": 6,
         "6289529940875@s.whatsapp.net": 6,
         "6282136979366@s.whatsapp.net": 1,
@@ -25809,7 +25809,7 @@
         "6283849091844@s.whatsapp.net": 1,
         "62881022296748@s.whatsapp.net": 1,
         "6283134164912@s.whatsapp.net": 1,
-        "62859126191800@s.whatsapp.net": 3,
+        "62859126191800@s.whatsapp.net": 5,
         "6285231713188@s.whatsapp.net": 1,
         "6288291763730@s.whatsapp.net": 1,
         "628812652494@s.whatsapp.net": 1,
@@ -27047,7 +27047,7 @@
         "6283190642846@s.whatsapp.net": 25,
         "6281373368637@s.whatsapp.net": 24,
         "120363426906288651@g.us": 626,
-        "6282310296739@s.whatsapp.net": 318,
+        "6282310296739@s.whatsapp.net": 319,
         "6283180865761@s.whatsapp.net": 12,
         "6281929051637@s.whatsapp.net": 50,
         "6283196522372@s.whatsapp.net": 21,
@@ -29497,7 +29497,7 @@
     },
     "6282143965467@s.whatsapp.net": {
       "totalChat": {
-        "6282143965467@s.whatsapp.net": 63
+        "6282143965467@s.whatsapp.net": 64
       }
     },
     "6282231699375@s.whatsapp.net": {
