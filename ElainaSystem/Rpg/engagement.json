@@ -46,29 +46,21 @@
     }
   },
   "628211594701@s.whatsapp.net": {
-    "questDay": "20260701",
+    "questDay": "20260704",
     "quests": [
       {
         "key": "chat",
         "label": "Chat",
         "icon": "💬",
         "target": 3,
-        "progress": 1,
+        "progress": 3,
         "done": true
-      },
-      {
-        "key": "game",
-        "label": "Menang Game",
-        "icon": "🎮",
-        "target": 5,
-        "progress": 0,
-        "done": false
       },
       {
         "key": "fishing",
         "label": "Fishing",
         "icon": "🎣",
-        "target": 10,
+        "target": 5,
         "progress": 0,
         "done": false
       },
@@ -76,6 +68,14 @@
         "key": "work",
         "label": "Bekerja",
         "icon": "💼",
+        "target": 10,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "mining",
+        "label": "Mining",
+        "icon": "⛏️",
         "target": 20,
         "progress": 0,
         "done": false
@@ -85,10 +85,10 @@
     "questCompletedAt": 0,
     "questRewardClaimed": false,
     "questSnapshot": {
-      "chat": 43,
-      "game": 0,
+      "chat": 47,
       "fishing": 0,
-      "work": 0
+      "work": 0,
+      "mining": 0
     }
   },
   "6282231699375@s.whatsapp.net": {

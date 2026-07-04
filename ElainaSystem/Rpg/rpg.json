@@ -2978,7 +2978,7 @@
   "628211594701@s.whatsapp.net": {
     "name": "kyy",
     "coin": 59500,
-    "exp": 226,
+    "exp": 260,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -3059,8 +3059,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782948397623,
-    "interactionCount": 43,
+    "lastInteractionGain": 1783183799705,
+    "interactionCount": 46,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -3478,7 +3478,7 @@
   "6282213013641@s.whatsapp.net": {
     "name": "Yon.𖣂",
     "coin": 50000,
-    "exp": 62,
+    "exp": 76,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -3559,8 +3559,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781465510617,
-    "interactionCount": 6,
+    "lastInteractionGain": 1783183871777,
+    "interactionCount": 7,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
