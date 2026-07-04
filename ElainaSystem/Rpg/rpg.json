@@ -10470,7 +10470,7 @@
   "6282279041092@s.whatsapp.net": {
     "name": "Adzraa.",
     "coin": 50000,
-    "exp": 0,
+    "exp": 14,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -10532,7 +10532,40 @@
       "reputationGain": 7,
       "completed": false,
       "claimedAt": 0
-    }
+    },
+    "fishing": {
+      "level": 1,
+      "exp": 0,
+      "bait": 0,
+      "rod": "bambu",
+      "rods": {
+        "bambu": true
+      },
+      "bag": {},
+      "lastClaim": 0,
+      "lastFishing": 0,
+      "totalCatch": 0,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
+    },
+    "lastInteractionGain": 1783188808596,
+    "interactionCount": 1,
+    "levelUpRewardTotal": 0,
+    "loan": 0,
+    "lastInterest": 0,
+    "lastHeist": 0,
+    "transferDay": 0,
+    "transferUsed": 0,
+    "insurance": false,
+    "bankLog": [],
+    "deposit": {
+      "amount": 0,
+      "until": 0
+    },
+    "escrow": null
   },
   "6287769150430@s.whatsapp.net": {
     "name": "Bintang Galang P",
