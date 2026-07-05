@@ -26388,6 +26388,26 @@
       "interactionCount": 0,
       "lastInteractionGain": 0,
       "levelUpRewardTotal": 0
+    },
+    "6281332095560@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
+    },
+    "6285959860950@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
     }
   },
   "chats": {
@@ -29685,7 +29705,7 @@
         "6285600536021@s.whatsapp.net": 1,
         "6283803723879@s.whatsapp.net": 1,
         "6288220673593@s.whatsapp.net": 1,
-        "628980060117@s.whatsapp.net": 3,
+        "628980060117@s.whatsapp.net": 4,
         "6283196806189@s.whatsapp.net": 14,
         "6282295533464@s.whatsapp.net": 4,
         "6289671922073@s.whatsapp.net": 1,
@@ -29705,7 +29725,9 @@
         "6285833428254@s.whatsapp.net": 3,
         "6289699504093@s.whatsapp.net": 2,
         "6285959848001@s.whatsapp.net": 1,
-        "628989834986@s.whatsapp.net": 1
+        "628989834986@s.whatsapp.net": 1,
+        "6281332095560@s.whatsapp.net": 1,
+        "6285959860950@s.whatsapp.net": 1
       },
       "antibot": false,
       "antiviewonce": false,
