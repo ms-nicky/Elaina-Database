@@ -26408,6 +26408,29 @@
       "interactionCount": 0,
       "lastInteractionGain": 0,
       "levelUpRewardTotal": 0
+    },
+    "6285757345091@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": true,
+      "joinedAt": 1783289658240,
+      "interactionCount": 2,
+      "lastInteractionGain": 1783290032454,
+      "levelUpRewardTotal": 0,
+      "bank": 0,
+      "roleKey": "penjelajah",
+      "roleName": "Penjelajah"
+    },
+    "6283172069119@s.whatsapp.net": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
     }
   },
   "chats": {
@@ -26614,9 +26637,9 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 140,
-        "120363187859302787@g.us": 2940,
+        "120363187859302787@g.us": 2948,
         "6281252888128@s.whatsapp.net": 73,
-        "6285725287897@s.whatsapp.net": 142,
+        "6285725287897@s.whatsapp.net": 143,
         "6289523718577@s.whatsapp.net": 137,
         "6285652122429@s.whatsapp.net": 7,
         "6285723408409@s.whatsapp.net": 9,
@@ -26756,7 +26779,8 @@
         "6283105297108@s.whatsapp.net": 3,
         "6289601611652@s.whatsapp.net": 4,
         "6285323156648@s.whatsapp.net": 4,
-        "6285724313690@s.whatsapp.net": 3
+        "6285724313690@s.whatsapp.net": 3,
+        "6285757345091@s.whatsapp.net": 5
       },
       "antibot": false,
       "antiviewonce": false,
@@ -29023,7 +29047,7 @@
         "6289673413440@s.whatsapp.net": 9,
         "6289679096957@s.whatsapp.net": 10,
         "6285864444925@s.whatsapp.net": 9,
-        "6285183044114@s.whatsapp.net": 10,
+        "6285183044114@s.whatsapp.net": 11,
         "6285656677594@s.whatsapp.net": 11,
         "6285353609078@s.whatsapp.net": 7,
         "6285645821615@s.whatsapp.net": 2,
@@ -29439,7 +29463,7 @@
         "6281217640169@s.whatsapp.net": 15,
         "6285385665336@s.whatsapp.net": 4,
         "62882020475579@s.whatsapp.net": 16,
-        "6287740931213@s.whatsapp.net": 8,
+        "6287740931213@s.whatsapp.net": 9,
         "6281527087044@s.whatsapp.net": 8,
         "639753500536@s.whatsapp.net": 2,
         "6285129457876@s.whatsapp.net": 3,
@@ -29588,7 +29612,7 @@
         "6282372568363@s.whatsapp.net": 2,
         "6285658182076@s.whatsapp.net": 163,
         "6282120804489@s.whatsapp.net": 3,
-        "6285718142393@s.whatsapp.net": 22,
+        "6285718142393@s.whatsapp.net": 23,
         "6282279041092@s.whatsapp.net": 74,
         "6285133295754@s.whatsapp.net": 10,
         "628984251045@s.whatsapp.net": 4,
@@ -29614,7 +29638,7 @@
         "6285187021923@s.whatsapp.net": 7,
         "6285651113541@s.whatsapp.net": 4,
         "6288294694506@s.whatsapp.net": 1,
-        "62895404815671@s.whatsapp.net": 60,
+        "62895404815671@s.whatsapp.net": 61,
         "6281241656472@s.whatsapp.net": 1,
         "6285143058198@s.whatsapp.net": 2,
         "62882005299190@s.whatsapp.net": 10,
@@ -29727,7 +29751,8 @@
         "6285959848001@s.whatsapp.net": 1,
         "628989834986@s.whatsapp.net": 1,
         "6281332095560@s.whatsapp.net": 1,
-        "6285959860950@s.whatsapp.net": 1
+        "6285959860950@s.whatsapp.net": 1,
+        "6283172069119@s.whatsapp.net": 1
       },
       "antibot": false,
       "antiviewonce": false,
@@ -29744,7 +29769,7 @@
       "antilinkkick": false,
       "antipromotion": false,
       "sholatwib": true,
-      "sholatwibLast": "2026-07-05:isya"
+      "sholatwibLast": "2026-07-06:subuh"
     },
     "6285339193129@s.whatsapp.net": {
       "totalChat": {
