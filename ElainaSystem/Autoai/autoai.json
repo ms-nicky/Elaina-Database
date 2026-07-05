@@ -472,7 +472,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795452,
+      "lastRunAt": 1783267410222,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -581,7 +581,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795456,
+      "lastRunAt": 1783267410226,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -774,145 +774,145 @@
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Untuk level mancingmu *4* dan saldo *Rp38.882.279*, rekomendasiku sekarang *Pancing Fiber*. Rod ini sudah kebuka, masih masuk saldo, dan upgrade-nya terasa b...",
-        "at": 1783164795512
+        "at": 1783267410283
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Oke beli kan saya pancing fiber -> Elaina Asistem Untuk level mancingmu *4* dan saldo *Rp38.882.279*, rekomendasiku sekarang *Pancing Fiber*. Rod ini sudah kebuka, masih masuk saldo, dan upg...",
-        "at": 1783164795512
+        "at": 1783267410283
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Halo juga. Ada yang bisa kubantu?",
-        "at": 1783164795512
+        "at": 1783267410284
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Halo ai -> Halo juga. Ada yang bisa kubantu?",
-        "at": 1783164795512
+        "at": 1783267410284
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: mau kasih kamu pertanyaan game lebih",
-        "at": 1783164795513
+        "at": 1783267410284
       },
       {
         "type": "question",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Pertanyaan aktif dari NICKY: Aku mau kasih kamu pertanyaan agar game lebih pintar dan interaktif. Apakah kamu mau?",
-        "at": 1783164795513
+        "at": 1783267410284
       },
       {
         "type": "mood",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Nuansa percakapan NICKY: penasaran",
-        "at": 1783164795513
+        "at": 1783267410284
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Tentu saja, aku siap mendengarkan.",
-        "at": 1783164795513
+        "at": 1783267410284
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Aku mau kasih kamu pertanyaan agar game lebih pintar dan interaktif. Apakah kamu mau? -> Tentu saja, aku siap mendengarkan.",
-        "at": 1783164795513
+        "at": 1783267410284
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: pecah pertanyaan menjadi lebih spesifik aman",
-        "at": 1783164795516
+        "at": 1783267410287
       },
       {
         "type": "question",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Pertanyaan aktif dari NICKY: 1. Pecah pertanyaan menjadi lebih spesifik dan aman. Daripada: “Apa 3 strategi inovatif pemerintah untuk menurunkan polusi?” Bisa jadi: “...",
-        "at": 1783164795516
+        "at": 1783267410287
       },
       {
         "type": "mood",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Nuansa percakapan NICKY: penasaran",
-        "at": 1783164795516
+        "at": 1783267410287
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Menarik. Jadi, kamu ingin aku membantu menyusun pertanyaan agar lebih spesifik dan aman untuk sebuah game, ya?",
-        "at": 1783164795516
+        "at": 1783267410287
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: 1. Pecah pertanyaan menjadi lebih spesifik dan aman. Daripada: “Apa 3 strategi inovatif pemerintah untuk menurunkan polusi?” Bisa jadi: “Sebutkan 3 ide solusi teknologi yang bis... -> Menari...",
-        "at": 1783164795517
+        "at": 1783267410287
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: mau kasih kamu pertanyaan kamu lebih",
-        "at": 1783164795518
+        "at": 1783267410289
       },
       {
         "type": "question",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Pertanyaan aktif dari NICKY: Aku mau kasih kamu pertanyaan agar kamu lebih pintar dan interaktif. Apakah kamu mau?",
-        "at": 1783164795518
+        "at": 1783267410289
       },
       {
         "type": "mood",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Nuansa percakapan NICKY: penasaran",
-        "at": 1783164795518
+        "at": 1783267410289
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Baik, kalau begitu, lanjutkan dengan contoh pertanyaan yang ingin kamu pecah. Aku akan bantu menyusunnya agar lebih spesifik dan aman.",
-        "at": 1783164795518
+        "at": 1783267410289
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Aku mau kasih kamu pertanyaan agar kamu lebih pintar dan interaktif. Apakah kamu mau? -> Baik, kalau begitu, lanjutkan dengan contoh pertanyaan yang ingin kamu pecah. Aku akan bantu menyusun...",
-        "at": 1783164795518
+        "at": 1783267410289
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: daripada strategi inovatif pemerintah menurunkan polusi",
-        "at": 1783164795519
+        "at": 1783267410290
       },
       {
         "type": "question",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Pertanyaan aktif dari NICKY: Daripada: “Apa 3 strategi inovatif pemerintah untuk menurunkan polusi?” Bisa jadi: “Sebutkan 3 ide solusi teknologi yang bisa membantu me...",
-        "at": 1783164795519
+        "at": 1783267410290
       },
       {
         "type": "mood",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Nuansa percakapan NICKY: penasaran",
-        "at": 1783164795519
+        "at": 1783267410290
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Baik, itu contoh yang sangat bagus untuk membuat pertanyaan lebih spesifik. Kamu sudah menunjukkan bagaimana dari pertanyaan umum menjadi lebih terarah, foku...",
-        "at": 1783164795519
+        "at": 1783267410290
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Daripada: “Apa 3 strategi inovatif pemerintah untuk menurunkan polusi?” Bisa jadi: “Sebutkan 3 ide solusi teknologi yang bisa membantu menurunkan polusi udara di kota besar, den... -> Baik,...",
-        "at": 1783164795519
+        "at": 1783267410290
       }
     ],
     "userProfiles": {
@@ -926,7 +926,7 @@
           "kasih kamu pertanyaan agar kamu lebih pintar dan interaktif. Apakah kamu mau?"
         ],
         "notes": [],
-        "lastSeenAt": 1783164795519
+        "lastSeenAt": 1783267410290
       },
       "6285742457043@s.whatsapp.net": {
         "preferredName": "",
@@ -999,7 +999,7 @@
         "lastAiSummary": "Baik, itu contoh yang sangat bagus untuk membuat pertanyaan lebih spesifik. Kamu sudah menunjukkan bagaimana dari pertanyaan umum menjadi lebih terarah, fokus pada teknologi, da...",
         "lastTrigger": "reply",
         "turnCount": 18,
-        "updatedAt": 1783164795519
+        "updatedAt": 1783267410290
       },
       "6285742457043@s.whatsapp.net": {
         "senderName": "Mr Onion",
@@ -1080,8 +1080,8 @@
         "sender": "6285649689059@s.whatsapp.net",
         "senderName": "NICKY",
         "learnedFrom": "user",
-        "firstSeenAt": 1783164795493,
-        "updatedAt": 1783164795493,
+        "firstSeenAt": 1783267410267,
+        "updatedAt": 1783267410267,
         "seenCount": 1,
         "questionCount": 0
       },
@@ -1091,8 +1091,8 @@
         "sender": "6285649689059@s.whatsapp.net",
         "senderName": "NICKY",
         "learnedFrom": "ai",
-        "firstSeenAt": 1783164795495,
-        "updatedAt": 1783164795496,
+        "firstSeenAt": 1783267410269,
+        "updatedAt": 1783267410270,
         "seenCount": 3,
         "questionCount": 1
       },
@@ -1102,8 +1102,8 @@
         "sender": "6285649689059@s.whatsapp.net",
         "senderName": "NICKY",
         "learnedFrom": "user",
-        "firstSeenAt": 1783164795499,
-        "updatedAt": 1783164795499,
+        "firstSeenAt": 1783267410273,
+        "updatedAt": 1783267410273,
         "seenCount": 1,
         "questionCount": 0
       }
@@ -1154,7 +1154,7 @@
         "confusionPoints": [],
         "styleHints": [],
         "lastTopic": "daripada strategi inovatif pemerintah menurunkan polusi",
-        "lastUpdatedAt": 1783164795520,
+        "lastUpdatedAt": 1783267410291,
         "lastText": "Daripada: “Apa 3 strategi inovatif pemerintah untuk menurunkan polusi?” Bisa jadi: “Sebutkan 3 ide solusi teknologi yang bisa membantu me..."
       },
       "users": {
@@ -1194,14 +1194,14 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "daripada strategi inovatif pemerintah menurunkan polusi",
-          "lastUpdatedAt": 1783164795520,
+          "lastUpdatedAt": 1783267410290,
           "lastText": "Daripada: “Apa 3 strategi inovatif pemerintah untuk menurunkan polusi?” Bisa jadi: “Sebutkan 3 ide solusi teknologi yang bisa membantu me..."
         }
       }
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795520,
+      "lastRunAt": 1783267410291,
       "lastRecordCount": 18,
       "sourceSummary": "local:18, online:0, unique:18",
       "mode": "warmup"
@@ -1394,145 +1394,145 @@
         "type": "mood",
         "sender": "62882022396969@s.whatsapp.net",
         "summary": "Nuansa percakapan ~G~: penasaran",
-        "at": 1783197346994
+        "at": 1783267410344
       },
       {
         "type": "resolution",
         "sender": "62882022396969@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk ~G~: Bisa, tapi tergantung editan seperti apa yang kamu maksud. Jelaskan lebih detail, ya.",
-        "at": 1783197346994
+        "at": 1783267410344
       },
       {
         "type": "turn",
         "sender": "62882022396969@s.whatsapp.net",
         "summary": "~G~: Bisa ngedit ngak? -> Bisa, tapi tergantung editan seperti apa yang kamu maksud. Jelaskan lebih detail, ya.",
-        "at": 1783197346994
+        "at": 1783267410344
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: elaina",
-        "at": 1783197346995
+        "at": 1783267410345
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Elaina Asisten -> elaina",
-        "at": 1783197346995
+        "at": 1783267410345
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Halo juga. Ada yang bisa kubantu?",
-        "at": 1783197346996
+        "at": 1783267410345
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Halo -> Halo juga. Ada yang bisa kubantu?",
-        "at": 1783197346996
+        "at": 1783267410345
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: panggil kamu",
-        "at": 1783197346997
+        "at": 1783267410346
       },
       {
         "type": "question",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Pertanyaan aktif dari NICKY: Aku bisa panggil kamu siapa",
-        "at": 1783197346997
+        "at": 1783267410346
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Tentu saja, kamu bisa panggil aku Elaina.",
-        "at": 1783197346997
+        "at": 1783267410346
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Aku bisa panggil kamu siapa -> Tentu saja, kamu bisa panggil aku Elaina.",
-        "at": 1783197346997
+        "at": 1783267410346
       },
       {
         "type": "mood",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Nuansa percakapan NICKY: lega",
-        "at": 1783197346998
+        "at": 1783267410346
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Baik, NICKY. Senang mendengarnya.",
-        "at": 1783197346998
+        "at": 1783267410346
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Oke elaina -> Baik, NICKY. Senang mendengarnya. Ada hal lain yang ingin kamu tanyakan atau butuh bantuanku?",
-        "at": 1783197346998
+        "at": 1783267410346
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: menu anime buka nya",
-        "at": 1783197346998
+        "at": 1783267410347
       },
       {
         "type": "question",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Pertanyaan aktif dari NICKY: Menu untuk anime gimana buka nya",
-        "at": 1783197346998
+        "at": 1783267410347
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Untuk melihat menu anime, kamu bisa ketik \"anime-list\". Nanti akan muncul daftar fitur terkait anime yang bisa kamu coba.",
-        "at": 1783197346998
+        "at": 1783267410347
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Menu untuk anime gimana buka nya -> Untuk melihat menu anime, kamu bisa ketik \"anime-list\". Nanti akan muncul daftar fitur terkait anime yang bisa kamu coba.",
-        "at": 1783197346998
+        "at": 1783267410347
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: anime-list",
-        "at": 1783197346999
+        "at": 1783267410347
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: anime-list",
-        "at": 1783197346999
+        "at": 1783267410347
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Anime-list -> anime-list",
-        "at": 1783197346999
+        "at": 1783267410347
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: coba buka menu anime",
-        "at": 1783197346999
+        "at": 1783267410348
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: menuanime",
-        "at": 1783197346999
+        "at": 1783267410348
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Coba buka menu anime -> menuanime",
-        "at": 1783197346999
+        "at": 1783267410348
       }
     ],
     "userProfiles": {
@@ -1542,7 +1542,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783197346980
+        "lastSeenAt": 1783267410335
       },
       "6283165109209@s.whatsapp.net": {
         "preferredName": "",
@@ -1550,7 +1550,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783197346946
+        "lastSeenAt": 1783267410301
       },
       "6285649689059@s.whatsapp.net": {
         "preferredName": "",
@@ -1558,7 +1558,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783197346999
+        "lastSeenAt": 1783267410348
       },
       "62882005504003@s.whatsapp.net": {
         "preferredName": "",
@@ -1566,7 +1566,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783197346953
+        "lastSeenAt": 1783267410310
       },
       "6288211836684@s.whatsapp.net": {
         "preferredName": "",
@@ -1574,7 +1574,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783197346960
+        "lastSeenAt": 1783267410319
       },
       "6283134164912@s.whatsapp.net": {
         "preferredName": "",
@@ -1582,7 +1582,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783197346971
+        "lastSeenAt": 1783267410329
       },
       "62882022396969@s.whatsapp.net": {
         "preferredName": "",
@@ -1590,7 +1590,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783197346994
+        "lastSeenAt": 1783267410344
       },
       "6281293911190@s.whatsapp.net": {
         "preferredName": "",
@@ -1736,7 +1736,7 @@
         "lastAiSummary": "Betul sekali. Kamu bisa panggil aku Elaina.",
         "lastTrigger": "followup",
         "turnCount": 14,
-        "updatedAt": 1783197346980
+        "updatedAt": 1783267410335
       },
       "6283165109209@s.whatsapp.net": {
         "senderName": "FiaMtp20",
@@ -1764,7 +1764,7 @@
         "lastAiSummary": "Kabar baik, tentu saja. Ada yang bisa kubantu?",
         "lastTrigger": "ambient",
         "turnCount": 3,
-        "updatedAt": 1783197346947
+        "updatedAt": 1783267410301
       },
       "6285649689059@s.whatsapp.net": {
         "senderName": "NICKY",
@@ -1811,7 +1811,7 @@
         "lastAiSummary": "menuanime",
         "lastTrigger": "auto-case",
         "turnCount": 46,
-        "updatedAt": 1783197346999
+        "updatedAt": 1783267410348
       },
       "62882005504003@s.whatsapp.net": {
         "senderName": "rifkynathanrifnat",
@@ -1851,7 +1851,7 @@
         "lastAiSummary": "✅ Berhasil membeli *Pancing Fiber* seharga *Rp250.000*. Sisa saldo: *Rp1.132.550* Gunakan *.set-pancing fiber* untuk memakainya.",
         "lastTrigger": "fishing-action",
         "turnCount": 10,
-        "updatedAt": 1783197346953
+        "updatedAt": 1783267410310
       },
       "6288211836684@s.whatsapp.net": {
         "senderName": "Ren 🪷",
@@ -1883,7 +1883,7 @@
         "lastAiSummary": "Hm, bukan sok introvert. Aku hanya tidak bisa membagikan detail internal tentang bagaimana aku bekerja.",
         "lastTrigger": "reply",
         "turnCount": 3,
-        "updatedAt": 1783197346960
+        "updatedAt": 1783267410319
       },
       "6283134164912@s.whatsapp.net": {
         "senderName": "1359.kl",
@@ -1913,7 +1913,7 @@
         "lastAiSummary": "afk-mancing",
         "lastTrigger": "auto-case",
         "turnCount": 2,
-        "updatedAt": 1783197346971
+        "updatedAt": 1783267410329
       },
       "62882022396969@s.whatsapp.net": {
         "senderName": "~G~",
@@ -1956,7 +1956,7 @@
         "lastAiSummary": "Bisa, tapi tergantung editan seperti apa yang kamu maksud. Jelaskan lebih detail, ya.",
         "lastTrigger": "followup",
         "turnCount": 7,
-        "updatedAt": 1783197346994
+        "updatedAt": 1783267410344
       },
       "6281293911190@s.whatsapp.net": {
         "senderName": "jb ranzz",
@@ -2336,8 +2336,8 @@
         "sender": "6285649689059@s.whatsapp.net",
         "senderName": "NICKY",
         "learnedFrom": "user",
-        "firstSeenAt": 1783197346967,
-        "updatedAt": 1783197346967,
+        "firstSeenAt": 1783267410326,
+        "updatedAt": 1783267410326,
         "seenCount": 1,
         "questionCount": 0
       }
@@ -2388,7 +2388,7 @@
         "confusionPoints": [],
         "styleHints": [],
         "lastTopic": "coba buka menu anime",
-        "lastUpdatedAt": 1783197346999,
+        "lastUpdatedAt": 1783267410348,
         "lastText": "Coba buka menu anime"
       },
       "users": {
@@ -2428,7 +2428,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "namanya",
-          "lastUpdatedAt": 1783197346980,
+          "lastUpdatedAt": 1783267410335,
           "lastText": "Namanya elaina bot ya"
         },
         "6283165109209@s.whatsapp.net": {
@@ -2457,7 +2457,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "kabar",
-          "lastUpdatedAt": 1783197346947,
+          "lastUpdatedAt": 1783267410301,
           "lastText": "Elaina apa kabar"
         },
         "6285649689059@s.whatsapp.net": {
@@ -2496,7 +2496,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "coba buka menu anime",
-          "lastUpdatedAt": 1783197346999,
+          "lastUpdatedAt": 1783267410348,
           "lastText": "Coba buka menu anime"
         },
         "62882005504003@s.whatsapp.net": {
@@ -2535,7 +2535,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "buy-pancing fiber",
-          "lastUpdatedAt": 1783197346953,
+          "lastUpdatedAt": 1783267410310,
           "lastText": "Buy-pancing Fiber"
         },
         "6288211836684@s.whatsapp.net": {
@@ -2570,7 +2570,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "sok introvert",
-          "lastUpdatedAt": 1783197346960,
+          "lastUpdatedAt": 1783267410319,
           "lastText": "sok introvert ni bot"
         },
         "6283134164912@s.whatsapp.net": {
@@ -2601,7 +2601,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "afk mancing menit",
-          "lastUpdatedAt": 1783197346971,
+          "lastUpdatedAt": 1783267410329,
           "lastText": "Afk mancing 60 menit"
         },
         "62882022396969@s.whatsapp.net": {
@@ -2640,17 +2640,17 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "ngedit ngak",
-          "lastUpdatedAt": 1783197346994,
+          "lastUpdatedAt": 1783267410344,
           "lastText": "Bisa ngedit ngak?"
         }
       }
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783197347001,
+      "lastRunAt": 1783267410348,
       "lastRecordCount": 85,
       "sourceSummary": "local:85, online:0, unique:85",
-      "mode": "message-log"
+      "mode": "warmup"
     },
     "params": {
       "warningFilter": true,
@@ -2756,7 +2756,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795598,
+      "lastRunAt": 1783267410352,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -2865,7 +2865,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795601,
+      "lastRunAt": 1783267410356,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -2974,7 +2974,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795604,
+      "lastRunAt": 1783267410359,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3083,7 +3083,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795607,
+      "lastRunAt": 1783267410363,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3192,7 +3192,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795610,
+      "lastRunAt": 1783267410367,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3301,7 +3301,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795613,
+      "lastRunAt": 1783267410370,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3410,7 +3410,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795617,
+      "lastRunAt": 1783267410373,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3519,7 +3519,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795620,
+      "lastRunAt": 1783267410376,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3628,7 +3628,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795623,
+      "lastRunAt": 1783267410379,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3737,7 +3737,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795626,
+      "lastRunAt": 1783267410382,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3846,7 +3846,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795629,
+      "lastRunAt": 1783267410385,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -3955,7 +3955,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795632,
+      "lastRunAt": 1783267410388,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -4605,7 +4605,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795636,
+      "lastRunAt": 1783267410392,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -4714,7 +4714,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795639,
+      "lastRunAt": 1783267410395,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -4823,7 +4823,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795642,
+      "lastRunAt": 1783267410398,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -4932,7 +4932,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795645,
+      "lastRunAt": 1783267410401,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5041,7 +5041,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795651,
+      "lastRunAt": 1783267410404,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5150,7 +5150,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795654,
+      "lastRunAt": 1783267410407,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5259,7 +5259,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795656,
+      "lastRunAt": 1783267410410,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5368,7 +5368,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795660,
+      "lastRunAt": 1783267410413,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5477,7 +5477,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795663,
+      "lastRunAt": 1783267410419,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5586,7 +5586,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795666,
+      "lastRunAt": 1783267410422,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5695,7 +5695,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795669,
+      "lastRunAt": 1783267410425,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5804,7 +5804,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795672,
+      "lastRunAt": 1783267410428,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -5913,7 +5913,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795674,
+      "lastRunAt": 1783267410432,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6022,7 +6022,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795677,
+      "lastRunAt": 1783267410435,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6131,7 +6131,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795680,
+      "lastRunAt": 1783267410438,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6240,7 +6240,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795683,
+      "lastRunAt": 1783267410441,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6349,7 +6349,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795686,
+      "lastRunAt": 1783267410444,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6458,7 +6458,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795689,
+      "lastRunAt": 1783267410447,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6567,7 +6567,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795693,
+      "lastRunAt": 1783267410450,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6676,7 +6676,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795695,
+      "lastRunAt": 1783267410454,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6785,7 +6785,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795698,
+      "lastRunAt": 1783267410457,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -6894,7 +6894,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795701,
+      "lastRunAt": 1783267410460,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -7003,7 +7003,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795704,
+      "lastRunAt": 1783267410464,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -7112,7 +7112,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795707,
+      "lastRunAt": 1783267410467,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -7221,7 +7221,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795710,
+      "lastRunAt": 1783267410471,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -7330,7 +7330,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795714,
+      "lastRunAt": 1783267410474,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -7439,7 +7439,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795717,
+      "lastRunAt": 1783267410477,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -7548,7 +7548,7 @@
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783164795719,
+      "lastRunAt": 1783267410480,
       "lastRecordCount": 0,
       "sourceSummary": "no-record",
       "mode": "warmup"
@@ -7656,11 +7656,11 @@
       "users": {}
     },
     "trainingMeta": {
-      "version": 0,
-      "lastRunAt": 0,
+      "version": 1,
+      "lastRunAt": 1783267410483,
       "lastRecordCount": 0,
-      "sourceSummary": "",
-      "mode": ""
+      "sourceSummary": "no-record",
+      "mode": "warmup"
     },
     "params": {
       "warningFilter": true,
@@ -7765,11 +7765,11 @@
       "users": {}
     },
     "trainingMeta": {
-      "version": 0,
-      "lastRunAt": 0,
+      "version": 1,
+      "lastRunAt": 1783267410487,
       "lastRecordCount": 0,
-      "sourceSummary": "",
-      "mode": ""
+      "sourceSummary": "no-record",
+      "mode": "warmup"
     },
     "params": {
       "warningFilter": true,
