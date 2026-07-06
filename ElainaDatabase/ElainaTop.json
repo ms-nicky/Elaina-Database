@@ -8,8 +8,8 @@
   "ping": 17,
   "update": 8,
   "menu-bank": 5,
-  "tt": 180,
-  "join": 165,
+  "tt": 181,
+  "join": 181,
   "menuall": 13,
   "menu-menambang": 2,
   "bot": 13,
@@ -22,7 +22,7 @@
   "wm": 5,
   "h": 122,
   "setgc": 15,
-  "smeme": 10,
+  "smeme": 12,
   "hd": 46,
   "s": 49,
   "afkmancing": 2,
@@ -146,5 +146,7 @@
   "menuai": 2,
   "claimevent": 2,
   "start": 1,
-  "done": 2
+  "done": 2,
+  "info": 1,
+  "cekidgc": 1
 }
