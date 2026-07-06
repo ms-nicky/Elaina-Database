@@ -1368,9 +1368,9 @@
   },
   "6282310296739@s.whatsapp.net": {
     "name": "₴​ꫀ𝘳ꪶꪖ​ꪀ-⛧⃝+𓄃",
-    "coin": 82500,
-    "exp": 98,
-    "level": 2,
+    "coin": 88000,
+    "exp": 13,
+    "level": 3,
     "inv": [
       "potion"
     ],
@@ -1452,9 +1452,9 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783207192524,
-    "interactionCount": 14,
-    "levelUpRewardTotal": 4000,
+    "lastInteractionGain": 1783342188327,
+    "interactionCount": 23,
+    "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
     "lastHeist": 0,
@@ -1571,7 +1571,7 @@
   "6285123231517@s.whatsapp.net": {
     "name": "PACAR HEESEUNG, SONGHYEON",
     "coin": 59500,
-    "exp": 10,
+    "exp": 36,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1652,8 +1652,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783334484397,
-    "interactionCount": 27,
+    "lastInteractionGain": 1783342236280,
+    "interactionCount": 29,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -10338,7 +10338,7 @@
   "6285691801458@s.whatsapp.net": {
     "name": "jam jam",
     "coin": 50000,
-    "exp": 0,
+    "exp": 8,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -10400,7 +10400,40 @@
       "reputationGain": 6,
       "completed": false,
       "claimedAt": 0
-    }
+    },
+    "fishing": {
+      "level": 1,
+      "exp": 0,
+      "bait": 0,
+      "rod": "bambu",
+      "rods": {
+        "bambu": true
+      },
+      "bag": {},
+      "lastClaim": 0,
+      "lastFishing": 0,
+      "totalCatch": 0,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
+    },
+    "lastInteractionGain": 1783341630153,
+    "interactionCount": 1,
+    "levelUpRewardTotal": 0,
+    "loan": 0,
+    "lastInterest": 0,
+    "lastHeist": 0,
+    "transferDay": 0,
+    "transferUsed": 0,
+    "insurance": false,
+    "bankLog": [],
+    "deposit": {
+      "amount": 0,
+      "until": 0
+    },
+    "escrow": null
   },
   "6282183253887@s.whatsapp.net": {
     "name": "{≦♤╠╣demon_of_death╠╣♤≧}",
@@ -10972,7 +11005,7 @@
   "6285771030421@s.whatsapp.net": {
     "name": "~",
     "coin": 50000,
-    "exp": 13,
+    "exp": 62,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -11053,8 +11086,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783340982396,
-    "interactionCount": 1,
+    "lastInteractionGain": 1783341847713,
+    "interactionCount": 5,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
