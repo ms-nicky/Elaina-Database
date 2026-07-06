@@ -11368,5 +11368,105 @@
       "completed": false,
       "claimedAt": 0
     }
+  },
+  "6288225976347@s.whatsapp.net": {
+    "name": "putra",
+    "coin": 50000,
+    "exp": 14,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    },
+    "roleKey": "player",
+    "roleName": "Player",
+    "roleIcon": "🎮",
+    "roleAssignedAt": 1783367017808,
+    "jobCooldown": 0,
+    "jobDoneTotal": 0,
+    "shopSpentTotal": 0,
+    "premiumSpentTotal": 0,
+    "adminFeePaidTotal": 0,
+    "missionClaimedTotal": 0,
+    "roleDutyDayKey": "",
+    "roleDutyTotal": 0,
+    "roleExp": 0,
+    "roleReputation": 0,
+    "contractDoneTotal": 0,
+    "dailyMission": {
+      "dayKey": 20260706,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
+      "progress": 0,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
+      "claimed": false
+    },
+    "accessMission": {
+      "dayKey": 20260706,
+      "key": "role_duty",
+      "title": "Uji Sistem Arena",
+      "description": "Bantu mengetes sirkulasi event dan jaga traffic bot tetap hidup.",
+      "target": 1,
+      "progress": 0,
+      "completed": false,
+      "completedAt": 0,
+      "roleKey": "player",
+      "roleName": "Player"
+    },
+    "marketContract": {
+      "dayKey": 20260706,
+      "key": "player_contract",
+      "title": "Event Showcase Arena",
+      "description": "Arena ramai dan butuh item pendukung untuk event.",
+      "stockKey": "gear",
+      "stockGain": 9,
+      "rewardCoin": 1180,
+      "rewardExp": 17,
+      "reputationGain": 6,
+      "completed": false,
+      "claimedAt": 0
+    },
+    "fishing": {
+      "level": 1,
+      "exp": 0,
+      "bait": 0,
+      "rod": "bambu",
+      "rods": {
+        "bambu": true
+      },
+      "bag": {},
+      "lastClaim": 0,
+      "lastFishing": 0,
+      "totalCatch": 0,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
+    },
+    "lastInteractionGain": 1783367017808,
+    "interactionCount": 1,
+    "levelUpRewardTotal": 0,
+    "loan": 0,
+    "lastInterest": 0,
+    "lastHeist": 0,
+    "transferDay": 0,
+    "transferUsed": 0,
+    "insurance": false,
+    "bankLog": [],
+    "deposit": {
+      "amount": 0,
+      "until": 0
+    },
+    "escrow": null
   }
 }
