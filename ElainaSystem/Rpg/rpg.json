@@ -3480,7 +3480,7 @@
   "6282213013641@s.whatsapp.net": {
     "name": "Yon.𖣂",
     "coin": 50000,
-    "exp": 76,
+    "exp": 89,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -3561,8 +3561,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783183871777,
-    "interactionCount": 7,
+    "lastInteractionGain": 1783304710024,
+    "interactionCount": 8,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
