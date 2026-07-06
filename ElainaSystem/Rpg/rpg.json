@@ -1165,7 +1165,7 @@
   "6285194779377@s.whatsapp.net": {
     "name": "𖣂Fanz𖣂",
     "coin": 59500,
-    "exp": 24,
+    "exp": 36,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1246,8 +1246,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782842114322,
-    "interactionCount": 26,
+    "lastInteractionGain": 1783334759081,
+    "interactionCount": 27,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -1571,7 +1571,7 @@
   "6285123231517@s.whatsapp.net": {
     "name": "PACAR HEESEUNG, SONGHYEON",
     "coin": 59500,
-    "exp": 2,
+    "exp": 10,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1652,8 +1652,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782631905745,
-    "interactionCount": 26,
+    "lastInteractionGain": 1783334484397,
+    "interactionCount": 27,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
