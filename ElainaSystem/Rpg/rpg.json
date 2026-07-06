@@ -5026,7 +5026,7 @@
   "6283875986042@s.whatsapp.net": {
     "name": "Rvaa",
     "coin": 50000,
-    "exp": 26,
+    "exp": 39,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -5107,8 +5107,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782947954257,
-    "interactionCount": 2,
+    "lastInteractionGain": 1783297320003,
+    "interactionCount": 3,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -8326,7 +8326,7 @@
   "6282231699375@s.whatsapp.net": {
     "name": "˶˃ᆺ˂˶",
     "coin": 1939289,
-    "exp": 359,
+    "exp": 373,
     "level": 8,
     "inv": [
       "potion"
@@ -8419,8 +8419,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783024372982,
-    "interactionCount": 140,
+    "lastInteractionGain": 1783297317329,
+    "interactionCount": 141,
     "levelUpRewardTotal": 27000,
     "loan": 0,
     "lastInterest": 20260627,
