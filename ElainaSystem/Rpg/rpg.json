@@ -1880,7 +1880,7 @@
   "6285725287897@s.whatsapp.net": {
     "name": "mornn",
     "coin": 59500,
-    "exp": 129,
+    "exp": 141,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1961,8 +1961,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783396483414,
-    "interactionCount": 35,
+    "lastInteractionGain": 1783422141117,
+    "interactionCount": 36,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -2980,7 +2980,7 @@
   "628211594701@s.whatsapp.net": {
     "name": "kyy",
     "coin": 75000,
-    "exp": 250,
+    "exp": 260,
     "level": 5,
     "inv": [
       {
@@ -3066,8 +3066,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783412989457,
-    "interactionCount": 58,
+    "lastInteractionGain": 1783420301520,
+    "interactionCount": 59,
     "levelUpRewardTotal": 25000,
     "loan": 0,
     "lastInterest": 0,
@@ -5031,7 +5031,7 @@
   "6283875986042@s.whatsapp.net": {
     "name": "Rvaa",
     "coin": 50000,
-    "exp": 51,
+    "exp": 60,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -5112,8 +5112,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783340820883,
-    "interactionCount": 4,
+    "lastInteractionGain": 1783420902601,
+    "interactionCount": 5,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -11210,7 +11210,7 @@
   "6285167382446@s.whatsapp.net": {
     "name": "Matthew",
     "coin": 50000,
-    "exp": 23,
+    "exp": 36,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -11291,8 +11291,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783413401157,
-    "interactionCount": 2,
+    "lastInteractionGain": 1783421584582,
+    "interactionCount": 3,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
