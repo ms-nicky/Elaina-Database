@@ -11210,7 +11210,7 @@
   "6285167382446@s.whatsapp.net": {
     "name": "Matthew",
     "coin": 50000,
-    "exp": 44,
+    "exp": 59,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -11291,8 +11291,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783433615330,
-    "interactionCount": 4,
+    "lastInteractionGain": 1783435181345,
+    "interactionCount": 5,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,

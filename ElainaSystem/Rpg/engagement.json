@@ -511,7 +511,7 @@
         "label": "Chat",
         "icon": "💬",
         "target": 20,
-        "progress": 3,
+        "progress": 4,
         "done": false
       }
     ],
@@ -522,7 +522,7 @@
       "mining": 0,
       "game": 0,
       "fishing": 0,
-      "chat": 27
+      "chat": 28
     }
   },
   "6285727583242@s.whatsapp.net": {
