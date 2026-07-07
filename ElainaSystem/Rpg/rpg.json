@@ -2980,7 +2980,7 @@
   "628211594701@s.whatsapp.net": {
     "name": "kyy",
     "coin": 66500,
-    "exp": 73,
+    "exp": 84,
     "level": 4,
     "inv": [],
     "weapon": "",
@@ -3061,8 +3061,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783380650038,
-    "interactionCount": 54,
+    "lastInteractionGain": 1783383766755,
+    "interactionCount": 55,
     "levelUpRewardTotal": 16500,
     "loan": 0,
     "lastInterest": 0,
