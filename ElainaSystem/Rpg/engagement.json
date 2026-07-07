@@ -833,7 +833,7 @@
         "label": "Chat",
         "icon": "💬",
         "target": 20,
-        "progress": 8,
+        "progress": 9,
         "done": false
       }
     ],
@@ -844,7 +844,61 @@
       "mining": 0,
       "work": 0,
       "fishing": 0,
-      "chat": 8
+      "chat": 9
+    }
+  },
+  "6281293911190@s.whatsapp.net": {
+    "questDay": "20260707",
+    "quests": [
+      {
+        "key": "game",
+        "label": "Menang Game",
+        "icon": "🎮",
+        "target": 3,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "chat",
+        "label": "Chat",
+        "icon": "💬",
+        "target": 5,
+        "progress": 5,
+        "done": true
+      },
+      {
+        "key": "work",
+        "label": "Bekerja",
+        "icon": "💼",
+        "target": 10,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "fishing",
+        "label": "Fishing",
+        "icon": "🎣",
+        "target": 20,
+        "progress": 20,
+        "done": true
+      }
+    ],
+    "questCompleted": false,
+    "questCompletedAt": 0,
+    "questRewardClaimed": false,
+    "questSnapshot": {
+      "game": 0,
+      "chat": 30,
+      "work": 0,
+      "fishing": 36
+    },
+    "achievements": {
+      "first_mine": {
+        "unlockedAt": 1783448480514
+      },
+      "fishing_beginner": {
+        "unlockedAt": 1783448480514
+      }
     }
   }
 }
