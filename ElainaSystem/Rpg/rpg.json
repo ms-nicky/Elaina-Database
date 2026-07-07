@@ -87,7 +87,7 @@
   "6285723408409@s.whatsapp.net": {
     "name": "damn𖣂",
     "coin": 50000,
-    "exp": 26,
+    "exp": 41,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -168,8 +168,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781193347478,
-    "interactionCount": 2,
+    "lastInteractionGain": 1783388864566,
+    "interactionCount": 3,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
