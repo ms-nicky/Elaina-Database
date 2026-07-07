@@ -1165,7 +1165,7 @@
   "6285194779377@s.whatsapp.net": {
     "name": "𖣂Fanz𖣂",
     "coin": 59500,
-    "exp": 61,
+    "exp": 74,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1246,8 +1246,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783373211865,
-    "interactionCount": 29,
+    "lastInteractionGain": 1783427442337,
+    "interactionCount": 30,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -2980,7 +2980,7 @@
   "628211594701@s.whatsapp.net": {
     "name": "kyy",
     "coin": 75000,
-    "exp": 260,
+    "exp": 271,
     "level": 5,
     "inv": [
       {
@@ -3066,8 +3066,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783420301520,
-    "interactionCount": 59,
+    "lastInteractionGain": 1783426611719,
+    "interactionCount": 60,
     "levelUpRewardTotal": 25000,
     "loan": 0,
     "lastInterest": 0,
