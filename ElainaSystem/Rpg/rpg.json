@@ -1369,7 +1369,7 @@
   "6282310296739@s.whatsapp.net": {
     "name": "₴​ꫀ𝘳ꪶꪖ​ꪀ-⛧⃝+𓄃",
     "coin": 88000,
-    "exp": 36,
+    "exp": 45,
     "level": 3,
     "inv": [
       "potion"
@@ -1452,8 +1452,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783398660805,
-    "interactionCount": 25,
+    "lastInteractionGain": 1783398757566,
+    "interactionCount": 26,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
