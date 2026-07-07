@@ -1369,7 +1369,7 @@
   "6282310296739@s.whatsapp.net": {
     "name": "₴​ꫀ𝘳ꪶꪖ​ꪀ-⛧⃝+𓄃",
     "coin": 88000,
-    "exp": 25,
+    "exp": 36,
     "level": 3,
     "inv": [
       "potion"
@@ -1452,8 +1452,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783386500284,
-    "interactionCount": 24,
+    "lastInteractionGain": 1783398660805,
+    "interactionCount": 25,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -1880,7 +1880,7 @@
   "6285725287897@s.whatsapp.net": {
     "name": "mornn",
     "coin": 59500,
-    "exp": 103,
+    "exp": 129,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1961,8 +1961,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781597018070,
-    "interactionCount": 33,
+    "lastInteractionGain": 1783396483414,
+    "interactionCount": 35,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
