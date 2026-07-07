@@ -574,8 +574,8 @@
       "coin": 50000,
       "joined": true,
       "joinedAt": 1780548540871,
-      "interactionCount": 18,
-      "lastInteractionGain": 1783254776466,
+      "interactionCount": 19,
+      "lastInteractionGain": 1783464981255,
       "levelUpRewardTotal": 0,
       "bank": 0,
       "roleKey": "koki_laut",
@@ -27881,13 +27881,13 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 157,
-        "120363187859302787@g.us": 3068,
+        "120363187859302787@g.us": 3074,
         "6281252888128@s.whatsapp.net": 74,
         "6285725287897@s.whatsapp.net": 147,
         "6289523718577@s.whatsapp.net": 137,
         "6285652122429@s.whatsapp.net": 7,
         "6285723408409@s.whatsapp.net": 10,
-        "6285119794504@s.whatsapp.net": 33,
+        "6285119794504@s.whatsapp.net": 35,
         "6282329716670@s.whatsapp.net": 2,
         "6285168745769@s.whatsapp.net": 2,
         "62895386497475@s.whatsapp.net": 1,
@@ -28303,7 +28303,7 @@
     },
     "120363424730928081@newsletter": {
       "totalChat": {
-        "120363424730928081@newsletter": 585
+        "120363424730928081@newsletter": 587
       },
       "antibot": false,
       "antiviewonce": false,
