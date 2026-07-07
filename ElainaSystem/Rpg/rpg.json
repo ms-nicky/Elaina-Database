@@ -709,7 +709,7 @@
   "6281330583619@s.whatsapp.net": {
     "name": "nafiss",
     "coin": 54000,
-    "exp": 56,
+    "exp": 65,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -790,8 +790,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783025646993,
-    "interactionCount": 14,
+    "lastInteractionGain": 1783430788090,
+    "interactionCount": 15,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -1165,7 +1165,7 @@
   "6285194779377@s.whatsapp.net": {
     "name": "𖣂Fanz𖣂",
     "coin": 59500,
-    "exp": 74,
+    "exp": 97,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1246,8 +1246,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783427442337,
-    "interactionCount": 30,
+    "lastInteractionGain": 1783428697087,
+    "interactionCount": 32,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -1369,7 +1369,7 @@
   "6282310296739@s.whatsapp.net": {
     "name": "₴​ꫀ𝘳ꪶꪖ​ꪀ-⛧⃝+𓄃",
     "coin": 88000,
-    "exp": 45,
+    "exp": 56,
     "level": 3,
     "inv": [
       "potion"
@@ -1452,8 +1452,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783398757566,
-    "interactionCount": 26,
+    "lastInteractionGain": 1783430442375,
+    "interactionCount": 27,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -3585,7 +3585,7 @@
   "6282286483446@s.whatsapp.net": {
     "name": "𝗔𝘆𝘂𝗻𝗻𝗮𝗮",
     "coin": 50000,
-    "exp": 78,
+    "exp": 89,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -3666,8 +3666,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781402313738,
-    "interactionCount": 7,
+    "lastInteractionGain": 1783427474040,
+    "interactionCount": 8,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -4331,7 +4331,7 @@
   "6287843581637@s.whatsapp.net": {
     "name": "ㅤ",
     "coin": 50000,
-    "exp": 64,
+    "exp": 76,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -4412,8 +4412,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781501005643,
-    "interactionCount": 6,
+    "lastInteractionGain": 1783428438246,
+    "interactionCount": 7,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
