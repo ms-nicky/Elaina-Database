@@ -848,7 +848,7 @@
     }
   },
   "6281293911190@s.whatsapp.net": {
-    "questDay": "20260707",
+    "questDay": "20260708",
     "quests": [
       {
         "key": "game",
@@ -863,14 +863,6 @@
         "label": "Chat",
         "icon": "💬",
         "target": 5,
-        "progress": 5,
-        "done": true
-      },
-      {
-        "key": "work",
-        "label": "Bekerja",
-        "icon": "💼",
-        "target": 10,
         "progress": 0,
         "done": false
       },
@@ -878,9 +870,17 @@
         "key": "fishing",
         "label": "Fishing",
         "icon": "🎣",
+        "target": 10,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "work",
+        "label": "Bekerja",
+        "icon": "💼",
         "target": 20,
-        "progress": 20,
-        "done": true
+        "progress": 0,
+        "done": false
       }
     ],
     "questCompleted": false,
@@ -889,8 +889,8 @@
     "questSnapshot": {
       "game": 0,
       "chat": 30,
-      "work": 0,
-      "fishing": 36
+      "fishing": 36,
+      "work": 0
     },
     "achievements": {
       "first_mine": {
