@@ -687,7 +687,7 @@
         "label": "Chat",
         "icon": "💬",
         "target": 10,
-        "progress": 6,
+        "progress": 7,
         "done": false
       },
       {
@@ -705,7 +705,7 @@
     "questSnapshot": {
       "game": 0,
       "mining": 0,
-      "chat": 6,
+      "chat": 7,
       "work": 0
     }
   },
