@@ -15825,12 +15825,12 @@
     "6282286483446@s.whatsapp.net": {
       "limit": 10,
       "exp": 0,
-      "coin": 50000,
+      "coin": 54000,
       "joined": true,
       "joinedAt": 1780988501478,
-      "interactionCount": 8,
-      "lastInteractionGain": 1783427474040,
-      "levelUpRewardTotal": 0,
+      "interactionCount": 9,
+      "lastInteractionGain": 1783470303929,
+      "levelUpRewardTotal": 4000,
       "bank": 0,
       "roleKey": "nelayan",
       "roleName": "Nelayan"
@@ -27881,7 +27881,7 @@
     "120363187859302787@g.us": {
       "totalChat": {
         "6285649689059@s.whatsapp.net": 157,
-        "120363187859302787@g.us": 3074,
+        "120363187859302787@g.us": 3082,
         "6281252888128@s.whatsapp.net": 74,
         "6285725287897@s.whatsapp.net": 147,
         "6289523718577@s.whatsapp.net": 137,
@@ -27928,7 +27928,7 @@
         "6285189735954@s.whatsapp.net": 8,
         "6287897643253@s.whatsapp.net": 1,
         "6281930740285@s.whatsapp.net": 1,
-        "6282286483446@s.whatsapp.net": 21,
+        "6282286483446@s.whatsapp.net": 23,
         "6281375320675@s.whatsapp.net": 5,
         "6285649329591@s.whatsapp.net": 1,
         "6283125244337@s.whatsapp.net": 1,
