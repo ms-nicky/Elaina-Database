@@ -480,21 +480,13 @@
     }
   },
   "6282310296739@s.whatsapp.net": {
-    "questDay": "20260707",
+    "questDay": "20260709",
     "quests": [
       {
-        "key": "mining",
-        "label": "Mining",
-        "icon": "⛏️",
+        "key": "chat",
+        "label": "Chat",
+        "icon": "💬",
         "target": 3,
-        "progress": 0,
-        "done": false
-      },
-      {
-        "key": "game",
-        "label": "Menang Game",
-        "icon": "🎮",
-        "target": 5,
         "progress": 0,
         "done": false
       },
@@ -502,16 +494,24 @@
         "key": "fishing",
         "label": "Fishing",
         "icon": "🎣",
+        "target": 5,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "mining",
+        "label": "Mining",
+        "icon": "⛏️",
         "target": 10,
         "progress": 0,
         "done": false
       },
       {
-        "key": "chat",
-        "label": "Chat",
-        "icon": "💬",
+        "key": "game",
+        "label": "Menang Game",
+        "icon": "🎮",
         "target": 20,
-        "progress": 4,
+        "progress": 0,
         "done": false
       }
     ],
@@ -519,10 +519,10 @@
     "questCompletedAt": 0,
     "questRewardClaimed": false,
     "questSnapshot": {
-      "mining": 0,
-      "game": 0,
+      "chat": 28,
       "fishing": 0,
-      "chat": 28
+      "mining": 0,
+      "game": 0
     }
   },
   "6285727583242@s.whatsapp.net": {
