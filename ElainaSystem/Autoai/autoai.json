@@ -1391,148 +1391,148 @@
     ],
     "memories": [
       {
+        "type": "mood",
+        "sender": "62882022396969@s.whatsapp.net",
+        "summary": "Nuansa percakapan ~G~: penasaran",
+        "at": 1783571010220
+      },
+      {
+        "type": "resolution",
+        "sender": "62882022396969@s.whatsapp.net",
+        "summary": "Ringkasan jawaban terakhir untuk ~G~: Bisa, tapi tergantung editan seperti apa yang kamu maksud. Jelaskan lebih detail, ya.",
+        "at": 1783571010220
+      },
+      {
+        "type": "turn",
+        "sender": "62882022396969@s.whatsapp.net",
+        "summary": "~G~: Bisa ngedit ngak? -> Bisa, tapi tergantung editan seperti apa yang kamu maksud. Jelaskan lebih detail, ya.",
+        "at": 1783571010221
+      },
+      {
+        "type": "resolution",
+        "sender": "6285649689059@s.whatsapp.net",
+        "summary": "Ringkasan jawaban terakhir untuk NICKY: elaina",
+        "at": 1783571010221
+      },
+      {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Elaina Asisten -> elaina",
-        "at": 1783550591862
+        "at": 1783571010221
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Halo juga. Ada yang bisa kubantu?",
-        "at": 1783550591863
+        "at": 1783571010222
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Halo -> Halo juga. Ada yang bisa kubantu?",
-        "at": 1783550591863
+        "at": 1783571010222
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: panggil kamu",
-        "at": 1783550591863
+        "at": 1783571010222
       },
       {
         "type": "question",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Pertanyaan aktif dari NICKY: Aku bisa panggil kamu siapa",
-        "at": 1783550591863
+        "at": 1783571010222
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Tentu saja, kamu bisa panggil aku Elaina.",
-        "at": 1783550591863
+        "at": 1783571010222
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Aku bisa panggil kamu siapa -> Tentu saja, kamu bisa panggil aku Elaina.",
-        "at": 1783550591863
+        "at": 1783571010222
       },
       {
         "type": "mood",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Nuansa percakapan NICKY: lega",
-        "at": 1783550591864
+        "at": 1783571010223
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Baik, NICKY. Senang mendengarnya.",
-        "at": 1783550591864
+        "at": 1783571010223
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Oke elaina -> Baik, NICKY. Senang mendengarnya. Ada hal lain yang ingin kamu tanyakan atau butuh bantuanku?",
-        "at": 1783550591864
+        "at": 1783571010223
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: menu anime buka nya",
-        "at": 1783550591865
+        "at": 1783571010223
       },
       {
         "type": "question",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Pertanyaan aktif dari NICKY: Menu untuk anime gimana buka nya",
-        "at": 1783550591865
+        "at": 1783571010223
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: Untuk melihat menu anime, kamu bisa ketik \"anime-list\". Nanti akan muncul daftar fitur terkait anime yang bisa kamu coba.",
-        "at": 1783550591865
+        "at": 1783571010223
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Menu untuk anime gimana buka nya -> Untuk melihat menu anime, kamu bisa ketik \"anime-list\". Nanti akan muncul daftar fitur terkait anime yang bisa kamu coba.",
-        "at": 1783550591865
+        "at": 1783571010223
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: anime-list",
-        "at": 1783550591865
+        "at": 1783571010224
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: anime-list",
-        "at": 1783550591865
+        "at": 1783571010224
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Anime-list -> anime-list",
-        "at": 1783550591865
+        "at": 1783571010224
       },
       {
         "type": "topic",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY sedang membahas topik: coba buka menu anime",
-        "at": 1783550591866
+        "at": 1783571010224
       },
       {
         "type": "resolution",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "Ringkasan jawaban terakhir untuk NICKY: menuanime",
-        "at": 1783550591866
+        "at": 1783571010224
       },
       {
         "type": "turn",
         "sender": "6285649689059@s.whatsapp.net",
         "summary": "NICKY: Coba buka menu anime -> menuanime",
-        "at": 1783550591866
-      },
-      {
-        "type": "topic",
-        "sender": "6285649689059@s.whatsapp.net",
-        "summary": "Topik percakapan NICKY: maaf sedang tidak tersedia saat coba",
-        "at": 1783550619322
-      },
-      {
-        "type": "message-log",
-        "sender": "6285649689059@s.whatsapp.net",
-        "summary": "NICKY: Baik",
-        "at": 1783550619322
-      },
-      {
-        "type": "resolution",
-        "sender": "6285649689059@s.whatsapp.net",
-        "summary": "Ringkasan jawaban terakhir untuk NICKY: Maaf, AI sedang tidak tersedia saat ini. Coba lagi nanti ya.",
-        "at": 1783550620223
-      },
-      {
-        "type": "turn",
-        "sender": "6285649689059@s.whatsapp.net",
-        "summary": "NICKY: Baik -> Maaf, AI sedang tidak tersedia saat ini. Coba lagi nanti ya.",
-        "at": 1783550620223
+        "at": 1783571010224
       }
     ],
     "userProfiles": {
@@ -1542,7 +1542,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783550591851
+        "lastSeenAt": 1783571010205
       },
       "6283165109209@s.whatsapp.net": {
         "preferredName": "",
@@ -1550,7 +1550,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783550591804
+        "lastSeenAt": 1783571010166
       },
       "6285649689059@s.whatsapp.net": {
         "preferredName": "",
@@ -1558,7 +1558,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783550620223
+        "lastSeenAt": 1783571010224
       },
       "62882005504003@s.whatsapp.net": {
         "preferredName": "",
@@ -1566,7 +1566,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783550591819
+        "lastSeenAt": 1783571010178
       },
       "6288211836684@s.whatsapp.net": {
         "preferredName": "",
@@ -1574,7 +1574,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783550591829
+        "lastSeenAt": 1783571010187
       },
       "6283134164912@s.whatsapp.net": {
         "preferredName": "",
@@ -1582,7 +1582,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783550591843
+        "lastSeenAt": 1783571010198
       },
       "62882022396969@s.whatsapp.net": {
         "preferredName": "",
@@ -1590,7 +1590,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783550591861
+        "lastSeenAt": 1783571010220
       },
       "6281293911190@s.whatsapp.net": {
         "preferredName": "",
@@ -1614,7 +1614,7 @@
         "difficulties": [],
         "goals": [],
         "notes": [],
-        "lastSeenAt": 1783304845047
+        "lastSeenAt": 1783571009340
       },
       "6287781397452@s.whatsapp.net": {
         "preferredName": "",
@@ -1736,7 +1736,7 @@
         "lastAiSummary": "Betul sekali. Kamu bisa panggil aku Elaina.",
         "lastTrigger": "followup",
         "turnCount": 14,
-        "updatedAt": 1783550591852
+        "updatedAt": 1783571010205
       },
       "6283165109209@s.whatsapp.net": {
         "senderName": "FiaMtp20",
@@ -1764,7 +1764,7 @@
         "lastAiSummary": "Kabar baik, tentu saja. Ada yang bisa kubantu?",
         "lastTrigger": "ambient",
         "turnCount": 3,
-        "updatedAt": 1783550591804
+        "updatedAt": 1783571010166
       },
       "6285649689059@s.whatsapp.net": {
         "senderName": "NICKY",
@@ -1778,12 +1778,12 @@
           "coba buka menu anime"
         ],
         "keyTerms": [
-          "maaf",
-          "sedang",
-          "tidak",
-          "tersedia",
-          "saat",
-          "coba"
+          "anime-list",
+          "melihat",
+          "anime",
+          "kamu",
+          "ketik",
+          "nanti"
         ],
         "openQuestions": [
           "3000 - 2999 + 1 = ?",
@@ -1794,24 +1794,24 @@
           "Menu untuk anime gimana buka nya"
         ],
         "resolvedNotes": [
+          "Oh, tidak ada THR rupanya.",
           "elaina",
           "Halo juga. Ada yang bisa kubantu?",
           "Tentu saja, kamu bisa panggil aku Elaina.",
           "Baik, NICKY. Senang mendengarnya.",
           "Untuk melihat menu anime, kamu bisa ketik \"anime-list\". Nanti akan muncul daf...",
           "anime-list",
-          "menuanime",
-          "Maaf, AI sedang tidak tersedia saat ini. Coba lagi nanti ya."
+          "menuanime"
         ],
         "lastIntent": "minta panduan fitur bot",
         "lastMood": "lega",
         "lastNeed": "",
         "lastQuestion": "Menu untuk anime gimana buka nya",
-        "lastUserSummary": "Baik",
-        "lastAiSummary": "Maaf, AI sedang tidak tersedia saat ini. Coba lagi nanti ya.",
-        "lastTrigger": "reply",
-        "turnCount": 48,
-        "updatedAt": 1783550620223
+        "lastUserSummary": "Coba buka menu anime",
+        "lastAiSummary": "menuanime",
+        "lastTrigger": "auto-case",
+        "turnCount": 46,
+        "updatedAt": 1783571010224
       },
       "62882005504003@s.whatsapp.net": {
         "senderName": "rifkynathanrifnat",
@@ -1851,7 +1851,7 @@
         "lastAiSummary": "✅ Berhasil membeli *Pancing Fiber* seharga *Rp250.000*. Sisa saldo: *Rp1.132.550* Gunakan *.set-pancing fiber* untuk memakainya.",
         "lastTrigger": "fishing-action",
         "turnCount": 10,
-        "updatedAt": 1783550591819
+        "updatedAt": 1783571010179
       },
       "6288211836684@s.whatsapp.net": {
         "senderName": "Ren 🪷",
@@ -1883,7 +1883,7 @@
         "lastAiSummary": "Hm, bukan sok introvert. Aku hanya tidak bisa membagikan detail internal tentang bagaimana aku bekerja.",
         "lastTrigger": "reply",
         "turnCount": 3,
-        "updatedAt": 1783550591829
+        "updatedAt": 1783571010187
       },
       "6283134164912@s.whatsapp.net": {
         "senderName": "1359.kl",
@@ -1913,7 +1913,7 @@
         "lastAiSummary": "afk-mancing",
         "lastTrigger": "auto-case",
         "turnCount": 2,
-        "updatedAt": 1783550591843
+        "updatedAt": 1783571010198
       },
       "62882022396969@s.whatsapp.net": {
         "senderName": "~G~",
@@ -1956,7 +1956,7 @@
         "lastAiSummary": "Bisa, tapi tergantung editan seperti apa yang kamu maksud. Jelaskan lebih detail, ya.",
         "lastTrigger": "followup",
         "turnCount": 7,
-        "updatedAt": 1783550591861
+        "updatedAt": 1783571010220
       },
       "6281293911190@s.whatsapp.net": {
         "senderName": "jb ranzz",
@@ -2015,18 +2015,19 @@
       },
       "6285194779377@s.whatsapp.net": {
         "senderName": "Fanz𖣂",
-        "currentTopic": "tergantung kondisi kalo gua prefer yss",
+        "currentTopic": "tapi berdarah",
         "recentTopics": [
           "ape lek",
-          "tergantung kondisi kalo gua prefer yss"
+          "tergantung kondisi kalo gua prefer yss",
+          "tapi berdarah"
         ],
         "keyTerms": [
-          "mending",
-          "yss",
-          "war",
-          "axe",
-          "berseker",
-          "sky"
+          "sky",
+          "omak",
+          "dah",
+          "glory",
+          "tapi",
+          "berdarah"
         ],
         "openQuestions": [],
         "resolvedNotes": [],
@@ -2034,11 +2035,11 @@
         "lastMood": "",
         "lastNeed": "",
         "lastQuestion": "",
-        "lastUserSummary": "tergantung kondisi, kalo gua prefer yss sky, kalo tim banyak yg buat sky mending ngalah aja buat berseker karna sakit jg",
+        "lastUserSummary": "tapi wr berdarah 64%😹",
         "lastAiSummary": "",
         "lastTrigger": "message-log",
-        "turnCount": 2,
-        "updatedAt": 1783304845048
+        "turnCount": 3,
+        "updatedAt": 1783571009341
       },
       "6287781397452@s.whatsapp.net": {
         "senderName": "unknown!",
@@ -2345,19 +2346,13 @@
         "sender": "6285649689059@s.whatsapp.net",
         "senderName": "NICKY",
         "learnedFrom": "user",
-        "firstSeenAt": 1783550591837,
-        "updatedAt": 1783550591837,
+        "firstSeenAt": 1783571010194,
+        "updatedAt": 1783571010194,
         "seenCount": 1,
         "questionCount": 0
       }
     },
-    "activeSessions": {
-      "6285649689059@s.whatsapp.net": {
-        "lastAiAt": 1783550620224,
-        "lastTrigger": "reply",
-        "lastUserText": "Baik"
-      }
-    },
+    "activeSessions": {},
     "backendSessions": {
       "6285727583242@s.whatsapp.net": {
         "slot": 2,
@@ -2409,7 +2404,7 @@
         "confusionPoints": [],
         "styleHints": [],
         "lastTopic": "coba buka menu anime",
-        "lastUpdatedAt": 1783550591867,
+        "lastUpdatedAt": 1783571010225,
         "lastText": "Coba buka menu anime"
       },
       "users": {
@@ -2449,7 +2444,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "namanya",
-          "lastUpdatedAt": 1783550591852,
+          "lastUpdatedAt": 1783571010205,
           "lastText": "Namanya elaina bot ya"
         },
         "6283165109209@s.whatsapp.net": {
@@ -2478,7 +2473,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "kabar",
-          "lastUpdatedAt": 1783550591804,
+          "lastUpdatedAt": 1783571010166,
           "lastText": "Elaina apa kabar"
         },
         "6285649689059@s.whatsapp.net": {
@@ -2517,7 +2512,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "coba buka menu anime",
-          "lastUpdatedAt": 1783550591866,
+          "lastUpdatedAt": 1783571010225,
           "lastText": "Coba buka menu anime"
         },
         "62882005504003@s.whatsapp.net": {
@@ -2556,7 +2551,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "buy-pancing fiber",
-          "lastUpdatedAt": 1783550591819,
+          "lastUpdatedAt": 1783571010179,
           "lastText": "Buy-pancing Fiber"
         },
         "6288211836684@s.whatsapp.net": {
@@ -2591,7 +2586,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "sok introvert",
-          "lastUpdatedAt": 1783550591829,
+          "lastUpdatedAt": 1783571010188,
           "lastText": "sok introvert ni bot"
         },
         "6283134164912@s.whatsapp.net": {
@@ -2622,7 +2617,7 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "afk mancing menit",
-          "lastUpdatedAt": 1783550591843,
+          "lastUpdatedAt": 1783571010198,
           "lastText": "Afk mancing 60 menit"
         },
         "62882022396969@s.whatsapp.net": {
@@ -2661,14 +2656,14 @@
           "confusionPoints": [],
           "styleHints": [],
           "lastTopic": "ngedit ngak",
-          "lastUpdatedAt": 1783550591862,
+          "lastUpdatedAt": 1783571010221,
           "lastText": "Bisa ngedit ngak?"
         }
       }
     },
     "trainingMeta": {
       "version": 1,
-      "lastRunAt": 1783550591867,
+      "lastRunAt": 1783571010225,
       "lastRecordCount": 85,
       "sourceSummary": "local:85, online:0, unique:85",
       "mode": "message-log"
