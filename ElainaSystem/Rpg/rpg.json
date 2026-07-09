@@ -11673,5 +11673,105 @@
       "until": 0
     },
     "escrow": null
+  },
+  "6289667758729@s.whatsapp.net": {
+    "name": "goyyy",
+    "coin": 50000,
+    "exp": 0,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    },
+    "roleKey": "miner",
+    "roleName": "Miner",
+    "roleIcon": "⛏️",
+    "roleAssignedAt": 1783607159916,
+    "jobCooldown": 0,
+    "jobDoneTotal": 0,
+    "shopSpentTotal": 0,
+    "premiumSpentTotal": 0,
+    "adminFeePaidTotal": 0,
+    "missionClaimedTotal": 0,
+    "roleDutyDayKey": "",
+    "roleDutyTotal": 0,
+    "roleExp": 0,
+    "roleReputation": 0,
+    "contractDoneTotal": 0,
+    "dailyMission": {
+      "dayKey": 20260709,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
+      "progress": 0,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
+      "claimed": false
+    },
+    "accessMission": {
+      "dayKey": 20260709,
+      "key": "role_duty",
+      "title": "Setor Bijih Tambang",
+      "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
+      "target": 1,
+      "progress": 0,
+      "completed": false,
+      "completedAt": 0,
+      "roleKey": "miner",
+      "roleName": "Miner"
+    },
+    "marketContract": {
+      "dayKey": 20260709,
+      "key": "miner_contract",
+      "title": "Suplai Ore Darurat",
+      "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
+      "stockKey": "ore",
+      "stockGain": 26,
+      "rewardCoin": 1350,
+      "rewardExp": 20,
+      "reputationGain": 8,
+      "completed": false,
+      "claimedAt": 0
+    },
+    "fishing": {
+      "level": 1,
+      "exp": 0,
+      "bait": 0,
+      "rod": "bambu",
+      "rods": {
+        "bambu": true
+      },
+      "bag": {},
+      "lastClaim": 0,
+      "lastFishing": 0,
+      "totalCatch": 0,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
+    },
+    "lastInteractionGain": 0,
+    "interactionCount": 0,
+    "levelUpRewardTotal": 0,
+    "loan": 0,
+    "lastInterest": 0,
+    "lastHeist": 0,
+    "transferDay": 0,
+    "transferUsed": 0,
+    "insurance": false,
+    "bankLog": [],
+    "deposit": {
+      "amount": 0,
+      "until": 0
+    },
+    "escrow": null
   }
 }
