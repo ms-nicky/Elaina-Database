@@ -3585,7 +3585,7 @@
   "6282286483446@s.whatsapp.net": {
     "name": "𝗔𝘆𝘂𝗻𝗻𝗮𝗮",
     "coin": 54000,
-    "exp": 77,
+    "exp": 90,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -3666,8 +3666,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783647785586,
-    "interactionCount": 16,
+    "lastInteractionGain": 1783705677038,
+    "interactionCount": 17,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
