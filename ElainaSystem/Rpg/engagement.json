@@ -69,7 +69,7 @@
         "label": "Chat",
         "icon": "💬",
         "target": 10,
-        "progress": 0,
+        "progress": 3,
         "done": false
       },
       {
@@ -87,7 +87,7 @@
     "questSnapshot": {
       "work": 0,
       "game": 0,
-      "chat": 62,
+      "chat": 65,
       "fishing": 0
     }
   },
@@ -511,7 +511,7 @@
         "label": "Chat",
         "icon": "💬",
         "target": 20,
-        "progress": 2,
+        "progress": 3,
         "done": false
       }
     ],
@@ -522,7 +522,7 @@
       "fishing": 0,
       "game": 0,
       "mining": 0,
-      "chat": 33
+      "chat": 34
     }
   },
   "6285727583242@s.whatsapp.net": {
