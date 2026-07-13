@@ -3685,7 +3685,7 @@
   "6285739228579@s.whatsapp.net": {
     "name": "dwii",
     "coin": 50000,
-    "exp": 39,
+    "exp": 54,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -3766,8 +3766,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781420064409,
-    "interactionCount": 3,
+    "lastInteractionGain": 1783910622712,
+    "interactionCount": 4,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
