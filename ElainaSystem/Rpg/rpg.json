@@ -1265,7 +1265,7 @@
   "6288211836684@s.whatsapp.net": {
     "name": "RANDI 🪷",
     "coin": 57600,
-    "exp": 2,
+    "exp": 17,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -1350,8 +1350,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783876013787,
-    "interactionCount": 9,
+    "lastInteractionGain": 1783914599180,
+    "interactionCount": 10,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
