@@ -198,7 +198,7 @@
     "questRewardClaimed": false,
     "questSnapshot": {
       "fishing": 0,
-      "chat": 46,
+      "chat": 50,
       "game": 0,
       "mining": 0
     }
@@ -1037,6 +1037,98 @@
       "game": 0,
       "chat": 6,
       "fishing": 0
+    }
+  },
+  "6283869532476@s.whatsapp.net": {
+    "questDay": "20260713",
+    "quests": [
+      {
+        "key": "game",
+        "label": "Menang Game",
+        "icon": "🎮",
+        "target": 3,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "work",
+        "label": "Bekerja",
+        "icon": "💼",
+        "target": 5,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "fishing",
+        "label": "Fishing",
+        "icon": "🎣",
+        "target": 10,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "mining",
+        "label": "Mining",
+        "icon": "⛏️",
+        "target": 20,
+        "progress": 0,
+        "done": false
+      }
+    ],
+    "questCompleted": false,
+    "questCompletedAt": 0,
+    "questRewardClaimed": false,
+    "questSnapshot": {
+      "game": 0,
+      "work": 0,
+      "fishing": 0,
+      "mining": 0
+    }
+  },
+  "6283130665213@s.whatsapp.net": {
+    "questDay": "20260713",
+    "quests": [
+      {
+        "key": "mining",
+        "label": "Mining",
+        "icon": "⛏️",
+        "target": 3,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "work",
+        "label": "Bekerja",
+        "icon": "💼",
+        "target": 5,
+        "progress": 0,
+        "done": false
+      },
+      {
+        "key": "chat",
+        "label": "Chat",
+        "icon": "💬",
+        "target": 10,
+        "progress": 1,
+        "done": false
+      },
+      {
+        "key": "game",
+        "label": "Menang Game",
+        "icon": "🎮",
+        "target": 20,
+        "progress": 0,
+        "done": false
+      }
+    ],
+    "questCompleted": false,
+    "questCompletedAt": 0,
+    "questRewardClaimed": false,
+    "questSnapshot": {
+      "mining": 0,
+      "work": 0,
+      "chat": 1,
+      "game": 0
     }
   }
 }
