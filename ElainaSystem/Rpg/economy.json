@@ -1,5 +1,5 @@
 {
-  "bankCentral": 10988712,
+  "bankCentral": 10981712,
   "bankSeeded": true,
   "sewaRevenueTotal": 0,
   "feeRevenueTotal": 528305,
@@ -7,7 +7,7 @@
   "premiumRevenueTotal": 0,
   "rewardMultiplier": 1,
   "passiveIncomeMultiplier": 0.9,
-  "lastRecalcAt": 1783914599122,
+  "lastRecalcAt": 1783955554270,
   "market": {
     "items": {
       "bait": {

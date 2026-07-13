@@ -11,5 +11,13 @@
   "120363187859302787@g.us": {
     "welcome_enabled": true,
     "left_enabled": true
+  },
+  "120363428816266475@g.us": {
+    "welcome_enabled": false,
+    "thumb": {
+      "add": "/home/container/ElainaDatabase/welcomeMedia.mp4",
+      "addType": "video"
+    },
+    "welcome": "off"
   }
 }
