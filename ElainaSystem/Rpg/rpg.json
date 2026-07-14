@@ -12007,5 +12007,72 @@
       "completed": false,
       "claimedAt": 0
     }
+  },
+  "6282143965467@s.whatsapp.net": {
+    "name": "Elaina Asisten",
+    "coin": 50000,
+    "exp": 0,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    },
+    "roleKey": "apoteker",
+    "roleName": "Apoteker",
+    "roleIcon": "💊",
+    "roleAssignedAt": 1784012632329,
+    "jobCooldown": 0,
+    "jobDoneTotal": 0,
+    "shopSpentTotal": 0,
+    "premiumSpentTotal": 0,
+    "adminFeePaidTotal": 0,
+    "missionClaimedTotal": 0,
+    "roleDutyDayKey": "",
+    "roleDutyTotal": 0,
+    "roleExp": 0,
+    "roleReputation": 0,
+    "contractDoneTotal": 0,
+    "dailyMission": {
+      "dayKey": 20260714,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
+      "progress": 0,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
+      "claimed": false
+    },
+    "accessMission": {
+      "dayKey": 20260714,
+      "key": "role_duty",
+      "title": "Distribusi Obat & Ramuan",
+      "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
+      "target": 1,
+      "progress": 0,
+      "completed": false,
+      "completedAt": 0,
+      "roleKey": "apoteker",
+      "roleName": "Apoteker"
+    },
+    "marketContract": {
+      "dayKey": 20260714,
+      "key": "apoteker_contract",
+      "title": "Distribusi Obat Kota",
+      "description": "Obat dan ramuan perlu segera diantar ke etalase.",
+      "stockKey": "potion",
+      "stockGain": 19,
+      "rewardCoin": 1330,
+      "rewardExp": 20,
+      "reputationGain": 8,
+      "completed": false,
+      "claimedAt": 0
+    }
   }
 }
