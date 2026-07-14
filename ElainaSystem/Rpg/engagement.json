@@ -848,7 +848,7 @@
     }
   },
   "6281293911190@s.whatsapp.net": {
-    "questDay": "20260708",
+    "questDay": "20260714",
     "quests": [
       {
         "key": "game",
@@ -859,12 +859,12 @@
         "done": false
       },
       {
-        "key": "chat",
-        "label": "Chat",
-        "icon": "💬",
+        "key": "mining",
+        "label": "Mining",
+        "icon": "⛏️",
         "target": 5,
-        "progress": 0,
-        "done": false
+        "progress": 5,
+        "done": true
       },
       {
         "key": "fishing",
@@ -888,7 +888,7 @@
     "questRewardClaimed": false,
     "questSnapshot": {
       "game": 0,
-      "chat": 30,
+      "mining": 52,
       "fishing": 36,
       "work": 0
     },
