@@ -8231,7 +8231,7 @@
   "6289528313997@s.whatsapp.net": {
     "name": ".",
     "coin": 50000,
-    "exp": 45,
+    "exp": 55,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -8312,8 +8312,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783993722262,
-    "interactionCount": 5,
+    "lastInteractionGain": 1783999251072,
+    "interactionCount": 6,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
