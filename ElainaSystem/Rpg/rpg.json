@@ -10510,7 +10510,7 @@
   "6282279041092@s.whatsapp.net": {
     "name": "Adzraa.",
     "coin": 50000,
-    "exp": 24,
+    "exp": 33,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -10591,8 +10591,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783649205473,
-    "interactionCount": 2,
+    "lastInteractionGain": 1784101916672,
+    "interactionCount": 3,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
