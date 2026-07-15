@@ -30,18 +30,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Hasil Peternakan",
       "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
@@ -53,7 +53,7 @@
       "roleName": "Peternak"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peternak_contract",
       "title": "Pasokan Kandang",
       "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
@@ -115,18 +115,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -138,7 +138,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -215,7 +215,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "daily_claim",
       "title": "Disiplin Klaim",
       "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
@@ -226,7 +226,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Bahan Organik",
       "description": "Panen bahan organik untuk umpan, pakan, dan suplai pasar harian.",
@@ -238,7 +238,7 @@
       "roleName": "Petani"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "petani_contract",
       "title": "Pasokan Bahan Organik",
       "description": "Pasar butuh bahan segar untuk umpan dan ramuan.",
@@ -315,18 +315,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -338,7 +338,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -415,18 +415,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -438,7 +438,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -517,18 +517,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -540,7 +540,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -637,7 +637,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "fishing",
       "title": "Mancing Santai",
       "description": "Lakukan *.fishing* sebanyak 4 kali.",
@@ -648,7 +648,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -660,7 +660,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -737,18 +737,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -760,7 +760,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -837,18 +837,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -860,7 +860,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -937,7 +937,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "job_task",
       "title": "Shift Profesi",
       "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
@@ -948,7 +948,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -960,7 +960,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -1093,18 +1093,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -1116,7 +1116,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -1193,18 +1193,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Stabilisasi Harga Pasar",
       "description": "Atur suplai dan rotasi barang agar harga toko Elaina tidak liar.",
@@ -1216,7 +1216,7 @@
       "roleName": "Pedagang"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pedagang_contract",
       "title": "Rotasi Logistik Pasar",
       "description": "Semua etalase perlu distabilkan sebelum jam ramai.",
@@ -1293,18 +1293,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Servis Alat Produksi",
       "description": "Pastikan pickaxe, rod, dan workshop tetap siap dipakai semua profesi lapangan.",
@@ -1316,7 +1316,7 @@
       "roleName": "Teknisi"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "teknisi_contract",
       "title": "Servis Workshop Massal",
       "description": "Workshop perlu teknisi untuk menstabilkan produksi gear.",
@@ -1399,18 +1399,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -1422,7 +1422,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -1499,18 +1499,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -1522,7 +1522,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -1599,18 +1599,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -1622,7 +1622,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -1701,18 +1701,18 @@
     "roleReputation": 4,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -1724,7 +1724,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -1808,18 +1808,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -1831,7 +1831,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -1908,18 +1908,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -1931,7 +1931,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -2008,18 +2008,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Servis Alat Produksi",
       "description": "Pastikan pickaxe, rod, dan workshop tetap siap dipakai semua profesi lapangan.",
@@ -2031,7 +2031,7 @@
       "roleName": "Teknisi"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "teknisi_contract",
       "title": "Servis Workshop Massal",
       "description": "Workshop perlu teknisi untuk menstabilkan produksi gear.",
@@ -2108,18 +2108,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Stabilisasi Harga Pasar",
       "description": "Atur suplai dan rotasi barang agar harga toko Elaina tidak liar.",
@@ -2131,7 +2131,7 @@
       "roleName": "Pedagang"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pedagang_contract",
       "title": "Rotasi Logistik Pasar",
       "description": "Semua etalase perlu distabilkan sebelum jam ramai.",
@@ -2208,18 +2208,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -2231,7 +2231,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -2308,18 +2308,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -2331,7 +2331,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -2408,18 +2408,18 @@
     "roleReputation": 4,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -2431,7 +2431,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -2508,18 +2508,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Hasil Peternakan",
       "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
@@ -2531,7 +2531,7 @@
       "roleName": "Peternak"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peternak_contract",
       "title": "Pasokan Kandang",
       "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
@@ -2608,18 +2608,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -2631,7 +2631,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -2708,18 +2708,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -2731,7 +2731,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -2808,18 +2808,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -2831,7 +2831,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -2908,7 +2908,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "job_task",
       "title": "Shift Profesi",
       "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
@@ -2919,7 +2919,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -2931,7 +2931,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -3013,18 +3013,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -3036,7 +3036,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -3113,18 +3113,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -3136,7 +3136,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -3213,18 +3213,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -3236,7 +3236,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -3313,18 +3313,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Servis Alat Produksi",
       "description": "Pastikan pickaxe, rod, dan workshop tetap siap dipakai semua profesi lapangan.",
@@ -3336,7 +3336,7 @@
       "roleName": "Teknisi"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "teknisi_contract",
       "title": "Servis Workshop Massal",
       "description": "Workshop perlu teknisi untuk menstabilkan produksi gear.",
@@ -3413,18 +3413,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -3436,7 +3436,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -3513,18 +3513,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -3536,7 +3536,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -3613,18 +3613,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -3636,7 +3636,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -3713,18 +3713,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Bahan Organik",
       "description": "Panen bahan organik untuk umpan, pakan, dan suplai pasar harian.",
@@ -3736,7 +3736,7 @@
       "roleName": "Petani"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "petani_contract",
       "title": "Pasokan Bahan Organik",
       "description": "Pasar butuh bahan segar untuk umpan dan ramuan.",
@@ -3813,18 +3813,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -3836,7 +3836,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -3913,18 +3913,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Uji Sistem Arena",
       "description": "Bantu mengetes sirkulasi event dan jaga traffic bot tetap hidup.",
@@ -3936,7 +3936,7 @@
       "roleName": "Player"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "player_contract",
       "title": "Event Showcase Arena",
       "description": "Arena ramai dan butuh item pendukung untuk event.",
@@ -4013,18 +4013,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Rakit Umpan Produksi",
       "description": "Olah bahan organik, sisa laut, dan stok pasar jadi umpan siap pakai untuk nelayan.",
@@ -4036,7 +4036,7 @@
       "roleName": "Peracik Umpan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peracik_umpan_contract",
       "title": "Batch Umpan Besar",
       "description": "Nelayan minta stok umpan cadangan untuk trip panjang.",
@@ -4113,18 +4113,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -4136,7 +4136,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -4259,18 +4259,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Servis Alat Produksi",
       "description": "Pastikan pickaxe, rod, dan workshop tetap siap dipakai semua profesi lapangan.",
@@ -4282,7 +4282,7 @@
       "roleName": "Teknisi"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "teknisi_contract",
       "title": "Servis Workshop Massal",
       "description": "Workshop perlu teknisi untuk menstabilkan produksi gear.",
@@ -4359,18 +4359,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Uji Sistem Arena",
       "description": "Bantu mengetes sirkulasi event dan jaga traffic bot tetap hidup.",
@@ -4382,7 +4382,7 @@
       "roleName": "Player"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "player_contract",
       "title": "Event Showcase Arena",
       "description": "Arena ramai dan butuh item pendukung untuk event.",
@@ -4459,18 +4459,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -4482,7 +4482,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -4559,18 +4559,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Hasil Peternakan",
       "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
@@ -4582,7 +4582,7 @@
       "roleName": "Peternak"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peternak_contract",
       "title": "Pasokan Kandang",
       "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
@@ -4659,18 +4659,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -4682,7 +4682,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -4759,18 +4759,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Stabilisasi Harga Pasar",
       "description": "Atur suplai dan rotasi barang agar harga toko Elaina tidak liar.",
@@ -4782,7 +4782,7 @@
       "roleName": "Pedagang"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pedagang_contract",
       "title": "Rotasi Logistik Pasar",
       "description": "Semua etalase perlu distabilkan sebelum jam ramai.",
@@ -4859,18 +4859,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -4882,7 +4882,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -4959,18 +4959,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -4982,7 +4982,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -5059,18 +5059,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -5082,7 +5082,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -5159,18 +5159,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -5182,7 +5182,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -5259,18 +5259,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -5282,7 +5282,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -5359,18 +5359,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Uji Sistem Arena",
       "description": "Bantu mengetes sirkulasi event dan jaga traffic bot tetap hidup.",
@@ -5382,7 +5382,7 @@
       "roleName": "Player"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "player_contract",
       "title": "Event Showcase Arena",
       "description": "Arena ramai dan butuh item pendukung untuk event.",
@@ -5459,18 +5459,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -5482,7 +5482,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -5559,18 +5559,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -5582,7 +5582,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -5659,18 +5659,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Stabilisasi Harga Pasar",
       "description": "Atur suplai dan rotasi barang agar harga toko Elaina tidak liar.",
@@ -5682,7 +5682,7 @@
       "roleName": "Pedagang"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pedagang_contract",
       "title": "Rotasi Logistik Pasar",
       "description": "Semua etalase perlu distabilkan sebelum jam ramai.",
@@ -5759,7 +5759,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "premium_buy",
       "title": "Investor VIP",
       "description": "Beli premium virtual sebanyak 1 kali.",
@@ -5770,7 +5770,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Hasil Peternakan",
       "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
@@ -5782,7 +5782,7 @@
       "roleName": "Peternak"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peternak_contract",
       "title": "Pasokan Kandang",
       "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
@@ -5859,18 +5859,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -5882,7 +5882,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -5959,18 +5959,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Servis Alat Produksi",
       "description": "Pastikan pickaxe, rod, dan workshop tetap siap dipakai semua profesi lapangan.",
@@ -5982,7 +5982,7 @@
       "roleName": "Teknisi"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "teknisi_contract",
       "title": "Servis Workshop Massal",
       "description": "Workshop perlu teknisi untuk menstabilkan produksi gear.",
@@ -6059,18 +6059,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -6082,7 +6082,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -6159,18 +6159,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -6182,7 +6182,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -6259,18 +6259,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -6282,7 +6282,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -6359,18 +6359,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -6382,7 +6382,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -6459,18 +6459,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -6482,7 +6482,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -6559,18 +6559,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -6582,7 +6582,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -6659,18 +6659,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -6682,7 +6682,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -6759,18 +6759,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -6782,7 +6782,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -6859,18 +6859,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -6882,7 +6882,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -6959,18 +6959,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Bahan Organik",
       "description": "Panen bahan organik untuk umpan, pakan, dan suplai pasar harian.",
@@ -6982,7 +6982,7 @@
       "roleName": "Petani"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "petani_contract",
       "title": "Pasokan Bahan Organik",
       "description": "Pasar butuh bahan segar untuk umpan dan ramuan.",
@@ -7059,18 +7059,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Servis Alat Produksi",
       "description": "Pastikan pickaxe, rod, dan workshop tetap siap dipakai semua profesi lapangan.",
@@ -7082,7 +7082,7 @@
       "roleName": "Teknisi"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "teknisi_contract",
       "title": "Servis Workshop Massal",
       "description": "Workshop perlu teknisi untuk menstabilkan produksi gear.",
@@ -7159,18 +7159,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -7182,7 +7182,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -7259,18 +7259,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -7282,7 +7282,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -7359,18 +7359,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Tempa Gear Harian",
       "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
@@ -7382,7 +7382,7 @@
       "roleName": "Penempa"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penempa_contract",
       "title": "Pesanan Gear Lapangan",
       "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
@@ -7459,18 +7459,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -7482,7 +7482,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -7559,18 +7559,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -7582,7 +7582,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -7659,7 +7659,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "premium_buy",
       "title": "Investor VIP",
       "description": "Beli premium virtual sebanyak 1 kali.",
@@ -7670,7 +7670,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Hasil Peternakan",
       "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
@@ -7682,7 +7682,7 @@
       "roleName": "Peternak"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peternak_contract",
       "title": "Pasokan Kandang",
       "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
@@ -7759,18 +7759,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -7782,7 +7782,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -7859,7 +7859,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "daily_claim",
       "title": "Disiplin Klaim",
       "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
@@ -7870,7 +7870,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -7882,7 +7882,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -7959,18 +7959,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -7982,7 +7982,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -8059,18 +8059,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -8082,7 +8082,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -8159,18 +8159,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -8182,7 +8182,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -8259,18 +8259,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Bahan Organik",
       "description": "Panen bahan organik untuk umpan, pakan, dan suplai pasar harian.",
@@ -8282,7 +8282,7 @@
       "roleName": "Petani"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "petani_contract",
       "title": "Pasokan Bahan Organik",
       "description": "Pasar butuh bahan segar untuk umpan dan ramuan.",
@@ -8361,18 +8361,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -8384,7 +8384,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -8538,18 +8538,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -8561,7 +8561,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -8638,18 +8638,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Rakit Umpan Produksi",
       "description": "Olah bahan organik, sisa laut, dan stok pasar jadi umpan siap pakai untuk nelayan.",
@@ -8661,7 +8661,7 @@
       "roleName": "Peracik Umpan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peracik_umpan_contract",
       "title": "Batch Umpan Besar",
       "description": "Nelayan minta stok umpan cadangan untuk trip panjang.",
@@ -8738,18 +8738,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -8761,7 +8761,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -8876,18 +8876,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Rakit Umpan Produksi",
       "description": "Olah bahan organik, sisa laut, dan stok pasar jadi umpan siap pakai untuk nelayan.",
@@ -8899,7 +8899,7 @@
       "roleName": "Peracik Umpan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peracik_umpan_contract",
       "title": "Batch Umpan Besar",
       "description": "Nelayan minta stok umpan cadangan untuk trip panjang.",
@@ -9032,18 +9032,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -9055,7 +9055,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -9132,18 +9132,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -9155,7 +9155,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -9232,18 +9232,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -9255,7 +9255,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -9332,7 +9332,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "job_task",
       "title": "Shift Profesi",
       "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
@@ -9343,7 +9343,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -9355,7 +9355,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -9471,7 +9471,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "fishing",
       "title": "Mancing Santai",
       "description": "Lakukan *.fishing* sebanyak 4 kali.",
@@ -9482,7 +9482,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Servis Alat Produksi",
       "description": "Pastikan pickaxe, rod, dan workshop tetap siap dipakai semua profesi lapangan.",
@@ -9494,7 +9494,7 @@
       "roleName": "Teknisi"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "teknisi_contract",
       "title": "Servis Workshop Massal",
       "description": "Workshop perlu teknisi untuk menstabilkan produksi gear.",
@@ -9571,18 +9571,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -9594,7 +9594,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -9671,18 +9671,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -9694,7 +9694,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -9771,18 +9771,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Hasil Peternakan",
       "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
@@ -9794,7 +9794,7 @@
       "roleName": "Peternak"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peternak_contract",
       "title": "Pasokan Kandang",
       "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
@@ -9871,18 +9871,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -9894,7 +9894,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -9971,18 +9971,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Stabilisasi Harga Pasar",
       "description": "Atur suplai dan rotasi barang agar harga toko Elaina tidak liar.",
@@ -9994,7 +9994,7 @@
       "roleName": "Pedagang"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pedagang_contract",
       "title": "Rotasi Logistik Pasar",
       "description": "Semua etalase perlu distabilkan sebelum jam ramai.",
@@ -10071,18 +10071,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "shop_purchase",
-      "title": "Belanja Harian",
-      "description": "Belanja item bot sebanyak 2 kali.",
-      "target": 2,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1000,
-      "rewardExp": 16,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Bahan Organik",
       "description": "Panen bahan organik untuk umpan, pakan, dan suplai pasar harian.",
@@ -10094,7 +10094,7 @@
       "roleName": "Petani"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "petani_contract",
       "title": "Pasokan Bahan Organik",
       "description": "Pasar butuh bahan segar untuk umpan dan ramuan.",
@@ -10171,7 +10171,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "job_task",
       "title": "Shift Profesi",
       "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
@@ -10182,7 +10182,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -10194,7 +10194,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -10271,18 +10271,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -10294,7 +10294,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -10371,18 +10371,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Uji Sistem Arena",
       "description": "Bantu mengetes sirkulasi event dan jaga traffic bot tetap hidup.",
@@ -10394,7 +10394,7 @@
       "roleName": "Player"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "player_contract",
       "title": "Event Showcase Arena",
       "description": "Arena ramai dan butuh item pendukung untuk event.",
@@ -10471,18 +10471,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -10494,7 +10494,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -10538,18 +10538,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Stabilisasi Harga Pasar",
       "description": "Atur suplai dan rotasi barang agar harga toko Elaina tidak liar.",
@@ -10561,7 +10561,7 @@
       "roleName": "Pedagang"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pedagang_contract",
       "title": "Rotasi Logistik Pasar",
       "description": "Semua etalase perlu distabilkan sebelum jam ramai.",
@@ -10638,18 +10638,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Hasil Peternakan",
       "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
@@ -10661,7 +10661,7 @@
       "roleName": "Peternak"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peternak_contract",
       "title": "Pasokan Kandang",
       "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
@@ -10738,7 +10738,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "job_task",
       "title": "Shift Profesi",
       "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
@@ -10749,7 +10749,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buru Material Liar",
       "description": "Cari bahan kasar buat workshop dan ramuan tempur.",
@@ -10761,7 +10761,7 @@
       "roleName": "Pemburu"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pemburu_contract",
       "title": "Bahan Liar Kontrak",
       "description": "Pemburu diminta menyetor material liar buat workshop.",
@@ -10838,18 +10838,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -10861,7 +10861,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -10938,7 +10938,7 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "shop_purchase",
       "title": "Belanja Harian",
       "description": "Belanja item bot sebanyak 2 kali.",
@@ -10949,7 +10949,7 @@
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -10961,7 +10961,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -11038,18 +11038,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -11061,7 +11061,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -11138,18 +11138,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -11161,7 +11161,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -11238,18 +11238,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Stabilisasi Harga Pasar",
       "description": "Atur suplai dan rotasi barang agar harga toko Elaina tidak liar.",
@@ -11261,7 +11261,7 @@
       "roleName": "Pedagang"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "pedagang_contract",
       "title": "Rotasi Logistik Pasar",
       "description": "Semua etalase perlu distabilkan sebelum jam ramai.",
@@ -11338,18 +11338,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Olah Hasil Laut Pasar",
       "description": "Ubah tangkapan nelayan jadi stok konsumsi dan suplai pasar yang lebih bernilai.",
@@ -11361,7 +11361,7 @@
       "roleName": "Koki Laut"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "koki_laut_contract",
       "title": "Pesanan Olahan Laut",
       "description": "Pasar minta olahan ikan bernilai tinggi untuk ramai pengunjung.",
@@ -11405,18 +11405,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "dayKey": 20260716,
+      "key": "daily_claim",
+      "title": "Disiplin Klaim",
+      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 900,
+      "rewardExp": 14,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Uji Sistem Arena",
       "description": "Bantu mengetes sirkulasi event dan jaga traffic bot tetap hidup.",
@@ -11428,7 +11428,7 @@
       "roleName": "Player"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "player_contract",
       "title": "Event Showcase Arena",
       "description": "Arena ramai dan butuh item pendukung untuk event.",
@@ -11505,18 +11505,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Bahan Organik",
       "description": "Panen bahan organik untuk umpan, pakan, dan suplai pasar harian.",
@@ -11528,7 +11528,7 @@
       "roleName": "Petani"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "petani_contract",
       "title": "Pasokan Bahan Organik",
       "description": "Pasar butuh bahan segar untuk umpan dan ramuan.",
@@ -11605,18 +11605,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Uji Sistem Arena",
       "description": "Bantu mengetes sirkulasi event dan jaga traffic bot tetap hidup.",
@@ -11628,7 +11628,7 @@
       "roleName": "Player"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "player_contract",
       "title": "Event Showcase Arena",
       "description": "Arena ramai dan butuh item pendukung untuk event.",
@@ -11705,18 +11705,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Bijih Tambang",
       "description": "Kirim hasil galian ke gudang Elaina supaya stok ore tetap hidup buat role lain.",
@@ -11728,7 +11728,7 @@
       "roleName": "Miner"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "miner_contract",
       "title": "Suplai Ore Darurat",
       "description": "Gudang minta ore tambahan buat bengkel dan teknisi.",
@@ -11805,18 +11805,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Buka Jalur Distribusi",
       "description": "Temukan jalur baru supaya logistik toko Elaina tetap lancar.",
@@ -11828,7 +11828,7 @@
       "roleName": "Penjelajah"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "penjelajah_contract",
       "title": "Jalur Distribusi Baru",
       "description": "Cari jalur logistik baru supaya kontrak pasar lancar.",
@@ -11905,18 +11905,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -11928,7 +11928,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -11972,18 +11972,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "job_task",
-      "title": "Shift Profesi",
-      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
       "progress": 0,
-      "rewardCoin": 1500,
-      "rewardExp": 24,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Hasil Peternakan",
       "description": "Kirim hasil kandang untuk menjaga rantai suplai pasar tetap aman.",
@@ -11995,7 +11995,7 @@
       "roleName": "Peternak"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "peternak_contract",
       "title": "Pasokan Kandang",
       "description": "Kandang diminta menyuplai bahan untuk pakan dan pasar.",
@@ -12039,18 +12039,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "premium_buy",
-      "title": "Investor VIP",
-      "description": "Beli premium virtual sebanyak 1 kali.",
-      "target": 1,
+      "dayKey": 20260716,
+      "key": "shop_purchase",
+      "title": "Belanja Harian",
+      "description": "Belanja item bot sebanyak 2 kali.",
+      "target": 2,
       "progress": 0,
-      "rewardCoin": 1750,
-      "rewardExp": 30,
+      "rewardCoin": 1000,
+      "rewardExp": 16,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Distribusi Obat & Ramuan",
       "description": "Kemas ramuan dari alkemis lalu salurkan ke rak obat agar stok potion stabil.",
@@ -12062,7 +12062,7 @@
       "roleName": "Apoteker"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "apoteker_contract",
       "title": "Distribusi Obat Kota",
       "description": "Obat dan ramuan perlu segera diantar ke etalase.",
@@ -12106,18 +12106,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "fishing",
-      "title": "Mancing Santai",
-      "description": "Lakukan *.fishing* sebanyak 4 kali.",
-      "target": 4,
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
+      "target": 1,
       "progress": 0,
-      "rewardCoin": 1200,
-      "rewardExp": 18,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -12129,7 +12129,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
@@ -12206,18 +12206,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Racik Ramuan Pasar",
       "description": "Buat potion dan bahan kimia supaya stok ramuan tidak kosong.",
@@ -12229,7 +12229,7 @@
       "roleName": "Alkemis"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "alkemis_contract",
       "title": "Racikan Darurat",
       "description": "Rak potion hampir kosong, laboratorium minta batch cepat.",
@@ -12273,18 +12273,18 @@
     "roleReputation": 0,
     "contractDoneTotal": 0,
     "dailyMission": {
-      "dayKey": 20260715,
-      "key": "daily_claim",
-      "title": "Disiplin Klaim",
-      "description": "Klaim hadiah harian dengan *.claim* atau *.daily-rpg*.",
+      "dayKey": 20260716,
+      "key": "premium_buy",
+      "title": "Investor VIP",
+      "description": "Beli premium virtual sebanyak 1 kali.",
       "target": 1,
       "progress": 0,
-      "rewardCoin": 900,
-      "rewardExp": 14,
+      "rewardCoin": 1750,
+      "rewardExp": 30,
       "claimed": false
     },
     "accessMission": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "role_duty",
       "title": "Setor Tangkapan Segar",
       "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
@@ -12296,7 +12296,7 @@
       "roleName": "Nelayan"
     },
     "marketContract": {
-      "dayKey": 20260715,
+      "dayKey": 20260716,
       "key": "nelayan_contract",
       "title": "Kontrak Dermaga Pagi",
       "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
