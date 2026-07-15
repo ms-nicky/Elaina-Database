@@ -287,7 +287,7 @@
   "6281252888128@s.whatsapp.net": {
     "name": "𝕄𝕣 斯图克斯",
     "coin": 54000,
-    "exp": 50,
+    "exp": 59,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -368,8 +368,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1782491911406,
-    "interactionCount": 13,
+    "lastInteractionGain": 1784108172526,
+    "interactionCount": 14,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
@@ -12074,5 +12074,105 @@
       "completed": false,
       "claimedAt": 0
     }
+  },
+  "628213930548@s.whatsapp.net": {
+    "name": "◜⁠‿⁠◝⁠",
+    "coin": 50000,
+    "exp": 9,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    },
+    "roleKey": "nelayan",
+    "roleName": "Nelayan",
+    "roleIcon": "🎣",
+    "roleAssignedAt": 1784108143405,
+    "jobCooldown": 0,
+    "jobDoneTotal": 0,
+    "shopSpentTotal": 0,
+    "premiumSpentTotal": 0,
+    "adminFeePaidTotal": 0,
+    "missionClaimedTotal": 0,
+    "roleDutyDayKey": "",
+    "roleDutyTotal": 0,
+    "roleExp": 0,
+    "roleReputation": 0,
+    "contractDoneTotal": 0,
+    "dailyMission": {
+      "dayKey": 20260715,
+      "key": "fishing",
+      "title": "Mancing Santai",
+      "description": "Lakukan *.fishing* sebanyak 4 kali.",
+      "target": 4,
+      "progress": 0,
+      "rewardCoin": 1200,
+      "rewardExp": 18,
+      "claimed": false
+    },
+    "accessMission": {
+      "dayKey": 20260715,
+      "key": "role_duty",
+      "title": "Setor Tangkapan Segar",
+      "description": "Isi etalase toko ikan dengan hasil laut supaya pasar tetap ramai.",
+      "target": 1,
+      "progress": 0,
+      "completed": false,
+      "completedAt": 0,
+      "roleKey": "nelayan",
+      "roleName": "Nelayan"
+    },
+    "marketContract": {
+      "dayKey": 20260715,
+      "key": "nelayan_contract",
+      "title": "Kontrak Dermaga Pagi",
+      "description": "Dermaga minta hasil tangkapan cepat untuk isi toko ikan.",
+      "stockKey": "fish",
+      "stockGain": 24,
+      "rewardCoin": 1320,
+      "rewardExp": 20,
+      "reputationGain": 8,
+      "completed": false,
+      "claimedAt": 0
+    },
+    "fishing": {
+      "level": 1,
+      "exp": 0,
+      "bait": 0,
+      "rod": "bambu",
+      "rods": {
+        "bambu": true
+      },
+      "bag": {},
+      "lastClaim": 0,
+      "lastFishing": 0,
+      "totalCatch": 0,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
+    },
+    "lastInteractionGain": 1784108152117,
+    "interactionCount": 1,
+    "levelUpRewardTotal": 0,
+    "loan": 0,
+    "lastInterest": 0,
+    "lastHeist": 0,
+    "transferDay": 0,
+    "transferUsed": 0,
+    "insurance": false,
+    "bankLog": [],
+    "deposit": {
+      "amount": 0,
+      "until": 0
+    },
+    "escrow": null
   }
 }
