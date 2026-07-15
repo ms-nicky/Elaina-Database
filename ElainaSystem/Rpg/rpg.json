@@ -7631,7 +7631,7 @@
   "6285828196794@s.whatsapp.net": {
     "name": "사프트리",
     "coin": 50000,
-    "exp": 18,
+    "exp": 32,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -7712,8 +7712,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1781510776947,
-    "interactionCount": 2,
+    "lastInteractionGain": 1784130328052,
+    "interactionCount": 3,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
