@@ -1165,7 +1165,7 @@
   "6285194779377@s.whatsapp.net": {
     "name": "𖣂Fanz𖣂",
     "coin": 59500,
-    "exp": 166,
+    "exp": 179,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1246,8 +1246,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783952779522,
-    "interactionCount": 38,
+    "lastInteractionGain": 1784233337772,
+    "interactionCount": 39,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
