@@ -11110,7 +11110,7 @@
   "6283105297108@s.whatsapp.net": {
     "name": "Jarrzz preset👏🏻",
     "coin": 50000,
-    "exp": 31,
+    "exp": 54,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -11191,8 +11191,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783386427428,
-    "interactionCount": 3,
+    "lastInteractionGain": 1784158368015,
+    "interactionCount": 5,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
