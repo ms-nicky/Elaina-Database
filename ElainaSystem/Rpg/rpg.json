@@ -12308,5 +12308,105 @@
       "completed": false,
       "claimedAt": 0
     }
+  },
+  "628889614908@s.whatsapp.net": {
+    "name": "𝐒𝐮𝐤𝐮𝐧𝐚 𝐇𝐨𝐭 𝐛𝐨𝐲 🥵🔞",
+    "coin": 50000,
+    "exp": 12,
+    "level": 1,
+    "inv": [],
+    "weapon": "",
+    "armor": "",
+    "bank": 0,
+    "dailyCooldown": 0,
+    "workCooldown": 0,
+    "huntCooldown": 0,
+    "quest": {
+      "dailyDone": false
+    },
+    "roleKey": "penempa",
+    "roleName": "Penempa",
+    "roleIcon": "⚒️",
+    "roleAssignedAt": 1784248901634,
+    "jobCooldown": 0,
+    "jobDoneTotal": 0,
+    "shopSpentTotal": 0,
+    "premiumSpentTotal": 0,
+    "adminFeePaidTotal": 0,
+    "missionClaimedTotal": 0,
+    "roleDutyDayKey": "",
+    "roleDutyTotal": 0,
+    "roleExp": 0,
+    "roleReputation": 0,
+    "contractDoneTotal": 0,
+    "dailyMission": {
+      "dayKey": 20260717,
+      "key": "job_task",
+      "title": "Shift Profesi",
+      "description": "Selesaikan *.job kerja* sebanyak 1 kali.",
+      "target": 1,
+      "progress": 0,
+      "rewardCoin": 1500,
+      "rewardExp": 24,
+      "claimed": false
+    },
+    "accessMission": {
+      "dayKey": 20260717,
+      "key": "role_duty",
+      "title": "Tempa Gear Harian",
+      "description": "Bantu bengkel menyiapkan gear baru dari bahan tambang yang tersedia.",
+      "target": 1,
+      "progress": 0,
+      "completed": false,
+      "completedAt": 0,
+      "roleKey": "penempa",
+      "roleName": "Penempa"
+    },
+    "marketContract": {
+      "dayKey": 20260717,
+      "key": "penempa_contract",
+      "title": "Pesanan Gear Lapangan",
+      "description": "Ekspedisi minta perlengkapan baru untuk role tempur.",
+      "stockKey": "gear",
+      "stockGain": 18,
+      "rewardCoin": 1420,
+      "rewardExp": 21,
+      "reputationGain": 8,
+      "completed": false,
+      "claimedAt": 0
+    },
+    "fishing": {
+      "level": 1,
+      "exp": 0,
+      "bait": 0,
+      "rod": "bambu",
+      "rods": {
+        "bambu": true
+      },
+      "bag": {},
+      "lastClaim": 0,
+      "lastFishing": 0,
+      "totalCatch": 0,
+      "afkStart": 0,
+      "afkEnd": 0,
+      "afkRod": "",
+      "afkChat": "",
+      "afkMinutes": 5
+    },
+    "lastInteractionGain": 1784248918056,
+    "interactionCount": 1,
+    "levelUpRewardTotal": 0,
+    "loan": 0,
+    "lastInterest": 0,
+    "lastHeist": 0,
+    "transferDay": 0,
+    "transferUsed": 0,
+    "insurance": false,
+    "bankLog": [],
+    "deposit": {
+      "amount": 0,
+      "until": 0
+    },
+    "escrow": null
   }
 }
