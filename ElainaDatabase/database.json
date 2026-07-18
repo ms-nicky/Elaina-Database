@@ -34098,6 +34098,16 @@
       "bank": 0,
       "roleKey": "penempa",
       "roleName": "Penempa"
+    },
+    "256569098948634@lid": {
+      "limit": 10,
+      "exp": 0,
+      "coin": 50000,
+      "joined": false,
+      "joinedAt": 0,
+      "interactionCount": 0,
+      "lastInteractionGain": 0,
+      "levelUpRewardTotal": 0
     }
   },
   "chats": {
@@ -34257,7 +34267,7 @@
     },
     "6285649689059@s.whatsapp.net": {
       "totalChat": {
-        "6285649689059@s.whatsapp.net": 419
+        "6285649689059@s.whatsapp.net": 420
       },
       "antibot": false,
       "antiviewonce": false,
@@ -35827,7 +35837,7 @@
         "628891761298@s.whatsapp.net": 202,
         "62895326690149@s.whatsapp.net": 36,
         "6289529543269@s.whatsapp.net": 26,
-        "6281295987010@s.whatsapp.net": 47,
+        "6281295987010@s.whatsapp.net": 48,
         "6283163084371@s.whatsapp.net": 32,
         "6285704650997@s.whatsapp.net": 2,
         "6289601714351@s.whatsapp.net": 33,
@@ -37163,7 +37173,7 @@
         "6283891971749@s.whatsapp.net": 25,
         "6288279382015@s.whatsapp.net": 19,
         "6285840014050@s.whatsapp.net": 86,
-        "6289528236848@s.whatsapp.net": 75,
+        "6289528236848@s.whatsapp.net": 76,
         "6285161059085@s.whatsapp.net": 1,
         "62881010712251@s.whatsapp.net": 14,
         "6285921480715@s.whatsapp.net": 26,
@@ -39915,6 +39925,27 @@
     "6287785450468@s.whatsapp.net": {
       "totalChat": {
         "6287785450468@s.whatsapp.net": 2
+      },
+      "antibot": false,
+      "antiviewonce": false,
+      "media": false,
+      "antiimage": false,
+      "video": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "anticontact": false,
+      "antilocation": false,
+      "antidocument": false,
+      "antilinkgc": false,
+      "antilinkkick": false,
+      "antipromotion": false,
+      "sholatwib": false,
+      "sholatwibLast": ""
+    },
+    "256569098948634@lid": {
+      "totalChat": {
+        "256569098948634@lid": 1
       },
       "antibot": false,
       "antiviewonce": false,
