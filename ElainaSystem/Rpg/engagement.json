@@ -1339,7 +1339,7 @@
         "label": "Chat",
         "icon": "💬",
         "target": 10,
-        "progress": 1,
+        "progress": 3,
         "done": false
       },
       {
@@ -1357,7 +1357,7 @@
     "questSnapshot": {
       "mining": 0,
       "fishing": 0,
-      "chat": 3,
+      "chat": 5,
       "game": 0
     }
   }
