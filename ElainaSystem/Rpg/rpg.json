@@ -287,7 +287,7 @@
   "6281252888128@s.whatsapp.net": {
     "name": "𝕄𝕣 斯图克斯",
     "coin": 54000,
-    "exp": 72,
+    "exp": 101,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -368,8 +368,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1784113718914,
-    "interactionCount": 15,
+    "lastInteractionGain": 1784430725282,
+    "interactionCount": 18,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
