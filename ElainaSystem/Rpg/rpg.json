@@ -1165,7 +1165,7 @@
   "6285194779377@s.whatsapp.net": {
     "name": "𖣂Fanz𖣂",
     "coin": 59500,
-    "exp": 179,
+    "exp": 202,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1246,8 +1246,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1784233337772,
-    "interactionCount": 39,
+    "lastInteractionGain": 1784448798375,
+    "interactionCount": 41,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -3685,7 +3685,7 @@
   "6285739228579@s.whatsapp.net": {
     "name": "dwii",
     "coin": 50000,
-    "exp": 66,
+    "exp": 77,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -3766,8 +3766,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1784378129254,
-    "interactionCount": 5,
+    "lastInteractionGain": 1784447755622,
+    "interactionCount": 6,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
@@ -7631,7 +7631,7 @@
   "6285828196794@s.whatsapp.net": {
     "name": "사프트리",
     "coin": 50000,
-    "exp": 32,
+    "exp": 47,
     "level": 1,
     "inv": [],
     "weapon": "",
@@ -7712,8 +7712,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1784130328052,
-    "interactionCount": 3,
+    "lastInteractionGain": 1784447297553,
+    "interactionCount": 4,
     "levelUpRewardTotal": 0,
     "loan": 0,
     "lastInterest": 0,
