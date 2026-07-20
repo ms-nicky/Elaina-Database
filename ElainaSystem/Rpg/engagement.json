@@ -487,8 +487,8 @@
         "label": "Chat",
         "icon": "💬",
         "target": 3,
-        "progress": 1,
-        "done": false
+        "progress": 3,
+        "done": true
       },
       {
         "key": "game",
@@ -519,7 +519,7 @@
     "questCompletedAt": 0,
     "questRewardClaimed": false,
     "questSnapshot": {
-      "chat": 38,
+      "chat": 41,
       "game": 0,
       "fishing": 0,
       "mining": 0

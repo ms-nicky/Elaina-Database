@@ -1368,8 +1368,8 @@
   },
   "6282310296739@s.whatsapp.net": {
     "name": "₴​ꫀ𝘳ꪶꪖ​ꪀ-⛧⃝+𓄃",
-    "coin": 116400,
-    "exp": 200,
+    "coin": 123300,
+    "exp": 239,
     "level": 3,
     "inv": [
       "potion",
@@ -1438,14 +1438,14 @@
     },
     "fishing": {
       "level": 1,
-      "exp": 27,
-      "bait": 17,
+      "exp": 42,
+      "bait": 23,
       "rod": "bambu",
       "rods": {
         "bambu": true
       },
       "bag": {},
-      "lastClaim": 1784502538757,
+      "lastClaim": 1784550400631,
       "lastFishing": 0,
       "totalCatch": 0,
       "afkStart": 0,
@@ -1454,8 +1454,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1784502537492,
-    "interactionCount": 37,
+    "lastInteractionGain": 1784552726064,
+    "interactionCount": 40,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
