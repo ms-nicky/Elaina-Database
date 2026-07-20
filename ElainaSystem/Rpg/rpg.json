@@ -1165,7 +1165,7 @@
   "6285194779377@s.whatsapp.net": {
     "name": "𖣂Fanz𖣂",
     "coin": 59500,
-    "exp": 229,
+    "exp": 237,
     "level": 3,
     "inv": [],
     "weapon": "",
@@ -1246,8 +1246,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1784573432700,
-    "interactionCount": 43,
+    "lastInteractionGain": 1784575639664,
+    "interactionCount": 44,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
@@ -1265,7 +1265,7 @@
   "6288211836684@s.whatsapp.net": {
     "name": "RANDI 🪷",
     "coin": 57600,
-    "exp": 17,
+    "exp": 46,
     "level": 2,
     "inv": [],
     "weapon": "",
@@ -1350,8 +1350,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1783914599180,
-    "interactionCount": 10,
+    "lastInteractionGain": 1784577268708,
+    "interactionCount": 12,
     "levelUpRewardTotal": 4000,
     "loan": 0,
     "lastInterest": 0,
