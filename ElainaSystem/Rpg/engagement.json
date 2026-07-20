@@ -46,7 +46,7 @@
     }
   },
   "628211594701@s.whatsapp.net": {
-    "questDay": "20260716",
+    "questDay": "20260720",
     "quests": [
       {
         "key": "mining",
@@ -57,11 +57,11 @@
         "done": false
       },
       {
-        "key": "chat",
-        "label": "Chat",
-        "icon": "💬",
+        "key": "fishing",
+        "label": "Fishing",
+        "icon": "🎣",
         "target": 5,
-        "progress": 2,
+        "progress": 0,
         "done": false
       },
       {
@@ -86,7 +86,7 @@
     "questRewardClaimed": false,
     "questSnapshot": {
       "mining": 0,
-      "chat": 73,
+      "fishing": 0,
       "game": 0,
       "work": 0
     }
@@ -1316,36 +1316,36 @@
     }
   },
   "628889614908@s.whatsapp.net": {
-    "questDay": "20260719",
+    "questDay": "20260720",
     "quests": [
+      {
+        "key": "work",
+        "label": "Bekerja",
+        "icon": "💼",
+        "target": 3,
+        "progress": 0,
+        "done": false
+      },
       {
         "key": "game",
         "label": "Menang Game",
         "icon": "🎮",
-        "target": 3,
+        "target": 5,
         "progress": 0,
+        "done": false
+      },
+      {
+        "key": "chat",
+        "label": "Chat",
+        "icon": "💬",
+        "target": 10,
+        "progress": 5,
         "done": false
       },
       {
         "key": "fishing",
         "label": "Fishing",
         "icon": "🎣",
-        "target": 5,
-        "progress": 0,
-        "done": false
-      },
-      {
-        "key": "mining",
-        "label": "Mining",
-        "icon": "⛏️",
-        "target": 10,
-        "progress": 0,
-        "done": false
-      },
-      {
-        "key": "work",
-        "label": "Bekerja",
-        "icon": "💼",
         "target": 20,
         "progress": 0,
         "done": false
@@ -1355,10 +1355,10 @@
     "questCompletedAt": 0,
     "questRewardClaimed": false,
     "questSnapshot": {
+      "work": 0,
       "game": 0,
-      "fishing": 0,
-      "mining": 0,
-      "work": 0
+      "chat": 5,
+      "fishing": 0
     }
   }
 }
