@@ -1368,16 +1368,18 @@
   },
   "6282310296739@s.whatsapp.net": {
     "name": "₴​ꫀ𝘳ꪶꪖ​ꪀ-⛧⃝+𓄃",
-    "coin": 88000,
-    "exp": 156,
+    "coin": 116400,
+    "exp": 200,
     "level": 3,
     "inv": [
+      "potion",
+      "potion",
       "potion"
     ],
     "weapon": "",
     "armor": "",
     "bank": 0,
-    "dailyCooldown": 1783207193563,
+    "dailyCooldown": 1784502538757,
     "workCooldown": 0,
     "huntCooldown": 0,
     "quest": {
@@ -1436,14 +1438,14 @@
     },
     "fishing": {
       "level": 1,
-      "exp": 14,
-      "bait": 9,
+      "exp": 27,
+      "bait": 17,
       "rod": "bambu",
       "rods": {
         "bambu": true
       },
       "bag": {},
-      "lastClaim": 1783207193563,
+      "lastClaim": 1784502538757,
       "lastFishing": 0,
       "totalCatch": 0,
       "afkStart": 0,
@@ -1452,8 +1454,8 @@
       "afkChat": "",
       "afkMinutes": 5
     },
-    "lastInteractionGain": 1784326764348,
-    "interactionCount": 36,
+    "lastInteractionGain": 1784502537492,
+    "interactionCount": 37,
     "levelUpRewardTotal": 9500,
     "loan": 0,
     "lastInterest": 0,
